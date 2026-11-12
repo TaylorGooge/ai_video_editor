@@ -1,0 +1,12 @@
+TITLE
+I clicked post once. My app deleted everything.
+
+DESCRIPTION
+No hacker, no typo. This app kept every post in one database row, so a single bad save wiped the whole board. The fix: give every post its own row.
+
+Full fix: https://youtu.be/4x5w0DcKOPw
+
+#supabase #vibecoding #appsecurity
+
+RELATED VIDEO (set in YouTube Studio)
+One Bad Save Deleted My Entire App - https://youtu.be/4x5w0DcKOPw

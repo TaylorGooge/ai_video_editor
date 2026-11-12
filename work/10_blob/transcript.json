@@ -1,0 +1,5576 @@
+{
+ "model": "small.en",
+ "duration": 427.0333125,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.86,
+   "text": "This app had 20 posts from five users.",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 0.22,
+     "word": " This"
+    },
+    {
+     "start": 0.22,
+     "end": 0.52,
+     "word": " app"
+    },
+    {
+     "start": 0.52,
+     "end": 0.8,
+     "word": " had"
+    },
+    {
+     "start": 0.8,
+     "end": 1.22,
+     "word": " 20"
+    },
+    {
+     "start": 1.22,
+     "end": 1.64,
+     "word": " posts"
+    },
+    {
+     "start": 1.64,
+     "end": 2.02,
+     "word": " from"
+    },
+    {
+     "start": 2.02,
+     "end": 2.38,
+     "word": " five"
+    },
+    {
+     "start": 2.38,
+     "end": 2.86,
+     "word": " users."
+    }
+   ]
+  },
+  {
+   "start": 6.16,
+   "end": 8.84,
+   "text": "I clicked post once. Now it has zero.",
+   "words": [
+    {
+     "start": 6.16,
+     "end": 6.24,
+     "word": " I"
+    },
+    {
+     "start": 6.24,
+     "end": 6.54,
+     "word": " clicked"
+    },
+    {
+     "start": 6.54,
+     "end": 6.88,
+     "word": " post"
+    },
+    {
+     "start": 6.88,
+     "end": 7.4,
+     "word": " once."
+    },
+    {
+     "start": 7.98,
+     "end": 8.22,
+     "word": " Now"
+    },
+    {
+     "start": 8.22,
+     "end": 8.36,
+     "word": " it"
+    },
+    {
+     "start": 8.36,
+     "end": 8.56,
+     "word": " has"
+    },
+    {
+     "start": 8.56,
+     "end": 8.84,
+     "word": " zero."
+    }
+   ]
+  },
+  {
+   "start": 9.3,
+   "end": 11.64,
+   "text": "It wasn't a hacker and nobody broke in.",
+   "words": [
+    {
+     "start": 9.3,
+     "end": 9.4,
+     "word": " It"
+    },
+    {
+     "start": 9.4,
+     "end": 9.68,
+     "word": " wasn't"
+    },
+    {
+     "start": 9.68,
+     "end": 9.84,
+     "word": " a"
+    },
+    {
+     "start": 9.84,
+     "end": 10.16,
+     "word": " hacker"
+    },
+    {
+     "start": 10.16,
+     "end": 10.64,
+     "word": " and"
+    },
+    {
+     "start": 10.64,
+     "end": 10.98,
+     "word": " nobody"
+    },
+    {
+     "start": 10.98,
+     "end": 11.3,
+     "word": " broke"
+    },
+    {
+     "start": 11.3,
+     "end": 11.64,
+     "word": " in."
+    }
+   ]
+  },
+  {
+   "start": 12.1,
+   "end": 15.18,
+   "text": "The app deleted itself because of how it stores its data.",
+   "words": [
+    {
+     "start": 12.1,
+     "end": 12.2,
+     "word": " The"
+    },
+    {
+     "start": 12.2,
+     "end": 12.46,
+     "word": " app"
+    },
+    {
+     "start": 12.46,
+     "end": 12.9,
+     "word": " deleted"
+    },
+    {
+     "start": 12.9,
+     "end": 13.4,
+     "word": " itself"
+    },
+    {
+     "start": 13.4,
+     "end": 13.84,
+     "word": " because"
+    },
+    {
+     "start": 13.84,
+     "end": 14.0,
+     "word": " of"
+    },
+    {
+     "start": 14.0,
+     "end": 14.18,
+     "word": " how"
+    },
+    {
+     "start": 14.18,
+     "end": 14.3,
+     "word": " it"
+    },
+    {
+     "start": 14.3,
+     "end": 14.58,
+     "word": " stores"
+    },
+    {
+     "start": 14.58,
+     "end": 14.82,
+     "word": " its"
+    },
+    {
+     "start": 14.82,
+     "end": 15.18,
+     "word": " data."
+    }
+   ]
+  },
+  {
+   "start": 16.06,
+   "end": 17.1,
+   "text": "And while it was working,",
+   "words": [
+    {
+     "start": 16.06,
+     "end": 16.18,
+     "word": " And"
+    },
+    {
+     "start": 16.18,
+     "end": 16.36,
+     "word": " while"
+    },
+    {
+     "start": 16.36,
+     "end": 16.52,
+     "word": " it"
+    },
+    {
+     "start": 16.52,
+     "end": 16.64,
+     "word": " was"
+    },
+    {
+     "start": 16.64,
+     "end": 17.1,
+     "word": " working,"
+    }
+   ]
+  },
+  {
+   "start": 17.5,
+   "end": 21.06,
+   "text": "it was sending every user's phone number to anyone who signed up.",
+   "words": [
+    {
+     "start": 17.5,
+     "end": 17.6,
+     "word": " it"
+    },
+    {
+     "start": 17.6,
+     "end": 17.72,
+     "word": " was"
+    },
+    {
+     "start": 17.72,
+     "end": 17.98,
+     "word": " sending"
+    },
+    {
+     "start": 17.98,
+     "end": 18.5,
+     "word": " every"
+    },
+    {
+     "start": 18.5,
+     "end": 19.02,
+     "word": " user's"
+    },
+    {
+     "start": 19.02,
+     "end": 19.2,
+     "word": " phone"
+    },
+    {
+     "start": 19.2,
+     "end": 19.48,
+     "word": " number"
+    },
+    {
+     "start": 19.48,
+     "end": 19.76,
+     "word": " to"
+    },
+    {
+     "start": 19.76,
+     "end": 20.16,
+     "word": " anyone"
+    },
+    {
+     "start": 20.16,
+     "end": 20.52,
+     "word": " who"
+    },
+    {
+     "start": 20.52,
+     "end": 20.76,
+     "word": " signed"
+    },
+    {
+     "start": 20.76,
+     "end": 21.06,
+     "word": " up."
+    }
+   ]
+  },
+  {
+   "start": 21.3,
+   "end": 23.78,
+   "text": "This is a common pattern in apps built with AI,",
+   "words": [
+    {
+     "start": 21.3,
+     "end": 21.52,
+     "word": " This"
+    },
+    {
+     "start": 21.52,
+     "end": 21.64,
+     "word": " is"
+    },
+    {
+     "start": 21.64,
+     "end": 21.8,
+     "word": " a"
+    },
+    {
+     "start": 21.8,
+     "end": 22.12,
+     "word": " common"
+    },
+    {
+     "start": 22.12,
+     "end": 22.52,
+     "word": " pattern"
+    },
+    {
+     "start": 22.52,
+     "end": 22.72,
+     "word": " in"
+    },
+    {
+     "start": 22.72,
+     "end": 23.0,
+     "word": " apps"
+    },
+    {
+     "start": 23.0,
+     "end": 23.24,
+     "word": " built"
+    },
+    {
+     "start": 23.24,
+     "end": 23.44,
+     "word": " with"
+    },
+    {
+     "start": 23.44,
+     "end": 23.78,
+     "word": " AI,"
+    }
+   ]
+  },
+  {
+   "start": 24.18,
+   "end": 28.46,
+   "text": "and it's easy to miss because everything works right up until it doesn't.",
+   "words": [
+    {
+     "start": 24.18,
+     "end": 24.42,
+     "word": " and"
+    },
+    {
+     "start": 24.42,
+     "end": 24.62,
+     "word": " it's"
+    },
+    {
+     "start": 24.62,
+     "end": 24.82,
+     "word": " easy"
+    },
+    {
+     "start": 24.82,
+     "end": 25.02,
+     "word": " to"
+    },
+    {
+     "start": 25.02,
+     "end": 25.28,
+     "word": " miss"
+    },
+    {
+     "start": 25.28,
+     "end": 25.68,
+     "word": " because"
+    },
+    {
+     "start": 25.68,
+     "end": 26.16,
+     "word": " everything"
+    },
+    {
+     "start": 26.16,
+     "end": 26.68,
+     "word": " works"
+    },
+    {
+     "start": 26.68,
+     "end": 27.34,
+     "word": " right"
+    },
+    {
+     "start": 27.34,
+     "end": 27.5,
+     "word": " up"
+    },
+    {
+     "start": 27.5,
+     "end": 27.76,
+     "word": " until"
+    },
+    {
+     "start": 27.76,
+     "end": 27.94,
+     "word": " it"
+    },
+    {
+     "start": 27.94,
+     "end": 28.46,
+     "word": " doesn't."
+    }
+   ]
+  },
+  {
+   "start": 28.46,
+   "end": 31.68,
+   "text": "Here's how apps end up like this. You're building fast.",
+   "words": [
+    {
+     "start": 28.46,
+     "end": 28.98,
+     "word": " Here's"
+    },
+    {
+     "start": 28.98,
+     "end": 29.12,
+     "word": " how"
+    },
+    {
+     "start": 29.12,
+     "end": 29.46,
+     "word": " apps"
+    },
+    {
+     "start": 29.46,
+     "end": 29.72,
+     "word": " end"
+    },
+    {
+     "start": 29.72,
+     "end": 29.92,
+     "word": " up"
+    },
+    {
+     "start": 29.92,
+     "end": 30.14,
+     "word": " like"
+    },
+    {
+     "start": 30.14,
+     "end": 30.5,
+     "word": " this."
+    },
+    {
+     "start": 30.86,
+     "end": 31.0,
+     "word": " You're"
+    },
+    {
+     "start": 31.0,
+     "end": 31.24,
+     "word": " building"
+    },
+    {
+     "start": 31.24,
+     "end": 31.68,
+     "word": " fast."
+    }
+   ]
+  },
+  {
+   "start": 32.26,
+   "end": 33.68,
+   "text": "You don't have a database yet.",
+   "words": [
+    {
+     "start": 32.26,
+     "end": 32.38,
+     "word": " You"
+    },
+    {
+     "start": 32.38,
+     "end": 32.72,
+     "word": " don't"
+    },
+    {
+     "start": 32.72,
+     "end": 32.92,
+     "word": " have"
+    },
+    {
+     "start": 32.92,
+     "end": 33.04,
+     "word": " a"
+    },
+    {
+     "start": 33.04,
+     "end": 33.36,
+     "word": " database"
+    },
+    {
+     "start": 33.36,
+     "end": 33.68,
+     "word": " yet."
+    }
+   ]
+  },
+  {
+   "start": 34.3,
+   "end": 37.96,
+   "text": "So the app keeps everything in one big object saved in the browser.",
+   "words": [
+    {
+     "start": 34.3,
+     "end": 34.38,
+     "word": " So"
+    },
+    {
+     "start": 34.38,
+     "end": 34.6,
+     "word": " the"
+    },
+    {
+     "start": 34.6,
+     "end": 34.82,
+     "word": " app"
+    },
+    {
+     "start": 34.82,
+     "end": 35.08,
+     "word": " keeps"
+    },
+    {
+     "start": 35.08,
+     "end": 35.6,
+     "word": " everything"
+    },
+    {
+     "start": 35.6,
+     "end": 35.82,
+     "word": " in"
+    },
+    {
+     "start": 35.82,
+     "end": 36.14,
+     "word": " one"
+    },
+    {
+     "start": 36.14,
+     "end": 36.4,
+     "word": " big"
+    },
+    {
+     "start": 36.4,
+     "end": 36.86,
+     "word": " object"
+    },
+    {
+     "start": 36.86,
+     "end": 37.34,
+     "word": " saved"
+    },
+    {
+     "start": 37.34,
+     "end": 37.54,
+     "word": " in"
+    },
+    {
+     "start": 37.54,
+     "end": 37.62,
+     "word": " the"
+    },
+    {
+     "start": 37.62,
+     "end": 37.96,
+     "word": " browser."
+    }
+   ]
+  },
+  {
+   "start": 38.32,
+   "end": 41.02,
+   "text": "That's fine for a prototype. It's only on your computer.",
+   "words": [
+    {
+     "start": 38.32,
+     "end": 38.62,
+     "word": " That's"
+    },
+    {
+     "start": 38.62,
+     "end": 38.8,
+     "word": " fine"
+    },
+    {
+     "start": 38.8,
+     "end": 39.02,
+     "word": " for"
+    },
+    {
+     "start": 39.02,
+     "end": 39.16,
+     "word": " a"
+    },
+    {
+     "start": 39.16,
+     "end": 39.6,
+     "word": " prototype."
+    },
+    {
+     "start": 40.06,
+     "end": 40.2,
+     "word": " It's"
+    },
+    {
+     "start": 40.2,
+     "end": 40.38,
+     "word": " only"
+    },
+    {
+     "start": 40.38,
+     "end": 40.56,
+     "word": " on"
+    },
+    {
+     "start": 40.56,
+     "end": 40.68,
+     "word": " your"
+    },
+    {
+     "start": 40.68,
+     "end": 41.02,
+     "word": " computer."
+    }
+   ]
+  },
+  {
+   "start": 41.52,
+   "end": 45.24,
+   "text": "Then the app needs to be real. Other people need to see the posts.",
+   "words": [
+    {
+     "start": 41.52,
+     "end": 41.74,
+     "word": " Then"
+    },
+    {
+     "start": 41.74,
+     "end": 42.08,
+     "word": " the"
+    },
+    {
+     "start": 42.08,
+     "end": 42.32,
+     "word": " app"
+    },
+    {
+     "start": 42.32,
+     "end": 42.52,
+     "word": " needs"
+    },
+    {
+     "start": 42.52,
+     "end": 42.72,
+     "word": " to"
+    },
+    {
+     "start": 42.72,
+     "end": 42.86,
+     "word": " be"
+    },
+    {
+     "start": 42.86,
+     "end": 43.22,
+     "word": " real."
+    },
+    {
+     "start": 43.78,
+     "end": 43.94,
+     "word": " Other"
+    },
+    {
+     "start": 43.94,
+     "end": 44.18,
+     "word": " people"
+    },
+    {
+     "start": 44.18,
+     "end": 44.4,
+     "word": " need"
+    },
+    {
+     "start": 44.4,
+     "end": 44.58,
+     "word": " to"
+    },
+    {
+     "start": 44.58,
+     "end": 44.76,
+     "word": " see"
+    },
+    {
+     "start": 44.76,
+     "end": 44.92,
+     "word": " the"
+    },
+    {
+     "start": 44.92,
+     "end": 45.24,
+     "word": " posts."
+    }
+   ]
+  },
+  {
+   "start": 45.78,
+   "end": 50.18,
+   "text": "So you connect a database and the quickest move for you or your AI tool",
+   "words": [
+    {
+     "start": 45.78,
+     "end": 46.1,
+     "word": " So"
+    },
+    {
+     "start": 46.1,
+     "end": 46.34,
+     "word": " you"
+    },
+    {
+     "start": 46.34,
+     "end": 46.6,
+     "word": " connect"
+    },
+    {
+     "start": 46.6,
+     "end": 46.76,
+     "word": " a"
+    },
+    {
+     "start": 46.76,
+     "end": 47.12,
+     "word": " database"
+    },
+    {
+     "start": 47.12,
+     "end": 47.7,
+     "word": " and"
+    },
+    {
+     "start": 47.7,
+     "end": 47.84,
+     "word": " the"
+    },
+    {
+     "start": 47.84,
+     "end": 48.1,
+     "word": " quickest"
+    },
+    {
+     "start": 48.1,
+     "end": 48.52,
+     "word": " move"
+    },
+    {
+     "start": 48.52,
+     "end": 48.96,
+     "word": " for"
+    },
+    {
+     "start": 48.96,
+     "end": 49.2,
+     "word": " you"
+    },
+    {
+     "start": 49.2,
+     "end": 49.44,
+     "word": " or"
+    },
+    {
+     "start": 49.44,
+     "end": 49.64,
+     "word": " your"
+    },
+    {
+     "start": 49.64,
+     "end": 49.9,
+     "word": " AI"
+    },
+    {
+     "start": 49.9,
+     "end": 50.18,
+     "word": " tool"
+    }
+   ]
+  },
+  {
+   "start": 50.18,
+   "end": 55.1,
+   "text": "is to keep the same structure and just save that one big object to the database instead.",
+   "words": [
+    {
+     "start": 50.18,
+     "end": 50.7,
+     "word": " is"
+    },
+    {
+     "start": 50.7,
+     "end": 50.86,
+     "word": " to"
+    },
+    {
+     "start": 50.86,
+     "end": 51.04,
+     "word": " keep"
+    },
+    {
+     "start": 51.04,
+     "end": 51.26,
+     "word": " the"
+    },
+    {
+     "start": 51.26,
+     "end": 51.48,
+     "word": " same"
+    },
+    {
+     "start": 51.48,
+     "end": 51.94,
+     "word": " structure"
+    },
+    {
+     "start": 51.94,
+     "end": 52.26,
+     "word": " and"
+    },
+    {
+     "start": 52.26,
+     "end": 52.4,
+     "word": " just"
+    },
+    {
+     "start": 52.4,
+     "end": 52.72,
+     "word": " save"
+    },
+    {
+     "start": 52.72,
+     "end": 52.94,
+     "word": " that"
+    },
+    {
+     "start": 52.94,
+     "end": 53.26,
+     "word": " one"
+    },
+    {
+     "start": 53.26,
+     "end": 53.5,
+     "word": " big"
+    },
+    {
+     "start": 53.5,
+     "end": 53.9,
+     "word": " object"
+    },
+    {
+     "start": 53.9,
+     "end": 54.08,
+     "word": " to"
+    },
+    {
+     "start": 54.08,
+     "end": 54.22,
+     "word": " the"
+    },
+    {
+     "start": 54.22,
+     "end": 54.58,
+     "word": " database"
+    },
+    {
+     "start": 54.58,
+     "end": 55.1,
+     "word": " instead."
+    }
+   ]
+  },
+  {
+   "start": 57.56,
+   "end": 60.86,
+   "text": "Here's the database. One table and one row.",
+   "words": [
+    {
+     "start": 57.56,
+     "end": 58.16,
+     "word": " Here's"
+    },
+    {
+     "start": 58.16,
+     "end": 58.3,
+     "word": " the"
+    },
+    {
+     "start": 58.3,
+     "end": 58.64,
+     "word": " database."
+    },
+    {
+     "start": 59.38,
+     "end": 59.5,
+     "word": " One"
+    },
+    {
+     "start": 59.5,
+     "end": 59.84,
+     "word": " table"
+    },
+    {
+     "start": 59.84,
+     "end": 60.28,
+     "word": " and"
+    },
+    {
+     "start": 60.28,
+     "end": 60.6,
+     "word": " one"
+    },
+    {
+     "start": 60.6,
+     "end": 60.86,
+     "word": " row."
+    }
+   ]
+  },
+  {
+   "start": 61.4,
+   "end": 63.76,
+   "text": "And inside that row is the entire app.",
+   "words": [
+    {
+     "start": 61.4,
+     "end": 61.48,
+     "word": " And"
+    },
+    {
+     "start": 61.48,
+     "end": 61.82,
+     "word": " inside"
+    },
+    {
+     "start": 61.82,
+     "end": 62.06,
+     "word": " that"
+    },
+    {
+     "start": 62.06,
+     "end": 62.32,
+     "word": " row"
+    },
+    {
+     "start": 62.32,
+     "end": 62.56,
+     "word": " is"
+    },
+    {
+     "start": 62.56,
+     "end": 62.76,
+     "word": " the"
+    },
+    {
+     "start": 62.76,
+     "end": 63.28,
+     "word": " entire"
+    },
+    {
+     "start": 63.28,
+     "end": 63.76,
+     "word": " app."
+    }
+   ]
+  },
+  {
+   "start": 64.28,
+   "end": 68.68,
+   "text": "Every user, every post, every private phone number in one box.",
+   "words": [
+    {
+     "start": 64.28,
+     "end": 64.48,
+     "word": " Every"
+    },
+    {
+     "start": 64.48,
+     "end": 64.92,
+     "word": " user,"
+    },
+    {
+     "start": 65.22,
+     "end": 65.4,
+     "word": " every"
+    },
+    {
+     "start": 65.4,
+     "end": 65.84,
+     "word": " post,"
+    },
+    {
+     "start": 66.2,
+     "end": 66.4,
+     "word": " every"
+    },
+    {
+     "start": 66.4,
+     "end": 66.74,
+     "word": " private"
+    },
+    {
+     "start": 66.74,
+     "end": 67.08,
+     "word": " phone"
+    },
+    {
+     "start": 67.08,
+     "end": 67.42,
+     "word": " number"
+    },
+    {
+     "start": 67.42,
+     "end": 67.92,
+     "word": " in"
+    },
+    {
+     "start": 67.92,
+     "end": 68.26,
+     "word": " one"
+    },
+    {
+     "start": 68.26,
+     "end": 68.68,
+     "word": " box."
+    }
+   ]
+  },
+  {
+   "start": 69.16,
+   "end": 70.6,
+   "text": "Think of it like a shared notebook.",
+   "words": [
+    {
+     "start": 69.16,
+     "end": 69.26,
+     "word": " Think"
+    },
+    {
+     "start": 69.26,
+     "end": 69.4,
+     "word": " of"
+    },
+    {
+     "start": 69.4,
+     "end": 69.54,
+     "word": " it"
+    },
+    {
+     "start": 69.54,
+     "end": 69.72,
+     "word": " like"
+    },
+    {
+     "start": 69.72,
+     "end": 69.9,
+     "word": " a"
+    },
+    {
+     "start": 69.9,
+     "end": 70.14,
+     "word": " shared"
+    },
+    {
+     "start": 70.14,
+     "end": 70.6,
+     "word": " notebook."
+    }
+   ]
+  },
+  {
+   "start": 71.22,
+   "end": 73.4,
+   "text": "Every time anyone wants to add one line,",
+   "words": [
+    {
+     "start": 71.22,
+     "end": 71.42,
+     "word": " Every"
+    },
+    {
+     "start": 71.42,
+     "end": 71.64,
+     "word": " time"
+    },
+    {
+     "start": 71.64,
+     "end": 72.04,
+     "word": " anyone"
+    },
+    {
+     "start": 72.04,
+     "end": 72.38,
+     "word": " wants"
+    },
+    {
+     "start": 72.38,
+     "end": 72.56,
+     "word": " to"
+    },
+    {
+     "start": 72.56,
+     "end": 72.76,
+     "word": " add"
+    },
+    {
+     "start": 72.76,
+     "end": 73.04,
+     "word": " one"
+    },
+    {
+     "start": 73.04,
+     "end": 73.4,
+     "word": " line,"
+    }
+   ]
+  },
+  {
+   "start": 73.74,
+   "end": 75.52,
+   "text": "the app tears out the whole notebook,",
+   "words": [
+    {
+     "start": 73.74,
+     "end": 73.9,
+     "word": " the"
+    },
+    {
+     "start": 73.9,
+     "end": 74.1,
+     "word": " app"
+    },
+    {
+     "start": 74.1,
+     "end": 74.46,
+     "word": " tears"
+    },
+    {
+     "start": 74.46,
+     "end": 74.68,
+     "word": " out"
+    },
+    {
+     "start": 74.68,
+     "end": 74.82,
+     "word": " the"
+    },
+    {
+     "start": 74.82,
+     "end": 75.1,
+     "word": " whole"
+    },
+    {
+     "start": 75.1,
+     "end": 75.52,
+     "word": " notebook,"
+    }
+   ]
+  },
+  {
+   "start": 75.96,
+   "end": 79.34,
+   "text": "copies it by hand with the new line added and puts the copy back.",
+   "words": [
+    {
+     "start": 75.96,
+     "end": 76.2,
+     "word": " copies"
+    },
+    {
+     "start": 76.2,
+     "end": 76.42,
+     "word": " it"
+    },
+    {
+     "start": 76.42,
+     "end": 76.56,
+     "word": " by"
+    },
+    {
+     "start": 76.56,
+     "end": 76.88,
+     "word": " hand"
+    },
+    {
+     "start": 76.88,
+     "end": 77.06,
+     "word": " with"
+    },
+    {
+     "start": 77.06,
+     "end": 77.2,
+     "word": " the"
+    },
+    {
+     "start": 77.2,
+     "end": 77.36,
+     "word": " new"
+    },
+    {
+     "start": 77.36,
+     "end": 77.58,
+     "word": " line"
+    },
+    {
+     "start": 77.58,
+     "end": 77.96,
+     "word": " added"
+    },
+    {
+     "start": 77.96,
+     "end": 78.4,
+     "word": " and"
+    },
+    {
+     "start": 78.4,
+     "end": 78.56,
+     "word": " puts"
+    },
+    {
+     "start": 78.56,
+     "end": 78.74,
+     "word": " the"
+    },
+    {
+     "start": 78.74,
+     "end": 78.98,
+     "word": " copy"
+    },
+    {
+     "start": 78.98,
+     "end": 79.34,
+     "word": " back."
+    }
+   ]
+  },
+  {
+   "start": 80.0,
+   "end": 81.72,
+   "text": "Every time. For everyone.",
+   "words": [
+    {
+     "start": 80.0,
+     "end": 80.2,
+     "word": " Every"
+    },
+    {
+     "start": 80.2,
+     "end": 80.56,
+     "word": " time."
+    },
+    {
+     "start": 80.96,
+     "end": 81.16,
+     "word": " For"
+    },
+    {
+     "start": 81.16,
+     "end": 81.72,
+     "word": " everyone."
+    }
+   ]
+  },
+  {
+   "start": 81.72,
+   "end": 85.06,
+   "text": "That one choice causes three separate problems.",
+   "words": [
+    {
+     "start": 81.72,
+     "end": 82.22,
+     "word": " That"
+    },
+    {
+     "start": 82.22,
+     "end": 82.6,
+     "word": " one"
+    },
+    {
+     "start": 82.6,
+     "end": 83.02,
+     "word": " choice"
+    },
+    {
+     "start": 83.02,
+     "end": 83.46,
+     "word": " causes"
+    },
+    {
+     "start": 83.46,
+     "end": 83.96,
+     "word": " three"
+    },
+    {
+     "start": 83.96,
+     "end": 84.48,
+     "word": " separate"
+    },
+    {
+     "start": 84.48,
+     "end": 85.06,
+     "word": " problems."
+    }
+   ]
+  },
+  {
+   "start": 85.56,
+   "end": 87.66,
+   "text": "Let's look at each. When the page loads,",
+   "words": [
+    {
+     "start": 85.56,
+     "end": 85.72,
+     "word": " Let's"
+    },
+    {
+     "start": 85.72,
+     "end": 85.84,
+     "word": " look"
+    },
+    {
+     "start": 85.84,
+     "end": 85.96,
+     "word": " at"
+    },
+    {
+     "start": 85.96,
+     "end": 86.24,
+     "word": " each."
+    },
+    {
+     "start": 86.84,
+     "end": 86.88,
+     "word": " When"
+    },
+    {
+     "start": 86.88,
+     "end": 87.02,
+     "word": " the"
+    },
+    {
+     "start": 87.02,
+     "end": 87.22,
+     "word": " page"
+    },
+    {
+     "start": 87.22,
+     "end": 87.66,
+     "word": " loads,"
+    }
+   ]
+  },
+  {
+   "start": 88.08,
+   "end": 92.52,
+   "text": "the app has to download that one row because that's the only way to show anything.",
+   "words": [
+    {
+     "start": 88.08,
+     "end": 88.12,
+     "word": " the"
+    },
+    {
+     "start": 88.12,
+     "end": 88.36,
+     "word": " app"
+    },
+    {
+     "start": 88.36,
+     "end": 88.54,
+     "word": " has"
+    },
+    {
+     "start": 88.54,
+     "end": 88.76,
+     "word": " to"
+    },
+    {
+     "start": 88.76,
+     "end": 89.1,
+     "word": " download"
+    },
+    {
+     "start": 89.1,
+     "end": 89.36,
+     "word": " that"
+    },
+    {
+     "start": 89.36,
+     "end": 89.72,
+     "word": " one"
+    },
+    {
+     "start": 89.72,
+     "end": 90.08,
+     "word": " row"
+    },
+    {
+     "start": 90.08,
+     "end": 90.76,
+     "word": " because"
+    },
+    {
+     "start": 90.76,
+     "end": 91.06,
+     "word": " that's"
+    },
+    {
+     "start": 91.06,
+     "end": 91.18,
+     "word": " the"
+    },
+    {
+     "start": 91.18,
+     "end": 91.46,
+     "word": " only"
+    },
+    {
+     "start": 91.46,
+     "end": 91.76,
+     "word": " way"
+    },
+    {
+     "start": 91.76,
+     "end": 91.94,
+     "word": " to"
+    },
+    {
+     "start": 91.94,
+     "end": 92.14,
+     "word": " show"
+    },
+    {
+     "start": 92.14,
+     "end": 92.52,
+     "word": " anything."
+    }
+   ]
+  },
+  {
+   "start": 95.9,
+   "end": 100.66,
+   "text": "So this is what every user's browser receives and anyone can sign up.",
+   "words": [
+    {
+     "start": 95.9,
+     "end": 96.46,
+     "word": " So"
+    },
+    {
+     "start": 96.46,
+     "end": 96.78,
+     "word": " this"
+    },
+    {
+     "start": 96.78,
+     "end": 96.98,
+     "word": " is"
+    },
+    {
+     "start": 96.98,
+     "end": 97.16,
+     "word": " what"
+    },
+    {
+     "start": 97.16,
+     "end": 97.62,
+     "word": " every"
+    },
+    {
+     "start": 97.62,
+     "end": 98.1,
+     "word": " user's"
+    },
+    {
+     "start": 98.1,
+     "end": 98.36,
+     "word": " browser"
+    },
+    {
+     "start": 98.36,
+     "end": 98.8,
+     "word": " receives"
+    },
+    {
+     "start": 98.8,
+     "end": 99.42,
+     "word": " and"
+    },
+    {
+     "start": 99.42,
+     "end": 99.86,
+     "word": " anyone"
+    },
+    {
+     "start": 99.86,
+     "end": 100.16,
+     "word": " can"
+    },
+    {
+     "start": 100.16,
+     "end": 100.38,
+     "word": " sign"
+    },
+    {
+     "start": 100.38,
+     "end": 100.66,
+     "word": " up."
+    }
+   ]
+  },
+  {
+   "start": 100.92,
+   "end": 103.68,
+   "text": "Not just the posts they see on screen. All of it.",
+   "words": [
+    {
+     "start": 100.92,
+     "end": 101.18,
+     "word": " Not"
+    },
+    {
+     "start": 101.18,
+     "end": 101.34,
+     "word": " just"
+    },
+    {
+     "start": 101.34,
+     "end": 101.54,
+     "word": " the"
+    },
+    {
+     "start": 101.54,
+     "end": 101.72,
+     "word": " posts"
+    },
+    {
+     "start": 101.72,
+     "end": 101.94,
+     "word": " they"
+    },
+    {
+     "start": 101.94,
+     "end": 102.08,
+     "word": " see"
+    },
+    {
+     "start": 102.08,
+     "end": 102.26,
+     "word": " on"
+    },
+    {
+     "start": 102.26,
+     "end": 102.62,
+     "word": " screen."
+    },
+    {
+     "start": 103.12,
+     "end": 103.28,
+     "word": " All"
+    },
+    {
+     "start": 103.28,
+     "end": 103.44,
+     "word": " of"
+    },
+    {
+     "start": 103.44,
+     "end": 103.68,
+     "word": " it."
+    }
+   ]
+  },
+  {
+   "start": 104.1,
+   "end": 108.1,
+   "text": "Here's every user's private phone number. The app just doesn't display it.",
+   "words": [
+    {
+     "start": 104.1,
+     "end": 104.4,
+     "word": " Here's"
+    },
+    {
+     "start": 104.4,
+     "end": 104.74,
+     "word": " every"
+    },
+    {
+     "start": 104.74,
+     "end": 105.22,
+     "word": " user's"
+    },
+    {
+     "start": 105.22,
+     "end": 105.52,
+     "word": " private"
+    },
+    {
+     "start": 105.52,
+     "end": 105.8,
+     "word": " phone"
+    },
+    {
+     "start": 105.8,
+     "end": 106.08,
+     "word": " number."
+    },
+    {
+     "start": 106.42,
+     "end": 106.64,
+     "word": " The"
+    },
+    {
+     "start": 106.64,
+     "end": 106.84,
+     "word": " app"
+    },
+    {
+     "start": 106.84,
+     "end": 107.06,
+     "word": " just"
+    },
+    {
+     "start": 107.06,
+     "end": 107.5,
+     "word": " doesn't"
+    },
+    {
+     "start": 107.5,
+     "end": 107.82,
+     "word": " display"
+    },
+    {
+     "start": 107.82,
+     "end": 108.1,
+     "word": " it."
+    }
+   ]
+  },
+  {
+   "start": 108.36,
+   "end": 110.98,
+   "text": "Hidden on the screen is not the same as private.",
+   "words": [
+    {
+     "start": 108.36,
+     "end": 108.46,
+     "word": " Hidden"
+    },
+    {
+     "start": 108.46,
+     "end": 108.7,
+     "word": " on"
+    },
+    {
+     "start": 108.7,
+     "end": 108.84,
+     "word": " the"
+    },
+    {
+     "start": 108.84,
+     "end": 109.2,
+     "word": " screen"
+    },
+    {
+     "start": 109.2,
+     "end": 109.5,
+     "word": " is"
+    },
+    {
+     "start": 109.5,
+     "end": 109.84,
+     "word": " not"
+    },
+    {
+     "start": 109.84,
+     "end": 110.06,
+     "word": " the"
+    },
+    {
+     "start": 110.06,
+     "end": 110.28,
+     "word": " same"
+    },
+    {
+     "start": 110.28,
+     "end": 110.56,
+     "word": " as"
+    },
+    {
+     "start": 110.56,
+     "end": 110.98,
+     "word": " private."
+    }
+   ]
+  },
+  {
+   "start": 111.54,
+   "end": 115.32,
+   "text": "If it's in the network tab, anyone who presses F12 can read it.",
+   "words": [
+    {
+     "start": 111.38,
+     "end": 111.66,
+     "word": " If"
+    },
+    {
+     "start": 111.66,
+     "end": 111.84,
+     "word": " it's"
+    },
+    {
+     "start": 111.84,
+     "end": 111.94,
+     "word": " in"
+    },
+    {
+     "start": 111.94,
+     "end": 112.04,
+     "word": " the"
+    },
+    {
+     "start": 112.04,
+     "end": 112.36,
+     "word": " network"
+    },
+    {
+     "start": 112.36,
+     "end": 112.78,
+     "word": " tab,"
+    },
+    {
+     "start": 113.14,
+     "end": 113.34,
+     "word": " anyone"
+    },
+    {
+     "start": 113.34,
+     "end": 113.62,
+     "word": " who"
+    },
+    {
+     "start": 113.62,
+     "end": 113.92,
+     "word": " presses"
+    },
+    {
+     "start": 113.92,
+     "end": 114.52,
+     "word": " F12"
+    },
+    {
+     "start": 114.52,
+     "end": 114.84,
+     "word": " can"
+    },
+    {
+     "start": 114.84,
+     "end": 115.06,
+     "word": " read"
+    },
+    {
+     "start": 115.06,
+     "end": 115.32,
+     "word": " it."
+    }
+   ]
+  },
+  {
+   "start": 115.62,
+   "end": 118.38,
+   "text": "And you can't fix this with Superbase's security rules.",
+   "words": [
+    {
+     "start": 115.62,
+     "end": 115.7,
+     "word": " And"
+    },
+    {
+     "start": 115.7,
+     "end": 115.84,
+     "word": " you"
+    },
+    {
+     "start": 115.84,
+     "end": 116.24,
+     "word": " can't"
+    },
+    {
+     "start": 116.24,
+     "end": 116.4,
+     "word": " fix"
+    },
+    {
+     "start": 116.4,
+     "end": 116.7,
+     "word": " this"
+    },
+    {
+     "start": 116.7,
+     "end": 116.94,
+     "word": " with"
+    },
+    {
+     "start": 116.94,
+     "end": 117.6,
+     "word": " Superbase's"
+    },
+    {
+     "start": 117.6,
+     "end": 117.92,
+     "word": " security"
+    },
+    {
+     "start": 117.92,
+     "end": 118.38,
+     "word": " rules."
+    }
+   ]
+  },
+  {
+   "start": 119.1,
+   "end": 121.62,
+   "text": "Superbase has a feature called row level security.",
+   "words": [
+    {
+     "start": 119.1,
+     "end": 119.44,
+     "word": " Superbase"
+    },
+    {
+     "start": 119.44,
+     "end": 119.66,
+     "word": " has"
+    },
+    {
+     "start": 119.66,
+     "end": 119.84,
+     "word": " a"
+    },
+    {
+     "start": 119.84,
+     "end": 120.08,
+     "word": " feature"
+    },
+    {
+     "start": 120.08,
+     "end": 120.5,
+     "word": " called"
+    },
+    {
+     "start": 120.5,
+     "end": 120.84,
+     "word": " row"
+    },
+    {
+     "start": 120.84,
+     "end": 121.08,
+     "word": " level"
+    },
+    {
+     "start": 121.08,
+     "end": 121.62,
+     "word": " security."
+    }
+   ]
+  },
+  {
+   "start": 122.16,
+   "end": 126.58,
+   "text": "It decides which rows each person can see. This app even has it turned on,",
+   "words": [
+    {
+     "start": 122.16,
+     "end": 122.34,
+     "word": " It"
+    },
+    {
+     "start": 122.34,
+     "end": 122.7,
+     "word": " decides"
+    },
+    {
+     "start": 122.7,
+     "end": 123.04,
+     "word": " which"
+    },
+    {
+     "start": 123.04,
+     "end": 123.38,
+     "word": " rows"
+    },
+    {
+     "start": 123.38,
+     "end": 123.66,
+     "word": " each"
+    },
+    {
+     "start": 123.66,
+     "end": 123.96,
+     "word": " person"
+    },
+    {
+     "start": 123.96,
+     "end": 124.24,
+     "word": " can"
+    },
+    {
+     "start": 124.24,
+     "end": 124.56,
+     "word": " see."
+    },
+    {
+     "start": 125.02,
+     "end": 125.24,
+     "word": " This"
+    },
+    {
+     "start": 125.24,
+     "end": 125.5,
+     "word": " app"
+    },
+    {
+     "start": 125.5,
+     "end": 125.72,
+     "word": " even"
+    },
+    {
+     "start": 125.72,
+     "end": 125.94,
+     "word": " has"
+    },
+    {
+     "start": 125.94,
+     "end": 126.08,
+     "word": " it"
+    },
+    {
+     "start": 126.08,
+     "end": 126.26,
+     "word": " turned"
+    },
+    {
+     "start": 126.26,
+     "end": 126.58,
+     "word": " on,"
+    }
+   ]
+  },
+  {
+   "start": 126.86,
+   "end": 128.2,
+   "text": "but there's only one row.",
+   "words": [
+    {
+     "start": 126.86,
+     "end": 127.08,
+     "word": " but"
+    },
+    {
+     "start": 127.08,
+     "end": 127.28,
+     "word": " there's"
+    },
+    {
+     "start": 127.28,
+     "end": 127.52,
+     "word": " only"
+    },
+    {
+     "start": 127.52,
+     "end": 127.88,
+     "word": " one"
+    },
+    {
+     "start": 127.88,
+     "end": 128.2,
+     "word": " row."
+    }
+   ]
+  },
+  {
+   "start": 128.78,
+   "end": 132.4,
+   "text": "So the answer is either you get everything or you get nothing.",
+   "words": [
+    {
+     "start": 128.78,
+     "end": 128.92,
+     "word": " So"
+    },
+    {
+     "start": 128.92,
+     "end": 129.04,
+     "word": " the"
+    },
+    {
+     "start": 129.04,
+     "end": 129.3,
+     "word": " answer"
+    },
+    {
+     "start": 129.3,
+     "end": 129.54,
+     "word": " is"
+    },
+    {
+     "start": 129.54,
+     "end": 129.92,
+     "word": " either"
+    },
+    {
+     "start": 129.92,
+     "end": 130.3,
+     "word": " you"
+    },
+    {
+     "start": 130.3,
+     "end": 130.48,
+     "word": " get"
+    },
+    {
+     "start": 130.48,
+     "end": 130.9,
+     "word": " everything"
+    },
+    {
+     "start": 130.9,
+     "end": 131.52,
+     "word": " or"
+    },
+    {
+     "start": 131.52,
+     "end": 131.88,
+     "word": " you"
+    },
+    {
+     "start": 131.88,
+     "end": 132.04,
+     "word": " get"
+    },
+    {
+     "start": 132.04,
+     "end": 132.4,
+     "word": " nothing."
+    }
+   ]
+  },
+  {
+   "start": 132.94,
+   "end": 134.7,
+   "text": "There's no, you get your own part.",
+   "words": [
+    {
+     "start": 132.94,
+     "end": 133.14,
+     "word": " There's"
+    },
+    {
+     "start": 133.14,
+     "end": 133.44,
+     "word": " no,"
+    },
+    {
+     "start": 133.78,
+     "end": 133.82,
+     "word": " you"
+    },
+    {
+     "start": 133.82,
+     "end": 133.98,
+     "word": " get"
+    },
+    {
+     "start": 133.98,
+     "end": 134.14,
+     "word": " your"
+    },
+    {
+     "start": 134.14,
+     "end": 134.34,
+     "word": " own"
+    },
+    {
+     "start": 134.34,
+     "end": 134.7,
+     "word": " part."
+    }
+   ]
+  },
+  {
+   "start": 135.68,
+   "end": 139.94,
+   "text": "Two people have the app open. Maria on the left, Dev on the right.",
+   "words": [
+    {
+     "start": 135.68,
+     "end": 135.9,
+     "word": " Two"
+    },
+    {
+     "start": 135.9,
+     "end": 136.2,
+     "word": " people"
+    },
+    {
+     "start": 136.2,
+     "end": 136.48,
+     "word": " have"
+    },
+    {
+     "start": 136.48,
+     "end": 136.62,
+     "word": " the"
+    },
+    {
+     "start": 136.62,
+     "end": 136.84,
+     "word": " app"
+    },
+    {
+     "start": 136.84,
+     "end": 137.22,
+     "word": " open."
+    },
+    {
+     "start": 137.92,
+     "end": 137.94,
+     "word": " Maria"
+    },
+    {
+     "start": 137.94,
+     "end": 138.22,
+     "word": " on"
+    },
+    {
+     "start": 138.22,
+     "end": 138.36,
+     "word": " the"
+    },
+    {
+     "start": 138.36,
+     "end": 138.62,
+     "word": " left,"
+    },
+    {
+     "start": 139.22,
+     "end": 139.22,
+     "word": " Dev"
+    },
+    {
+     "start": 139.22,
+     "end": 139.54,
+     "word": " on"
+    },
+    {
+     "start": 139.54,
+     "end": 139.66,
+     "word": " the"
+    },
+    {
+     "start": 139.66,
+     "end": 139.94,
+     "word": " right."
+    }
+   ]
+  },
+  {
+   "start": 139.94,
+   "end": 144.9,
+   "text": "Both loaded the same notebook. Maria posts. Her app takes its copy,",
+   "words": [
+    {
+     "start": 139.94,
+     "end": 140.66,
+     "word": " Both"
+    },
+    {
+     "start": 140.66,
+     "end": 141.08,
+     "word": " loaded"
+    },
+    {
+     "start": 141.08,
+     "end": 141.28,
+     "word": " the"
+    },
+    {
+     "start": 141.28,
+     "end": 141.56,
+     "word": " same"
+    },
+    {
+     "start": 141.56,
+     "end": 142.02,
+     "word": " notebook."
+    },
+    {
+     "start": 142.62,
+     "end": 142.62,
+     "word": " Maria"
+    },
+    {
+     "start": 142.62,
+     "end": 143.08,
+     "word": " posts."
+    },
+    {
+     "start": 143.72,
+     "end": 143.8,
+     "word": " Her"
+    },
+    {
+     "start": 143.8,
+     "end": 144.04,
+     "word": " app"
+    },
+    {
+     "start": 144.04,
+     "end": 144.32,
+     "word": " takes"
+    },
+    {
+     "start": 144.32,
+     "end": 144.56,
+     "word": " its"
+    },
+    {
+     "start": 144.56,
+     "end": 144.9,
+     "word": " copy,"
+    }
+   ]
+  },
+  {
+   "start": 145.32,
+   "end": 148.74,
+   "text": "adds her post and saves the whole thing. Now Dev posts.",
+   "words": [
+    {
+     "start": 145.32,
+     "end": 145.44,
+     "word": " adds"
+    },
+    {
+     "start": 145.44,
+     "end": 145.66,
+     "word": " her"
+    },
+    {
+     "start": 145.66,
+     "end": 146.02,
+     "word": " post"
+    },
+    {
+     "start": 146.02,
+     "end": 146.34,
+     "word": " and"
+    },
+    {
+     "start": 146.34,
+     "end": 146.64,
+     "word": " saves"
+    },
+    {
+     "start": 146.64,
+     "end": 146.88,
+     "word": " the"
+    },
+    {
+     "start": 146.88,
+     "end": 147.1,
+     "word": " whole"
+    },
+    {
+     "start": 147.1,
+     "end": 147.42,
+     "word": " thing."
+    },
+    {
+     "start": 147.86,
+     "end": 148.0,
+     "word": " Now"
+    },
+    {
+     "start": 148.0,
+     "end": 148.36,
+     "word": " Dev"
+    },
+    {
+     "start": 148.36,
+     "end": 148.74,
+     "word": " posts."
+    }
+   ]
+  },
+  {
+   "start": 149.32,
+   "end": 151.72,
+   "text": "But Dev's copy is from before Maria posted.",
+   "words": [
+    {
+     "start": 149.32,
+     "end": 149.5,
+     "word": " But"
+    },
+    {
+     "start": 149.5,
+     "end": 149.86,
+     "word": " Dev's"
+    },
+    {
+     "start": 149.86,
+     "end": 150.12,
+     "word": " copy"
+    },
+    {
+     "start": 150.12,
+     "end": 150.34,
+     "word": " is"
+    },
+    {
+     "start": 150.34,
+     "end": 150.58,
+     "word": " from"
+    },
+    {
+     "start": 150.58,
+     "end": 151.0,
+     "word": " before"
+    },
+    {
+     "start": 151.0,
+     "end": 151.32,
+     "word": " Maria"
+    },
+    {
+     "start": 151.32,
+     "end": 151.72,
+     "word": " posted."
+    }
+   ]
+  },
+  {
+   "start": 152.26,
+   "end": 155.9,
+   "text": "His app adds his post to his old copy and saves the whole thing.",
+   "words": [
+    {
+     "start": 152.26,
+     "end": 152.5,
+     "word": " His"
+    },
+    {
+     "start": 152.5,
+     "end": 152.74,
+     "word": " app"
+    },
+    {
+     "start": 152.74,
+     "end": 153.08,
+     "word": " adds"
+    },
+    {
+     "start": 153.08,
+     "end": 153.26,
+     "word": " his"
+    },
+    {
+     "start": 153.26,
+     "end": 153.48,
+     "word": " post"
+    },
+    {
+     "start": 153.48,
+     "end": 153.7,
+     "word": " to"
+    },
+    {
+     "start": 153.7,
+     "end": 153.84,
+     "word": " his"
+    },
+    {
+     "start": 153.84,
+     "end": 154.1,
+     "word": " old"
+    },
+    {
+     "start": 154.1,
+     "end": 154.46,
+     "word": " copy"
+    },
+    {
+     "start": 154.46,
+     "end": 154.78,
+     "word": " and"
+    },
+    {
+     "start": 154.78,
+     "end": 155.04,
+     "word": " saves"
+    },
+    {
+     "start": 155.04,
+     "end": 155.26,
+     "word": " the"
+    },
+    {
+     "start": 155.26,
+     "end": 155.48,
+     "word": " whole"
+    },
+    {
+     "start": 155.48,
+     "end": 155.9,
+     "word": " thing."
+    }
+   ]
+  },
+  {
+   "start": 161.62,
+   "end": 166.82,
+   "text": "Maria's post is gone. Overwritten. No error message. No bug in the code.",
+   "words": [
+    {
+     "start": 161.62,
+     "end": 162.2,
+     "word": " Maria's"
+    },
+    {
+     "start": 162.2,
+     "end": 162.46,
+     "word": " post"
+    },
+    {
+     "start": 162.46,
+     "end": 162.74,
+     "word": " is"
+    },
+    {
+     "start": 162.74,
+     "end": 163.12,
+     "word": " gone."
+    },
+    {
+     "start": 163.66,
+     "end": 164.18,
+     "word": " Overwritten."
+    },
+    {
+     "start": 164.66,
+     "end": 164.92,
+     "word": " No"
+    },
+    {
+     "start": 164.92,
+     "end": 165.14,
+     "word": " error"
+    },
+    {
+     "start": 165.14,
+     "end": 165.54,
+     "word": " message."
+    },
+    {
+     "start": 165.9,
+     "end": 166.12,
+     "word": " No"
+    },
+    {
+     "start": 166.12,
+     "end": 166.3,
+     "word": " bug"
+    },
+    {
+     "start": 166.3,
+     "end": 166.44,
+     "word": " in"
+    },
+    {
+     "start": 166.44,
+     "end": 166.54,
+     "word": " the"
+    },
+    {
+     "start": 166.54,
+     "end": 166.82,
+     "word": " code."
+    }
+   ]
+  },
+  {
+   "start": 167.38,
+   "end": 171.3,
+   "text": "That's just what happens when two people rewrite the same box at the same time.",
+   "words": [
+    {
+     "start": 167.35999999999999,
+     "end": 167.64,
+     "word": " That's"
+    },
+    {
+     "start": 167.64,
+     "end": 167.78,
+     "word": " just"
+    },
+    {
+     "start": 167.78,
+     "end": 167.96,
+     "word": " what"
+    },
+    {
+     "start": 167.96,
+     "end": 168.3,
+     "word": " happens"
+    },
+    {
+     "start": 168.3,
+     "end": 168.58,
+     "word": " when"
+    },
+    {
+     "start": 168.58,
+     "end": 168.8,
+     "word": " two"
+    },
+    {
+     "start": 168.8,
+     "end": 169.06,
+     "word": " people"
+    },
+    {
+     "start": 169.06,
+     "end": 169.52,
+     "word": " rewrite"
+    },
+    {
+     "start": 169.52,
+     "end": 169.68,
+     "word": " the"
+    },
+    {
+     "start": 169.68,
+     "end": 169.98,
+     "word": " same"
+    },
+    {
+     "start": 169.98,
+     "end": 170.28,
+     "word": " box"
+    },
+    {
+     "start": 170.28,
+     "end": 170.54,
+     "word": " at"
+    },
+    {
+     "start": 170.54,
+     "end": 170.7,
+     "word": " the"
+    },
+    {
+     "start": 170.7,
+     "end": 170.9,
+     "word": " same"
+    },
+    {
+     "start": 170.9,
+     "end": 171.3,
+     "word": " time."
+    }
+   ]
+  },
+  {
+   "start": 171.58,
+   "end": 174.38,
+   "text": "The more people use your app, the more often this happens.",
+   "words": [
+    {
+     "start": 171.58,
+     "end": 171.64,
+     "word": " The"
+    },
+    {
+     "start": 171.64,
+     "end": 171.84,
+     "word": " more"
+    },
+    {
+     "start": 171.84,
+     "end": 172.08,
+     "word": " people"
+    },
+    {
+     "start": 172.08,
+     "end": 172.42,
+     "word": " use"
+    },
+    {
+     "start": 172.42,
+     "end": 172.64,
+     "word": " your"
+    },
+    {
+     "start": 172.64,
+     "end": 172.88,
+     "word": " app,"
+    },
+    {
+     "start": 173.18,
+     "end": 173.26,
+     "word": " the"
+    },
+    {
+     "start": 173.26,
+     "end": 173.46,
+     "word": " more"
+    },
+    {
+     "start": 173.46,
+     "end": 173.8,
+     "word": " often"
+    },
+    {
+     "start": 173.8,
+     "end": 174.0,
+     "word": " this"
+    },
+    {
+     "start": 174.0,
+     "end": 174.38,
+     "word": " happens."
+    }
+   ]
+  },
+  {
+   "start": 174.86,
+   "end": 176.84,
+   "text": "So it gets worse as you succeed.",
+   "words": [
+    {
+     "start": 174.86,
+     "end": 175.14,
+     "word": " So"
+    },
+    {
+     "start": 175.14,
+     "end": 175.38,
+     "word": " it"
+    },
+    {
+     "start": 175.38,
+     "end": 175.6,
+     "word": " gets"
+    },
+    {
+     "start": 175.6,
+     "end": 175.94,
+     "word": " worse"
+    },
+    {
+     "start": 175.94,
+     "end": 176.28,
+     "word": " as"
+    },
+    {
+     "start": 176.28,
+     "end": 176.44,
+     "word": " you"
+    },
+    {
+     "start": 176.44,
+     "end": 176.84,
+     "word": " succeed."
+    }
+   ]
+  },
+  {
+   "start": 177.76,
+   "end": 182.08,
+   "text": "Now the one from the start of the video because every save rewrites the entire",
+   "words": [
+    {
+     "start": 177.76,
+     "end": 177.94,
+     "word": " Now"
+    },
+    {
+     "start": 177.94,
+     "end": 178.1,
+     "word": " the"
+    },
+    {
+     "start": 178.1,
+     "end": 178.28,
+     "word": " one"
+    },
+    {
+     "start": 178.28,
+     "end": 178.46,
+     "word": " from"
+    },
+    {
+     "start": 178.46,
+     "end": 178.62,
+     "word": " the"
+    },
+    {
+     "start": 178.62,
+     "end": 178.86,
+     "word": " start"
+    },
+    {
+     "start": 178.86,
+     "end": 179.04,
+     "word": " of"
+    },
+    {
+     "start": 179.04,
+     "end": 179.14,
+     "word": " the"
+    },
+    {
+     "start": 179.14,
+     "end": 179.44,
+     "word": " video"
+    },
+    {
+     "start": 179.44,
+     "end": 180.06,
+     "word": " because"
+    },
+    {
+     "start": 180.06,
+     "end": 180.5,
+     "word": " every"
+    },
+    {
+     "start": 180.5,
+     "end": 180.84,
+     "word": " save"
+    },
+    {
+     "start": 180.84,
+     "end": 181.5,
+     "word": " rewrites"
+    },
+    {
+     "start": 181.5,
+     "end": 181.64,
+     "word": " the"
+    },
+    {
+     "start": 181.64,
+     "end": 182.08,
+     "word": " entire"
+    }
+   ]
+  },
+  {
+   "start": 182.08,
+   "end": 184.92,
+   "text": "app. A save only has to go wrong once.",
+   "words": [
+    {
+     "start": 182.08,
+     "end": 182.56,
+     "word": " app."
+    },
+    {
+     "start": 182.9,
+     "end": 183.04,
+     "word": " A"
+    },
+    {
+     "start": 183.04,
+     "end": 183.32,
+     "word": " save"
+    },
+    {
+     "start": 183.32,
+     "end": 183.62,
+     "word": " only"
+    },
+    {
+     "start": 183.62,
+     "end": 183.88,
+     "word": " has"
+    },
+    {
+     "start": 183.88,
+     "end": 184.02,
+     "word": " to"
+    },
+    {
+     "start": 184.02,
+     "end": 184.18,
+     "word": " go"
+    },
+    {
+     "start": 184.18,
+     "end": 184.46,
+     "word": " wrong"
+    },
+    {
+     "start": 184.46,
+     "end": 184.92,
+     "word": " once."
+    }
+   ]
+  },
+  {
+   "start": 185.4,
+   "end": 188.86,
+   "text": "Look at what this app does. If loading fails, it doesn't stop.",
+   "words": [
+    {
+     "start": 185.4,
+     "end": 185.52,
+     "word": " Look"
+    },
+    {
+     "start": 185.52,
+     "end": 185.64,
+     "word": " at"
+    },
+    {
+     "start": 185.64,
+     "end": 185.78,
+     "word": " what"
+    },
+    {
+     "start": 185.78,
+     "end": 185.96,
+     "word": " this"
+    },
+    {
+     "start": 185.96,
+     "end": 186.26,
+     "word": " app"
+    },
+    {
+     "start": 186.26,
+     "end": 186.5,
+     "word": " does."
+    },
+    {
+     "start": 186.5,
+     "end": 186.8,
+     "word": " If"
+    },
+    {
+     "start": 186.8,
+     "end": 187.08,
+     "word": " loading"
+    },
+    {
+     "start": 187.08,
+     "end": 187.52,
+     "word": " fails,"
+    },
+    {
+     "start": 187.96,
+     "end": 188.18,
+     "word": " it"
+    },
+    {
+     "start": 188.18,
+     "end": 188.48,
+     "word": " doesn't"
+    },
+    {
+     "start": 188.48,
+     "end": 188.86,
+     "word": " stop."
+    }
+   ]
+  },
+  {
+   "start": 189.36,
+   "end": 190.6,
+   "text": "It says couldn't load,",
+   "words": [
+    {
+     "start": 189.36,
+     "end": 189.4,
+     "word": " It"
+    },
+    {
+     "start": 189.4,
+     "end": 189.68,
+     "word": " says"
+    },
+    {
+     "start": 189.68,
+     "end": 190.28,
+     "word": " couldn't"
+    },
+    {
+     "start": 190.28,
+     "end": 190.6,
+     "word": " load,"
+    }
+   ]
+  },
+  {
+   "start": 190.72,
+   "end": 194.64,
+   "text": "start fresh and carries on with an empty board that looks friendly.",
+   "words": [
+    {
+     "start": 190.72,
+     "end": 191.06,
+     "word": " start"
+    },
+    {
+     "start": 191.06,
+     "end": 191.4,
+     "word": " fresh"
+    },
+    {
+     "start": 191.4,
+     "end": 191.96,
+     "word": " and"
+    },
+    {
+     "start": 191.96,
+     "end": 192.24,
+     "word": " carries"
+    },
+    {
+     "start": 192.24,
+     "end": 192.5,
+     "word": " on"
+    },
+    {
+     "start": 192.5,
+     "end": 192.68,
+     "word": " with"
+    },
+    {
+     "start": 192.68,
+     "end": 192.8,
+     "word": " an"
+    },
+    {
+     "start": 192.8,
+     "end": 193.08,
+     "word": " empty"
+    },
+    {
+     "start": 193.08,
+     "end": 193.42,
+     "word": " board"
+    },
+    {
+     "start": 193.42,
+     "end": 194.0,
+     "word": " that"
+    },
+    {
+     "start": 194.0,
+     "end": 194.2,
+     "word": " looks"
+    },
+    {
+     "start": 194.2,
+     "end": 194.64,
+     "word": " friendly."
+    }
+   ]
+  },
+  {
+   "start": 195.0,
+   "end": 196.38,
+   "text": "It's a very common pattern.",
+   "words": [
+    {
+     "start": 195.0,
+     "end": 195.26,
+     "word": " It's"
+    },
+    {
+     "start": 195.26,
+     "end": 195.36,
+     "word": " a"
+    },
+    {
+     "start": 195.36,
+     "end": 195.62,
+     "word": " very"
+    },
+    {
+     "start": 195.62,
+     "end": 195.98,
+     "word": " common"
+    },
+    {
+     "start": 195.98,
+     "end": 196.38,
+     "word": " pattern."
+    }
+   ]
+  },
+  {
+   "start": 196.38,
+   "end": 200.48,
+   "text": "So here's a bad connection for one second. The page loads empty.",
+   "words": [
+    {
+     "start": 196.38,
+     "end": 196.82,
+     "word": " So"
+    },
+    {
+     "start": 196.82,
+     "end": 197.1,
+     "word": " here's"
+    },
+    {
+     "start": 197.1,
+     "end": 197.24,
+     "word": " a"
+    },
+    {
+     "start": 197.24,
+     "end": 197.54,
+     "word": " bad"
+    },
+    {
+     "start": 197.54,
+     "end": 197.98,
+     "word": " connection"
+    },
+    {
+     "start": 197.98,
+     "end": 198.2,
+     "word": " for"
+    },
+    {
+     "start": 198.2,
+     "end": 198.52,
+     "word": " one"
+    },
+    {
+     "start": 198.52,
+     "end": 198.88,
+     "word": " second."
+    },
+    {
+     "start": 199.42,
+     "end": 199.54,
+     "word": " The"
+    },
+    {
+     "start": 199.54,
+     "end": 199.76,
+     "word": " page"
+    },
+    {
+     "start": 199.76,
+     "end": 200.04,
+     "word": " loads"
+    },
+    {
+     "start": 200.04,
+     "end": 200.48,
+     "word": " empty."
+    }
+   ]
+  },
+  {
+   "start": 200.96,
+   "end": 204.48,
+   "text": "Then I post like anyone would and the app saves its copy,",
+   "words": [
+    {
+     "start": 200.96,
+     "end": 201.18,
+     "word": " Then"
+    },
+    {
+     "start": 201.18,
+     "end": 201.3,
+     "word": " I"
+    },
+    {
+     "start": 201.3,
+     "end": 201.58,
+     "word": " post"
+    },
+    {
+     "start": 201.58,
+     "end": 202.14,
+     "word": " like"
+    },
+    {
+     "start": 202.14,
+     "end": 202.48,
+     "word": " anyone"
+    },
+    {
+     "start": 202.48,
+     "end": 202.82,
+     "word": " would"
+    },
+    {
+     "start": 202.82,
+     "end": 203.24,
+     "word": " and"
+    },
+    {
+     "start": 203.24,
+     "end": 203.36,
+     "word": " the"
+    },
+    {
+     "start": 203.36,
+     "end": 203.58,
+     "word": " app"
+    },
+    {
+     "start": 203.58,
+     "end": 203.86,
+     "word": " saves"
+    },
+    {
+     "start": 203.86,
+     "end": 204.06,
+     "word": " its"
+    },
+    {
+     "start": 204.06,
+     "end": 204.48,
+     "word": " copy,"
+    }
+   ]
+  },
+  {
+   "start": 204.68,
+   "end": 209.78,
+   "text": "which is just my one post over everything, everything gone in",
+   "words": [
+    {
+     "start": 204.68,
+     "end": 204.98,
+     "word": " which"
+    },
+    {
+     "start": 204.98,
+     "end": 205.18,
+     "word": " is"
+    },
+    {
+     "start": 205.18,
+     "end": 205.44,
+     "word": " just"
+    },
+    {
+     "start": 205.44,
+     "end": 205.64,
+     "word": " my"
+    },
+    {
+     "start": 205.64,
+     "end": 205.9,
+     "word": " one"
+    },
+    {
+     "start": 205.9,
+     "end": 206.26,
+     "word": " post"
+    },
+    {
+     "start": 206.26,
+     "end": 206.8,
+     "word": " over"
+    },
+    {
+     "start": 206.8,
+     "end": 207.48,
+     "word": " everything,"
+    },
+    {
+     "start": 207.92,
+     "end": 208.32,
+     "word": " everything"
+    },
+    {
+     "start": 208.32,
+     "end": 209.16,
+     "word": " gone"
+    },
+    {
+     "start": 209.16,
+     "end": 209.78,
+     "word": " in"
+    }
+   ]
+  },
+  {
+   "start": 209.78,
+   "end": 213.48,
+   "text": "one request, no hacker and no typo in the code.",
+   "words": [
+    {
+     "start": 209.78,
+     "end": 210.1,
+     "word": " one"
+    },
+    {
+     "start": 210.1,
+     "end": 210.56,
+     "word": " request,"
+    },
+    {
+     "start": 211.06,
+     "end": 211.32,
+     "word": " no"
+    },
+    {
+     "start": 211.32,
+     "end": 211.68,
+     "word": " hacker"
+    },
+    {
+     "start": 211.68,
+     "end": 212.14,
+     "word": " and"
+    },
+    {
+     "start": 212.14,
+     "end": 212.46,
+     "word": " no"
+    },
+    {
+     "start": 212.46,
+     "end": 212.78,
+     "word": " typo"
+    },
+    {
+     "start": 212.78,
+     "end": 213.0,
+     "word": " in"
+    },
+    {
+     "start": 213.0,
+     "end": 213.12,
+     "word": " the"
+    },
+    {
+     "start": 213.12,
+     "end": 213.48,
+     "word": " code."
+    }
+   ]
+  },
+  {
+   "start": 218.58,
+   "end": 223.62,
+   "text": "And it doesn't have to be an accident to let anyone post every signed in",
+   "words": [
+    {
+     "start": 218.58,
+     "end": 219.22,
+     "word": " And"
+    },
+    {
+     "start": 219.22,
+     "end": 219.34,
+     "word": " it"
+    },
+    {
+     "start": 219.34,
+     "end": 219.68,
+     "word": " doesn't"
+    },
+    {
+     "start": 219.68,
+     "end": 219.94,
+     "word": " have"
+    },
+    {
+     "start": 219.94,
+     "end": 220.1,
+     "word": " to"
+    },
+    {
+     "start": 220.1,
+     "end": 220.24,
+     "word": " be"
+    },
+    {
+     "start": 220.24,
+     "end": 220.34,
+     "word": " an"
+    },
+    {
+     "start": 220.34,
+     "end": 220.82,
+     "word": " accident"
+    },
+    {
+     "start": 220.82,
+     "end": 221.44,
+     "word": " to"
+    },
+    {
+     "start": 221.44,
+     "end": 221.6,
+     "word": " let"
+    },
+    {
+     "start": 221.6,
+     "end": 222.08,
+     "word": " anyone"
+    },
+    {
+     "start": 222.08,
+     "end": 222.48,
+     "word": " post"
+    },
+    {
+     "start": 222.48,
+     "end": 223.14,
+     "word": " every"
+    },
+    {
+     "start": 223.14,
+     "end": 223.44,
+     "word": " signed"
+    },
+    {
+     "start": 223.44,
+     "end": 223.62,
+     "word": " in"
+    }
+   ]
+  },
+  {
+   "start": 223.62,
+   "end": 226.24,
+   "text": "user has to be allowed to write to that one row.",
+   "words": [
+    {
+     "start": 223.62,
+     "end": 223.92,
+     "word": " user"
+    },
+    {
+     "start": 223.92,
+     "end": 224.26,
+     "word": " has"
+    },
+    {
+     "start": 224.26,
+     "end": 224.46,
+     "word": " to"
+    },
+    {
+     "start": 224.46,
+     "end": 224.58,
+     "word": " be"
+    },
+    {
+     "start": 224.58,
+     "end": 224.82,
+     "word": " allowed"
+    },
+    {
+     "start": 224.82,
+     "end": 225.06,
+     "word": " to"
+    },
+    {
+     "start": 225.06,
+     "end": 225.24,
+     "word": " write"
+    },
+    {
+     "start": 225.24,
+     "end": 225.42,
+     "word": " to"
+    },
+    {
+     "start": 225.42,
+     "end": 225.58,
+     "word": " that"
+    },
+    {
+     "start": 225.58,
+     "end": 225.92,
+     "word": " one"
+    },
+    {
+     "start": 225.92,
+     "end": 226.24,
+     "word": " row."
+    }
+   ]
+  },
+  {
+   "start": 226.9,
+   "end": 231.26,
+   "text": "So every user can rewrite the whole app one line in the browser console",
+   "words": [
+    {
+     "start": 226.9,
+     "end": 226.94,
+     "word": " So"
+    },
+    {
+     "start": 226.94,
+     "end": 227.4,
+     "word": " every"
+    },
+    {
+     "start": 227.4,
+     "end": 227.82,
+     "word": " user"
+    },
+    {
+     "start": 227.82,
+     "end": 228.06,
+     "word": " can"
+    },
+    {
+     "start": 228.06,
+     "end": 228.46,
+     "word": " rewrite"
+    },
+    {
+     "start": 228.46,
+     "end": 228.72,
+     "word": " the"
+    },
+    {
+     "start": 228.72,
+     "end": 229.0,
+     "word": " whole"
+    },
+    {
+     "start": 229.0,
+     "end": 229.38,
+     "word": " app"
+    },
+    {
+     "start": 229.38,
+     "end": 230.1,
+     "word": " one"
+    },
+    {
+     "start": 230.1,
+     "end": 230.32,
+     "word": " line"
+    },
+    {
+     "start": 230.32,
+     "end": 230.48,
+     "word": " in"
+    },
+    {
+     "start": 230.48,
+     "end": 230.58,
+     "word": " the"
+    },
+    {
+     "start": 230.58,
+     "end": 230.82,
+     "word": " browser"
+    },
+    {
+     "start": 230.82,
+     "end": 231.26,
+     "word": " console"
+    }
+   ]
+  },
+  {
+   "start": 231.26,
+   "end": 233.4,
+   "text": "as a normal user and it's empty.",
+   "words": [
+    {
+     "start": 231.26,
+     "end": 231.68,
+     "word": " as"
+    },
+    {
+     "start": 231.68,
+     "end": 231.8,
+     "word": " a"
+    },
+    {
+     "start": 231.8,
+     "end": 231.98,
+     "word": " normal"
+    },
+    {
+     "start": 231.98,
+     "end": 232.4,
+     "word": " user"
+    },
+    {
+     "start": 232.4,
+     "end": 232.9,
+     "word": " and"
+    },
+    {
+     "start": 232.9,
+     "end": 233.08,
+     "word": " it's"
+    },
+    {
+     "start": 233.08,
+     "end": 233.4,
+     "word": " empty."
+    }
+   ]
+  },
+  {
+   "start": 246.24,
+   "end": 250.7,
+   "text": "So can you just restore a backup on sukabase's free plan?",
+   "words": [
+    {
+     "start": 246.24,
+     "end": 246.88,
+     "word": " So"
+    },
+    {
+     "start": 246.88,
+     "end": 247.3,
+     "word": " can"
+    },
+    {
+     "start": 247.3,
+     "end": 247.46,
+     "word": " you"
+    },
+    {
+     "start": 247.46,
+     "end": 247.84,
+     "word": " just"
+    },
+    {
+     "start": 247.84,
+     "end": 248.26,
+     "word": " restore"
+    },
+    {
+     "start": 248.26,
+     "end": 248.4,
+     "word": " a"
+    },
+    {
+     "start": 248.4,
+     "end": 248.72,
+     "word": " backup"
+    },
+    {
+     "start": 248.72,
+     "end": 249.44,
+     "word": " on"
+    },
+    {
+     "start": 249.44,
+     "end": 250.06,
+     "word": " sukabase's"
+    },
+    {
+     "start": 250.06,
+     "end": 250.36,
+     "word": " free"
+    },
+    {
+     "start": 250.36,
+     "end": 250.7,
+     "word": " plan?"
+    }
+   ]
+  },
+  {
+   "start": 250.9,
+   "end": 252.58,
+   "text": "There are no automatic backups.",
+   "words": [
+    {
+     "start": 250.9,
+     "end": 251.06,
+     "word": " There"
+    },
+    {
+     "start": 251.06,
+     "end": 251.22,
+     "word": " are"
+    },
+    {
+     "start": 251.22,
+     "end": 251.54,
+     "word": " no"
+    },
+    {
+     "start": 251.54,
+     "end": 252.02,
+     "word": " automatic"
+    },
+    {
+     "start": 252.02,
+     "end": 252.58,
+     "word": " backups."
+    }
+   ]
+  },
+  {
+   "start": 253.2,
+   "end": 257.18,
+   "text": "Sukabase's own docs tell free plan projects to export their data themselves.",
+   "words": [
+    {
+     "start": 253.2,
+     "end": 253.76,
+     "word": " Sukabase's"
+    },
+    {
+     "start": 253.76,
+     "end": 254.02,
+     "word": " own"
+    },
+    {
+     "start": 254.02,
+     "end": 254.34,
+     "word": " docs"
+    },
+    {
+     "start": 254.34,
+     "end": 254.66,
+     "word": " tell"
+    },
+    {
+     "start": 254.66,
+     "end": 254.94,
+     "word": " free"
+    },
+    {
+     "start": 254.94,
+     "end": 255.18,
+     "word": " plan"
+    },
+    {
+     "start": 255.18,
+     "end": 255.62,
+     "word": " projects"
+    },
+    {
+     "start": 255.62,
+     "end": 255.86,
+     "word": " to"
+    },
+    {
+     "start": 255.86,
+     "end": 256.24,
+     "word": " export"
+    },
+    {
+     "start": 256.24,
+     "end": 256.48,
+     "word": " their"
+    },
+    {
+     "start": 256.48,
+     "end": 256.72,
+     "word": " data"
+    },
+    {
+     "start": 256.72,
+     "end": 257.18,
+     "word": " themselves."
+    }
+   ]
+  },
+  {
+   "start": 257.76,
+   "end": 259.86,
+   "text": "If you never did, there's nothing to restore.",
+   "words": [
+    {
+     "start": 257.76,
+     "end": 257.94,
+     "word": " If"
+    },
+    {
+     "start": 257.94,
+     "end": 258.06,
+     "word": " you"
+    },
+    {
+     "start": 258.06,
+     "end": 258.22,
+     "word": " never"
+    },
+    {
+     "start": 258.22,
+     "end": 258.54,
+     "word": " did,"
+    },
+    {
+     "start": 258.86,
+     "end": 259.08,
+     "word": " there's"
+    },
+    {
+     "start": 259.08,
+     "end": 259.26,
+     "word": " nothing"
+    },
+    {
+     "start": 259.26,
+     "end": 259.48,
+     "word": " to"
+    },
+    {
+     "start": 259.48,
+     "end": 259.86,
+     "word": " restore."
+    }
+   ]
+  },
+  {
+   "start": 260.08,
+   "end": 262.92,
+   "text": "The fix is to stop storing the app in one box.",
+   "words": [
+    {
+     "start": 260.08,
+     "end": 260.18,
+     "word": " The"
+    },
+    {
+     "start": 260.18,
+     "end": 260.48,
+     "word": " fix"
+    },
+    {
+     "start": 260.48,
+     "end": 260.8,
+     "word": " is"
+    },
+    {
+     "start": 260.8,
+     "end": 261.0,
+     "word": " to"
+    },
+    {
+     "start": 261.0,
+     "end": 261.34,
+     "word": " stop"
+    },
+    {
+     "start": 261.34,
+     "end": 261.7,
+     "word": " storing"
+    },
+    {
+     "start": 261.7,
+     "end": 261.88,
+     "word": " the"
+    },
+    {
+     "start": 261.88,
+     "end": 262.1,
+     "word": " app"
+    },
+    {
+     "start": 262.1,
+     "end": 262.32,
+     "word": " in"
+    },
+    {
+     "start": 262.32,
+     "end": 262.58,
+     "word": " one"
+    },
+    {
+     "start": 262.58,
+     "end": 262.92,
+     "word": " box."
+    }
+   ]
+  },
+  {
+   "start": 263.54,
+   "end": 267.2,
+   "text": "Each post gets its own row. Each profile gets its own row.",
+   "words": [
+    {
+     "start": 263.54,
+     "end": 263.7,
+     "word": " Each"
+    },
+    {
+     "start": 263.7,
+     "end": 264.06,
+     "word": " post"
+    },
+    {
+     "start": 264.06,
+     "end": 264.34,
+     "word": " gets"
+    },
+    {
+     "start": 264.34,
+     "end": 264.52,
+     "word": " its"
+    },
+    {
+     "start": 264.52,
+     "end": 264.78,
+     "word": " own"
+    },
+    {
+     "start": 264.78,
+     "end": 265.06,
+     "word": " row."
+    },
+    {
+     "start": 265.5,
+     "end": 265.68,
+     "word": " Each"
+    },
+    {
+     "start": 265.68,
+     "end": 266.22,
+     "word": " profile"
+    },
+    {
+     "start": 266.22,
+     "end": 266.52,
+     "word": " gets"
+    },
+    {
+     "start": 266.52,
+     "end": 266.72,
+     "word": " its"
+    },
+    {
+     "start": 266.72,
+     "end": 266.9,
+     "word": " own"
+    },
+    {
+     "start": 266.9,
+     "end": 267.2,
+     "word": " row."
+    }
+   ]
+  },
+  {
+   "start": 267.72,
+   "end": 271.2,
+   "text": "Then the database can protect each piece separately. First,",
+   "words": [
+    {
+     "start": 267.72,
+     "end": 267.96,
+     "word": " Then"
+    },
+    {
+     "start": 267.96,
+     "end": 268.22,
+     "word": " the"
+    },
+    {
+     "start": 268.22,
+     "end": 268.58,
+     "word": " database"
+    },
+    {
+     "start": 268.58,
+     "end": 268.84,
+     "word": " can"
+    },
+    {
+     "start": 268.84,
+     "end": 269.18,
+     "word": " protect"
+    },
+    {
+     "start": 269.18,
+     "end": 269.54,
+     "word": " each"
+    },
+    {
+     "start": 269.54,
+     "end": 269.94,
+     "word": " piece"
+    },
+    {
+     "start": 269.94,
+     "end": 270.44,
+     "word": " separately."
+    },
+    {
+     "start": 270.9,
+     "end": 271.2,
+     "word": " First,"
+    }
+   ]
+  },
+  {
+   "start": 271.48,
+   "end": 275.46,
+   "text": "move the data into real tables and copy the existing data over.",
+   "words": [
+    {
+     "start": 271.48,
+     "end": 271.74,
+     "word": " move"
+    },
+    {
+     "start": 271.74,
+     "end": 271.94,
+     "word": " the"
+    },
+    {
+     "start": 271.94,
+     "end": 272.2,
+     "word": " data"
+    },
+    {
+     "start": 272.2,
+     "end": 272.52,
+     "word": " into"
+    },
+    {
+     "start": 272.52,
+     "end": 272.86,
+     "word": " real"
+    },
+    {
+     "start": 272.86,
+     "end": 273.36,
+     "word": " tables"
+    },
+    {
+     "start": 273.36,
+     "end": 273.82,
+     "word": " and"
+    },
+    {
+     "start": 273.82,
+     "end": 274.1,
+     "word": " copy"
+    },
+    {
+     "start": 274.1,
+     "end": 274.32,
+     "word": " the"
+    },
+    {
+     "start": 274.32,
+     "end": 274.6,
+     "word": " existing"
+    },
+    {
+     "start": 274.6,
+     "end": 275.0,
+     "word": " data"
+    },
+    {
+     "start": 275.0,
+     "end": 275.46,
+     "word": " over."
+    }
+   ]
+  },
+  {
+   "start": 275.58,
+   "end": 278.98,
+   "text": "So nothing gets lost in the move. Now there's a posts table,",
+   "words": [
+    {
+     "start": 275.58,
+     "end": 275.76,
+     "word": " So"
+    },
+    {
+     "start": 275.76,
+     "end": 276.08,
+     "word": " nothing"
+    },
+    {
+     "start": 276.08,
+     "end": 276.38,
+     "word": " gets"
+    },
+    {
+     "start": 276.38,
+     "end": 276.66,
+     "word": " lost"
+    },
+    {
+     "start": 276.66,
+     "end": 276.86,
+     "word": " in"
+    },
+    {
+     "start": 276.86,
+     "end": 276.96,
+     "word": " the"
+    },
+    {
+     "start": 276.96,
+     "end": 277.18,
+     "word": " move."
+    },
+    {
+     "start": 277.52,
+     "end": 277.76,
+     "word": " Now"
+    },
+    {
+     "start": 277.76,
+     "end": 278.02,
+     "word": " there's"
+    },
+    {
+     "start": 278.02,
+     "end": 278.14,
+     "word": " a"
+    },
+    {
+     "start": 278.14,
+     "end": 278.46,
+     "word": " posts"
+    },
+    {
+     "start": 278.46,
+     "end": 278.98,
+     "word": " table,"
+    }
+   ]
+  },
+  {
+   "start": 278.98,
+   "end": 282.64,
+   "text": "one row per post, each with the ID of who wrote it,",
+   "words": [
+    {
+     "start": 278.98,
+     "end": 279.58,
+     "word": " one"
+    },
+    {
+     "start": 279.58,
+     "end": 279.8,
+     "word": " row"
+    },
+    {
+     "start": 279.8,
+     "end": 280.06,
+     "word": " per"
+    },
+    {
+     "start": 280.06,
+     "end": 280.44,
+     "word": " post,"
+    },
+    {
+     "start": 280.82,
+     "end": 280.9,
+     "word": " each"
+    },
+    {
+     "start": 280.9,
+     "end": 281.16,
+     "word": " with"
+    },
+    {
+     "start": 281.16,
+     "end": 281.28,
+     "word": " the"
+    },
+    {
+     "start": 281.28,
+     "end": 281.54,
+     "word": " ID"
+    },
+    {
+     "start": 281.54,
+     "end": 281.86,
+     "word": " of"
+    },
+    {
+     "start": 281.86,
+     "end": 282.06,
+     "word": " who"
+    },
+    {
+     "start": 282.06,
+     "end": 282.28,
+     "word": " wrote"
+    },
+    {
+     "start": 282.28,
+     "end": 282.64,
+     "word": " it,"
+    }
+   ]
+  },
+  {
+   "start": 282.86,
+   "end": 287.28,
+   "text": "and a profiles table, one row per person. And the save is different.",
+   "words": [
+    {
+     "start": 282.86,
+     "end": 283.28,
+     "word": " and"
+    },
+    {
+     "start": 283.28,
+     "end": 283.52,
+     "word": " a"
+    },
+    {
+     "start": 283.52,
+     "end": 283.92,
+     "word": " profiles"
+    },
+    {
+     "start": 283.92,
+     "end": 284.34,
+     "word": " table,"
+    },
+    {
+     "start": 284.66,
+     "end": 284.94,
+     "word": " one"
+    },
+    {
+     "start": 284.94,
+     "end": 285.16,
+     "word": " row"
+    },
+    {
+     "start": 285.16,
+     "end": 285.42,
+     "word": " per"
+    },
+    {
+     "start": 285.42,
+     "end": 285.78,
+     "word": " person."
+    },
+    {
+     "start": 286.16,
+     "end": 286.26,
+     "word": " And"
+    },
+    {
+     "start": 286.26,
+     "end": 286.4,
+     "word": " the"
+    },
+    {
+     "start": 286.4,
+     "end": 286.62,
+     "word": " save"
+    },
+    {
+     "start": 286.62,
+     "end": 286.88,
+     "word": " is"
+    },
+    {
+     "start": 286.88,
+     "end": 287.28,
+     "word": " different."
+    }
+   ]
+  },
+  {
+   "start": 287.98,
+   "end": 291.34,
+   "text": "Posting now adds one row. It doesn't touch anything else.",
+   "words": [
+    {
+     "start": 287.98,
+     "end": 288.26,
+     "word": " Posting"
+    },
+    {
+     "start": 288.26,
+     "end": 288.52,
+     "word": " now"
+    },
+    {
+     "start": 288.52,
+     "end": 288.86,
+     "word": " adds"
+    },
+    {
+     "start": 288.86,
+     "end": 289.16,
+     "word": " one"
+    },
+    {
+     "start": 289.16,
+     "end": 289.48,
+     "word": " row."
+    },
+    {
+     "start": 289.9,
+     "end": 290.0,
+     "word": " It"
+    },
+    {
+     "start": 290.0,
+     "end": 290.26,
+     "word": " doesn't"
+    },
+    {
+     "start": 290.26,
+     "end": 290.46,
+     "word": " touch"
+    },
+    {
+     "start": 290.46,
+     "end": 290.86,
+     "word": " anything"
+    },
+    {
+     "start": 290.86,
+     "end": 291.34,
+     "word": " else."
+    }
+   ]
+  },
+  {
+   "start": 295.58,
+   "end": 299.96,
+   "text": "Second, the security rules. Now that every post is its own row,",
+   "words": [
+    {
+     "start": 295.58,
+     "end": 296.1,
+     "word": " Second,"
+    },
+    {
+     "start": 296.5,
+     "end": 296.6,
+     "word": " the"
+    },
+    {
+     "start": 296.6,
+     "end": 296.94,
+     "word": " security"
+    },
+    {
+     "start": 296.94,
+     "end": 297.4,
+     "word": " rules."
+    },
+    {
+     "start": 298.02,
+     "end": 298.24,
+     "word": " Now"
+    },
+    {
+     "start": 298.24,
+     "end": 298.42,
+     "word": " that"
+    },
+    {
+     "start": 298.42,
+     "end": 298.72,
+     "word": " every"
+    },
+    {
+     "start": 298.72,
+     "end": 299.0,
+     "word": " post"
+    },
+    {
+     "start": 299.0,
+     "end": 299.22,
+     "word": " is"
+    },
+    {
+     "start": 299.22,
+     "end": 299.34,
+     "word": " its"
+    },
+    {
+     "start": 299.34,
+     "end": 299.58,
+     "word": " own"
+    },
+    {
+     "start": 299.58,
+     "end": 299.96,
+     "word": " row,"
+    }
+   ]
+  },
+  {
+   "start": 300.28,
+   "end": 304.24,
+   "text": "we can say who's allowed to do what. Anyone signed in can read posts.",
+   "words": [
+    {
+     "start": 300.28,
+     "end": 300.38,
+     "word": " we"
+    },
+    {
+     "start": 300.38,
+     "end": 300.56,
+     "word": " can"
+    },
+    {
+     "start": 300.56,
+     "end": 300.78,
+     "word": " say"
+    },
+    {
+     "start": 300.78,
+     "end": 301.14,
+     "word": " who's"
+    },
+    {
+     "start": 301.14,
+     "end": 301.4,
+     "word": " allowed"
+    },
+    {
+     "start": 301.4,
+     "end": 301.62,
+     "word": " to"
+    },
+    {
+     "start": 301.62,
+     "end": 301.8,
+     "word": " do"
+    },
+    {
+     "start": 301.8,
+     "end": 302.1,
+     "word": " what."
+    },
+    {
+     "start": 302.48,
+     "end": 302.76,
+     "word": " Anyone"
+    },
+    {
+     "start": 302.76,
+     "end": 303.14,
+     "word": " signed"
+    },
+    {
+     "start": 303.14,
+     "end": 303.42,
+     "word": " in"
+    },
+    {
+     "start": 303.42,
+     "end": 303.64,
+     "word": " can"
+    },
+    {
+     "start": 303.64,
+     "end": 303.9,
+     "word": " read"
+    },
+    {
+     "start": 303.9,
+     "end": 304.24,
+     "word": " posts."
+    }
+   ]
+  },
+  {
+   "start": 304.78,
+   "end": 306.86,
+   "text": "You can only create posts as yourself.",
+   "words": [
+    {
+     "start": 304.78,
+     "end": 304.94,
+     "word": " You"
+    },
+    {
+     "start": 304.94,
+     "end": 305.06,
+     "word": " can"
+    },
+    {
+     "start": 305.06,
+     "end": 305.32,
+     "word": " only"
+    },
+    {
+     "start": 305.32,
+     "end": 305.74,
+     "word": " create"
+    },
+    {
+     "start": 305.74,
+     "end": 306.16,
+     "word": " posts"
+    },
+    {
+     "start": 306.16,
+     "end": 306.44,
+     "word": " as"
+    },
+    {
+     "start": 306.44,
+     "end": 306.86,
+     "word": " yourself."
+    }
+   ]
+  },
+  {
+   "start": 307.42,
+   "end": 312.16,
+   "text": "You can only edit or delete your own and you can only see your own phone number.",
+   "words": [
+    {
+     "start": 307.24,
+     "end": 307.52,
+     "word": " You"
+    },
+    {
+     "start": 307.52,
+     "end": 307.68,
+     "word": " can"
+    },
+    {
+     "start": 307.68,
+     "end": 307.94,
+     "word": " only"
+    },
+    {
+     "start": 307.94,
+     "end": 308.26,
+     "word": " edit"
+    },
+    {
+     "start": 308.26,
+     "end": 308.58,
+     "word": " or"
+    },
+    {
+     "start": 308.58,
+     "end": 308.92,
+     "word": " delete"
+    },
+    {
+     "start": 308.92,
+     "end": 309.16,
+     "word": " your"
+    },
+    {
+     "start": 309.16,
+     "end": 309.46,
+     "word": " own"
+    },
+    {
+     "start": 309.46,
+     "end": 310.16,
+     "word": " and"
+    },
+    {
+     "start": 310.16,
+     "end": 310.38,
+     "word": " you"
+    },
+    {
+     "start": 310.38,
+     "end": 310.52,
+     "word": " can"
+    },
+    {
+     "start": 310.52,
+     "end": 310.82,
+     "word": " only"
+    },
+    {
+     "start": 310.82,
+     "end": 311.08,
+     "word": " see"
+    },
+    {
+     "start": 311.08,
+     "end": 311.28,
+     "word": " your"
+    },
+    {
+     "start": 311.28,
+     "end": 311.54,
+     "word": " own"
+    },
+    {
+     "start": 311.54,
+     "end": 311.8,
+     "word": " phone"
+    },
+    {
+     "start": 311.8,
+     "end": 312.16,
+     "word": " number."
+    }
+   ]
+  },
+  {
+   "start": 312.58,
+   "end": 316.62,
+   "text": "Third, backups. On the free plan, export your data on a schedule.",
+   "words": [
+    {
+     "start": 312.58,
+     "end": 312.58,
+     "word": " Third,"
+    },
+    {
+     "start": 313.06,
+     "end": 313.34,
+     "word": " backups."
+    },
+    {
+     "start": 314.04,
+     "end": 314.2,
+     "word": " On"
+    },
+    {
+     "start": 314.2,
+     "end": 314.32,
+     "word": " the"
+    },
+    {
+     "start": 314.32,
+     "end": 314.54,
+     "word": " free"
+    },
+    {
+     "start": 314.54,
+     "end": 314.88,
+     "word": " plan,"
+    },
+    {
+     "start": 315.18,
+     "end": 315.48,
+     "word": " export"
+    },
+    {
+     "start": 315.48,
+     "end": 315.66,
+     "word": " your"
+    },
+    {
+     "start": 315.66,
+     "end": 315.88,
+     "word": " data"
+    },
+    {
+     "start": 315.88,
+     "end": 316.14,
+     "word": " on"
+    },
+    {
+     "start": 316.14,
+     "end": 316.3,
+     "word": " a"
+    },
+    {
+     "start": 316.3,
+     "end": 316.62,
+     "word": " schedule."
+    }
+   ]
+  },
+  {
+   "start": 317.18,
+   "end": 321.88,
+   "text": "On the pro plan, Sukabase keeps daily backups for seven days. Either way,",
+   "words": [
+    {
+     "start": 317.18,
+     "end": 317.3,
+     "word": " On"
+    },
+    {
+     "start": 317.3,
+     "end": 317.42,
+     "word": " the"
+    },
+    {
+     "start": 317.42,
+     "end": 317.62,
+     "word": " pro"
+    },
+    {
+     "start": 317.62,
+     "end": 317.98,
+     "word": " plan,"
+    },
+    {
+     "start": 318.46,
+     "end": 318.78,
+     "word": " Sukabase"
+    },
+    {
+     "start": 318.78,
+     "end": 319.08,
+     "word": " keeps"
+    },
+    {
+     "start": 319.08,
+     "end": 319.48,
+     "word": " daily"
+    },
+    {
+     "start": 319.48,
+     "end": 319.88,
+     "word": " backups"
+    },
+    {
+     "start": 319.88,
+     "end": 320.16,
+     "word": " for"
+    },
+    {
+     "start": 320.16,
+     "end": 320.48,
+     "word": " seven"
+    },
+    {
+     "start": 320.48,
+     "end": 320.86,
+     "word": " days."
+    },
+    {
+     "start": 321.4,
+     "end": 321.56,
+     "word": " Either"
+    },
+    {
+     "start": 321.56,
+     "end": 321.88,
+     "word": " way,"
+    }
+   ]
+  },
+  {
+   "start": 322.08,
+   "end": 324.76,
+   "text": "check that you can actually restore one before you need it.",
+   "words": [
+    {
+     "start": 322.08,
+     "end": 322.32,
+     "word": " check"
+    },
+    {
+     "start": 322.32,
+     "end": 322.5,
+     "word": " that"
+    },
+    {
+     "start": 322.5,
+     "end": 322.62,
+     "word": " you"
+    },
+    {
+     "start": 322.62,
+     "end": 322.76,
+     "word": " can"
+    },
+    {
+     "start": 322.76,
+     "end": 323.12,
+     "word": " actually"
+    },
+    {
+     "start": 323.12,
+     "end": 323.58,
+     "word": " restore"
+    },
+    {
+     "start": 323.58,
+     "end": 323.88,
+     "word": " one"
+    },
+    {
+     "start": 323.88,
+     "end": 324.18,
+     "word": " before"
+    },
+    {
+     "start": 324.18,
+     "end": 324.36,
+     "word": " you"
+    },
+    {
+     "start": 324.36,
+     "end": 324.52,
+     "word": " need"
+    },
+    {
+     "start": 324.52,
+     "end": 324.76,
+     "word": " it."
+    }
+   ]
+  },
+  {
+   "start": 324.98,
+   "end": 328.48,
+   "text": "Don't trust the AI summary that it's fixed. Check it yourself.",
+   "words": [
+    {
+     "start": 324.98,
+     "end": 325.24,
+     "word": " Don't"
+    },
+    {
+     "start": 325.24,
+     "end": 325.46,
+     "word": " trust"
+    },
+    {
+     "start": 325.46,
+     "end": 325.68,
+     "word": " the"
+    },
+    {
+     "start": 325.68,
+     "end": 325.94,
+     "word": " AI"
+    },
+    {
+     "start": 325.94,
+     "end": 326.3,
+     "word": " summary"
+    },
+    {
+     "start": 326.3,
+     "end": 326.64,
+     "word": " that"
+    },
+    {
+     "start": 326.64,
+     "end": 326.86,
+     "word": " it's"
+    },
+    {
+     "start": 326.86,
+     "end": 327.2,
+     "word": " fixed."
+    },
+    {
+     "start": 327.72,
+     "end": 327.96,
+     "word": " Check"
+    },
+    {
+     "start": 327.96,
+     "end": 328.1,
+     "word": " it"
+    },
+    {
+     "start": 328.1,
+     "end": 328.48,
+     "word": " yourself."
+    }
+   ]
+  },
+  {
+   "start": 328.92,
+   "end": 330.0,
+   "text": "It takes two minutes.",
+   "words": [
+    {
+     "start": 328.92,
+     "end": 329.04,
+     "word": " It"
+    },
+    {
+     "start": 329.04,
+     "end": 329.22,
+     "word": " takes"
+    },
+    {
+     "start": 329.22,
+     "end": 329.58,
+     "word": " two"
+    },
+    {
+     "start": 329.58,
+     "end": 330.0,
+     "word": " minutes."
+    }
+   ]
+  },
+  {
+   "start": 334.2,
+   "end": 334.8,
+   "text": "One,",
+   "words": [
+    {
+     "start": 334.2,
+     "end": 334.8,
+     "word": " One,"
+    }
+   ]
+  },
+  {
+   "start": 335.28,
+   "end": 336.56,
+   "text": "open the network tab.",
+   "words": [
+    {
+     "start": 335.28,
+     "end": 335.66,
+     "word": " open"
+    },
+    {
+     "start": 335.66,
+     "end": 335.84,
+     "word": " the"
+    },
+    {
+     "start": 335.84,
+     "end": 336.14,
+     "word": " network"
+    },
+    {
+     "start": 336.14,
+     "end": 336.56,
+     "word": " tab."
+    }
+   ]
+  },
+  {
+   "start": 337.14,
+   "end": 341.56,
+   "text": "The page now gets the posts and only my phone number. Nobody else's.",
+   "words": [
+    {
+     "start": 337.14,
+     "end": 337.16,
+     "word": " The"
+    },
+    {
+     "start": 337.16,
+     "end": 337.4,
+     "word": " page"
+    },
+    {
+     "start": 337.4,
+     "end": 337.68,
+     "word": " now"
+    },
+    {
+     "start": 337.68,
+     "end": 337.88,
+     "word": " gets"
+    },
+    {
+     "start": 337.88,
+     "end": 338.1,
+     "word": " the"
+    },
+    {
+     "start": 338.1,
+     "end": 338.42,
+     "word": " posts"
+    },
+    {
+     "start": 338.42,
+     "end": 338.78,
+     "word": " and"
+    },
+    {
+     "start": 338.78,
+     "end": 339.22,
+     "word": " only"
+    },
+    {
+     "start": 339.22,
+     "end": 339.54,
+     "word": " my"
+    },
+    {
+     "start": 339.54,
+     "end": 339.8,
+     "word": " phone"
+    },
+    {
+     "start": 339.8,
+     "end": 340.12,
+     "word": " number."
+    },
+    {
+     "start": 340.56,
+     "end": 340.74,
+     "word": " Nobody"
+    },
+    {
+     "start": 340.74,
+     "end": 341.56,
+     "word": " else's."
+    }
+   ]
+  },
+  {
+   "start": 342.34,
+   "end": 347.74,
+   "text": "Two, the two window test. Maria posts, dev posts, refresh.",
+   "words": [
+    {
+     "start": 342.34,
+     "end": 342.94,
+     "word": " Two,"
+    },
+    {
+     "start": 343.4,
+     "end": 343.56,
+     "word": " the"
+    },
+    {
+     "start": 343.56,
+     "end": 343.8,
+     "word": " two"
+    },
+    {
+     "start": 343.8,
+     "end": 344.1,
+     "word": " window"
+    },
+    {
+     "start": 344.1,
+     "end": 344.5,
+     "word": " test."
+    },
+    {
+     "start": 345.18,
+     "end": 345.36,
+     "word": " Maria"
+    },
+    {
+     "start": 345.36,
+     "end": 345.78,
+     "word": " posts,"
+    },
+    {
+     "start": 346.38,
+     "end": 346.5,
+     "word": " dev"
+    },
+    {
+     "start": 346.5,
+     "end": 346.98,
+     "word": " posts,"
+    },
+    {
+     "start": 347.52,
+     "end": 347.74,
+     "word": " refresh."
+    }
+   ]
+  },
+  {
+   "start": 348.5,
+   "end": 352.16,
+   "text": "Both are still there. Three, try to break it. As dev,",
+   "words": [
+    {
+     "start": 348.5,
+     "end": 348.62,
+     "word": " Both"
+    },
+    {
+     "start": 348.62,
+     "end": 348.76,
+     "word": " are"
+    },
+    {
+     "start": 348.76,
+     "end": 348.96,
+     "word": " still"
+    },
+    {
+     "start": 348.96,
+     "end": 349.34,
+     "word": " there."
+    },
+    {
+     "start": 349.68,
+     "end": 349.84,
+     "word": " Three,"
+    },
+    {
+     "start": 350.32,
+     "end": 350.58,
+     "word": " try"
+    },
+    {
+     "start": 350.58,
+     "end": 350.72,
+     "word": " to"
+    },
+    {
+     "start": 350.72,
+     "end": 350.94,
+     "word": " break"
+    },
+    {
+     "start": 350.94,
+     "end": 351.34,
+     "word": " it."
+    },
+    {
+     "start": 351.64,
+     "end": 351.88,
+     "word": " As"
+    },
+    {
+     "start": 351.88,
+     "end": 352.16,
+     "word": " dev,"
+    }
+   ]
+  },
+  {
+   "start": 352.48,
+   "end": 355.18,
+   "text": "I'll try to edit Maria's post. Nothing changes.",
+   "words": [
+    {
+     "start": 352.48,
+     "end": 352.68,
+     "word": " I'll"
+    },
+    {
+     "start": 352.68,
+     "end": 352.84,
+     "word": " try"
+    },
+    {
+     "start": 352.84,
+     "end": 352.96,
+     "word": " to"
+    },
+    {
+     "start": 352.96,
+     "end": 353.2,
+     "word": " edit"
+    },
+    {
+     "start": 353.2,
+     "end": 353.64,
+     "word": " Maria's"
+    },
+    {
+     "start": 353.64,
+     "end": 353.9,
+     "word": " post."
+    },
+    {
+     "start": 354.54,
+     "end": 354.76,
+     "word": " Nothing"
+    },
+    {
+     "start": 354.76,
+     "end": 355.18,
+     "word": " changes."
+    }
+   ]
+  },
+  {
+   "start": 355.72,
+   "end": 359.5,
+   "text": "I'll try to find Maria's phone number. I'm blocked. The wipe from before,",
+   "words": [
+    {
+     "start": 355.72,
+     "end": 355.88,
+     "word": " I'll"
+    },
+    {
+     "start": 355.88,
+     "end": 356.06,
+     "word": " try"
+    },
+    {
+     "start": 356.06,
+     "end": 356.18,
+     "word": " to"
+    },
+    {
+     "start": 356.18,
+     "end": 356.38,
+     "word": " find"
+    },
+    {
+     "start": 356.38,
+     "end": 356.82,
+     "word": " Maria's"
+    },
+    {
+     "start": 356.82,
+     "end": 356.98,
+     "word": " phone"
+    },
+    {
+     "start": 356.98,
+     "end": 357.32,
+     "word": " number."
+    },
+    {
+     "start": 357.76,
+     "end": 357.94,
+     "word": " I'm"
+    },
+    {
+     "start": 357.94,
+     "end": 358.28,
+     "word": " blocked."
+    },
+    {
+     "start": 358.64,
+     "end": 358.74,
+     "word": " The"
+    },
+    {
+     "start": 358.74,
+     "end": 358.92,
+     "word": " wipe"
+    },
+    {
+     "start": 358.92,
+     "end": 359.12,
+     "word": " from"
+    },
+    {
+     "start": 359.12,
+     "end": 359.5,
+     "word": " before,"
+    }
+   ]
+  },
+  {
+   "start": 360.02,
+   "end": 364.52,
+   "text": "it doesn't work anymore. And the bad connection test.",
+   "words": [
+    {
+     "start": 359.7,
+     "end": 360.08,
+     "word": " it"
+    },
+    {
+     "start": 360.08,
+     "end": 360.32,
+     "word": " doesn't"
+    },
+    {
+     "start": 360.32,
+     "end": 360.54,
+     "word": " work"
+    },
+    {
+     "start": 360.54,
+     "end": 360.96,
+     "word": " anymore."
+    },
+    {
+     "start": 363.3,
+     "end": 363.32,
+     "word": " And"
+    },
+    {
+     "start": 363.32,
+     "end": 363.42,
+     "word": " the"
+    },
+    {
+     "start": 363.42,
+     "end": 363.62,
+     "word": " bad"
+    },
+    {
+     "start": 363.62,
+     "end": 364.04,
+     "word": " connection"
+    },
+    {
+     "start": 364.04,
+     "end": 364.52,
+     "word": " test."
+    }
+   ]
+  },
+  {
+   "start": 372.54,
+   "end": 376.5,
+   "text": "The page shows an error instead of an empty board and nothing gets overridden.",
+   "words": [
+    {
+     "start": 372.26,
+     "end": 372.64,
+     "word": " The"
+    },
+    {
+     "start": 372.64,
+     "end": 372.88,
+     "word": " page"
+    },
+    {
+     "start": 372.88,
+     "end": 373.12,
+     "word": " shows"
+    },
+    {
+     "start": 373.12,
+     "end": 373.32,
+     "word": " an"
+    },
+    {
+     "start": 373.32,
+     "end": 373.64,
+     "word": " error"
+    },
+    {
+     "start": 373.64,
+     "end": 374.06,
+     "word": " instead"
+    },
+    {
+     "start": 374.06,
+     "end": 374.2,
+     "word": " of"
+    },
+    {
+     "start": 374.2,
+     "end": 374.3,
+     "word": " an"
+    },
+    {
+     "start": 374.3,
+     "end": 374.58,
+     "word": " empty"
+    },
+    {
+     "start": 374.58,
+     "end": 374.86,
+     "word": " board"
+    },
+    {
+     "start": 374.86,
+     "end": 375.34,
+     "word": " and"
+    },
+    {
+     "start": 375.34,
+     "end": 375.72,
+     "word": " nothing"
+    },
+    {
+     "start": 375.72,
+     "end": 375.96,
+     "word": " gets"
+    },
+    {
+     "start": 375.96,
+     "end": 376.5,
+     "word": " overridden."
+    }
+   ]
+  },
+  {
+   "start": 378.36,
+   "end": 382.1,
+   "text": "And last, Sukabase's security advisor shows no errors.",
+   "words": [
+    {
+     "start": 378.36,
+     "end": 378.4,
+     "word": " And"
+    },
+    {
+     "start": 378.4,
+     "end": 378.78,
+     "word": " last,"
+    },
+    {
+     "start": 379.4,
+     "end": 379.98,
+     "word": " Sukabase's"
+    },
+    {
+     "start": 379.98,
+     "end": 380.32,
+     "word": " security"
+    },
+    {
+     "start": 380.32,
+     "end": 380.74,
+     "word": " advisor"
+    },
+    {
+     "start": 380.74,
+     "end": 381.28,
+     "word": " shows"
+    },
+    {
+     "start": 381.28,
+     "end": 381.66,
+     "word": " no"
+    },
+    {
+     "start": 381.66,
+     "end": 382.1,
+     "word": " errors."
+    }
+   ]
+  },
+  {
+   "start": 386.1,
+   "end": 388.2,
+   "text": "If your app stores everything in one place,",
+   "words": [
+    {
+     "start": 385.84000000000003,
+     "end": 386.22,
+     "word": " If"
+    },
+    {
+     "start": 386.22,
+     "end": 386.38,
+     "word": " your"
+    },
+    {
+     "start": 386.38,
+     "end": 386.6,
+     "word": " app"
+    },
+    {
+     "start": 386.6,
+     "end": 386.9,
+     "word": " stores"
+    },
+    {
+     "start": 386.9,
+     "end": 387.4,
+     "word": " everything"
+    },
+    {
+     "start": 387.4,
+     "end": 387.64,
+     "word": " in"
+    },
+    {
+     "start": 387.64,
+     "end": 387.86,
+     "word": " one"
+    },
+    {
+     "start": 387.86,
+     "end": 388.2,
+     "word": " place,"
+    }
+   ]
+  },
+  {
+   "start": 388.2,
+   "end": 391.98,
+   "text": "here's what to paste into your AI tool. They're in the description too.",
+   "words": [
+    {
+     "start": 388.2,
+     "end": 388.88,
+     "word": " here's"
+    },
+    {
+     "start": 388.88,
+     "end": 389.0,
+     "word": " what"
+    },
+    {
+     "start": 389.0,
+     "end": 389.14,
+     "word": " to"
+    },
+    {
+     "start": 389.14,
+     "end": 389.36,
+     "word": " paste"
+    },
+    {
+     "start": 389.36,
+     "end": 389.66,
+     "word": " into"
+    },
+    {
+     "start": 389.66,
+     "end": 389.84,
+     "word": " your"
+    },
+    {
+     "start": 389.84,
+     "end": 390.14,
+     "word": " AI"
+    },
+    {
+     "start": 390.14,
+     "end": 390.44,
+     "word": " tool."
+    },
+    {
+     "start": 391.0,
+     "end": 391.06,
+     "word": " They're"
+    },
+    {
+     "start": 391.06,
+     "end": 391.16,
+     "word": " in"
+    },
+    {
+     "start": 391.16,
+     "end": 391.26,
+     "word": " the"
+    },
+    {
+     "start": 391.26,
+     "end": 391.56,
+     "word": " description"
+    },
+    {
+     "start": 391.56,
+     "end": 391.98,
+     "word": " too."
+    }
+   ]
+  },
+  {
+   "start": 392.32,
+   "end": 396.72,
+   "text": "Then do the two window test yourself. If both posts survive, you're good.",
+   "words": [
+    {
+     "start": 392.32,
+     "end": 392.5,
+     "word": " Then"
+    },
+    {
+     "start": 392.5,
+     "end": 392.82,
+     "word": " do"
+    },
+    {
+     "start": 392.82,
+     "end": 392.98,
+     "word": " the"
+    },
+    {
+     "start": 392.98,
+     "end": 393.18,
+     "word": " two"
+    },
+    {
+     "start": 393.18,
+     "end": 393.42,
+     "word": " window"
+    },
+    {
+     "start": 393.42,
+     "end": 393.72,
+     "word": " test"
+    },
+    {
+     "start": 393.72,
+     "end": 394.2,
+     "word": " yourself."
+    },
+    {
+     "start": 394.66,
+     "end": 394.96,
+     "word": " If"
+    },
+    {
+     "start": 394.96,
+     "end": 395.2,
+     "word": " both"
+    },
+    {
+     "start": 395.2,
+     "end": 395.5,
+     "word": " posts"
+    },
+    {
+     "start": 395.5,
+     "end": 395.98,
+     "word": " survive,"
+    },
+    {
+     "start": 396.3,
+     "end": 396.52,
+     "word": " you're"
+    },
+    {
+     "start": 396.52,
+     "end": 396.72,
+     "word": " good."
+    }
+   ]
+  },
+  {
+   "start": 421.86,
+   "end": 423.26,
+   "text": "You",
+   "words": [
+    {
+     "start": 421.86,
+     "end": 423.26,
+     "word": " You"
+    }
+   ]
+  }
+ ]
+}

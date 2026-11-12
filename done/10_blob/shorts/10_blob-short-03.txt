@@ -1,0 +1,12 @@
+TITLE
+Two people posted. One post vanished.
+
+DESCRIPTION
+When your whole app lives in one database row, two people saving at the same time overwrite each other. No error, no bug in the code, and it gets worse the more people use your app.
+
+Full fix: https://youtu.be/4x5w0DcKOPw
+
+#supabase #vibecoding #appsecurity
+
+RELATED VIDEO (set in YouTube Studio)
+One Bad Save Deleted My Entire App - https://youtu.be/4x5w0DcKOPw

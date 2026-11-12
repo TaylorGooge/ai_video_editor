@@ -1,0 +1,12 @@
+TITLE
+Your app hides phone numbers. The network tab doesn't.
+
+DESCRIPTION
+This app never shows other users' phone numbers on screen, but it sends every one of them to the browser. Anyone who presses F12 can read them. Hidden on screen is not the same as private.
+
+Full fix: https://youtu.be/4x5w0DcKOPw
+
+#supabase #vibecoding #appsecurity
+
+RELATED VIDEO (set in YouTube Studio)
+One Bad Save Deleted My Entire App - https://youtu.be/4x5w0DcKOPw

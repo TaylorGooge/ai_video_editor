@@ -1,0 +1,26 @@
+<html><head><link rel=stylesheet href=base.css><style>
+body{width:1280px;height:720px}
+.grid{background-size:64px 64px}
+h1{position:absolute;left:64px;top:44px;font-size:118px;font-weight:800;letter-spacing:-3px;line-height:1}
+h1 .arrow{color:#8B949E;font-weight:700;margin:0 18px}
+.win{position:absolute;left:64px;top:210px;width:600px;height:440px;background:#161B22;border:2px solid #30363D;border-radius:18px;overflow:hidden}
+.bar{height:72px;border-bottom:2px solid #30363D;display:flex;align-items:center;justify-content:space-between;padding:0 26px}
+.bar b{font-size:30px}
+.btn{background:#3FB950;color:#0D1117;font-weight:700;font-size:24px;padding:10px 22px;border-radius:10px}
+.body{position:relative;height:366px}
+.ghost{position:absolute;border:3px dashed #30363D;border-radius:12px;width:250px;height:110px}
+.empty{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:50px;font-weight:700;color:#8B949E}
+.brace{position:absolute;left:700px;top:178px;width:520px;text-align:center;font-size:330px;font-weight:700;line-height:1;letter-spacing:-20px}
+.label{position:absolute;left:700px;top:560px;width:520px;text-align:center}
+.label .pill{background:#F85149;font-size:30px;padding:12px 28px}
+</style></head><body><div class=grid></div>
+<h1>20 POSTS<span class=arrow>→</span><span class=red>0</span></h1>
+<div class=win><div class=bar><b>Corkboard</b><span class=btn>Post</span></div>
+<div class=body>
+<div class=ghost style="left:30px;top:28px"></div><div class=ghost style="left:310px;top:28px"></div>
+<div class=ghost style="left:30px;top:230px"></div><div class=ghost style="left:310px;top:230px"></div>
+<div class=empty>No posts yet</div></div></div>
+<svg style="position:absolute;left:612px;top:258px;width:54px;height:72px" viewBox="0 0 24 32"><path d="M2 2 L2 26 L8 20 L12 30 L16 28 L12 18 L20 18 Z" fill="#E6EDF3" stroke="#0D1117" stroke-width="2" stroke-linejoin="round"/></svg>
+<div class="brace mono">{}</div>
+<div class=label><span class=pill>One save</span></div>
+</body></html>

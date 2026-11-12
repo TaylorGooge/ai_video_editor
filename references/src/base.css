@@ -1,0 +1,6 @@
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0D1117;color:#E6EDF3;font-family:Inter,sans-serif;overflow:hidden;position:relative}
+.grid{position:absolute;inset:0;background-image:linear-gradient(#30363D33 1px,transparent 1px),linear-gradient(90deg,#30363D33 1px,transparent 1px);background-size:80px 80px}
+.mono{font-family:"JetBrains Mono","DejaVu Sans Mono",monospace}
+.green{color:#3FB950}.red{color:#F85149}.muted{color:#8B949E}
+.pill{display:inline-block;border-radius:999px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:#0D1117}
