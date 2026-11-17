@@ -1,0 +1,35 @@
+VIDEO: v_s1b.mp4 (main cut, 1:30)
+THUMBNAIL: v_s1b-thumbnail.png
+
+TITLE (pick one)
+1. Your AI Knows Where. Only You Know Why.   <- recommended, matches thumbnail A
+2. The Question Your AI Can't Answer About Your Own App
+3. Removing One Question Broke a Page Nobody Touched
+
+DESCRIPTION
+A client asked me to remove one question from a booking form: "Do you have pets?" My AI tool found that the answer was still being used on the admin page. It set a paw icon, picked the cleaner and added a fee.
+
+Your AI can find where something is used. It can't know why you wanted it, or what you want now. That part is your job, and it's the part that decides whether a "small change" breaks something.
+
+Before you remove any field, paste this into your AI tool:
+
+Before removing the "[question]" field, list every page, rule, calculation and email that reads or displays it. Don't change anything yet.
+
+Then answer the why yourself:
+- Why did you start asking this?
+- What does it feed (fees, rules, assignments)?
+- Should that still happen?
+- What happens to the answers you already have?
+
+The app and the details in this story are a made-up stand-in for a real review.
+
+0:00 One small change
+0:24 The questions only the client could answer
+0:37 Where vs. why
+0:57 What to do before you remove a field
+
+#vibecoding #aicoding #lovable
+
+PINNED COMMENT (same prompt, easy to copy)
+Paste this before you remove any field:
+Before removing the "[question]" field, list every page, rule, calculation and email that reads or displays it. Don't change anything yet.

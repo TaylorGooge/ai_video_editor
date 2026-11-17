@@ -1,0 +1,32 @@
+VIDEO: v_s1b-extended.mp4 (extended cut, 1:52)
+THUMBNAIL: v_s1b-extended-thumbnail.png
+
+TITLE (pick one)
+1. "Just Paste My Email Into Claude" Wasn't Enough   <- recommended, matches thumbnail B
+2. Your AI Knows Where. Only You Know Why. (Extended)
+3. What to Tell Your AI Before You Remove a Field
+
+DESCRIPTION
+A client asked me to remove one question from a booking form. My AI tool found it was still driving the admin page: a paw icon, the cleaner assignment and a pet fee. I asked the client four questions. They said: "Just paste my email into Claude. It'll handle it."
+
+The AI can find where a field is used. It can't know why you added it or what you want now. This version also shows what good answers sound like, the kind of email your AI can actually work with.
+
+Before you remove any field, paste this into your AI tool:
+
+Before removing the "[question]" field, list every page, rule, calculation and email that reads or displays it. Don't change anything yet.
+
+Then answer the why yourself, in plain words, and give those answers to your AI with the request.
+
+The app and the details in this story are a made-up stand-in for a real review.
+
+0:00 One small change
+0:24 The questions only the client could answer
+0:37 Where vs. why
+0:57 What a good answer sounds like
+1:20 What to do before you remove a field
+
+#vibecoding #aicoding #smallbusiness
+
+PINNED COMMENT (same prompt, easy to copy)
+Paste this before you remove any field:
+Before removing the "[question]" field, list every page, rule, calculation and email that reads or displays it. Don't change anything yet.

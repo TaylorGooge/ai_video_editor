@@ -1,0 +1,44 @@
+{
+ "_note": "Shorts for v_s1b, cut from the approved extended long-form (times are seconds of done/v_s1b/long/v_s1b-extended.mp4). Crop = the 9:16-safe column x=656 w=608 (see raw/v_s1b/notes.md), no header, captions moved per scene (cy) into empty space.",
+ "slug": "v_s1b",
+ "source": "done/v_s1b/long/v_s1b-extended.mp4",
+ "voice": "work/v_s1b/build/voice-extended-final.wav",
+ "transcript": "work/v_s1b/transcript/edited-extended.json",
+ "label": "Public by Default",
+ "header": false,
+ "end_card_seconds": 2.5,
+ "caption_fixes": {"ai": "AI"},
+ "shorts": {
+  "01": {
+   "title": "One question was holding up three things",
+   "pieces": [
+    {"a": 0.0, "b": 24.0, "v": {"t": "crop", "rect": [656, 0, 608, 1080]},
+     "cy": [[0.0, 1450], [4.95, 230], [8.2, 1610]]},
+    {"a": 79.76, "b": 87.26, "v": {"t": "crop", "rect": [656, 0, 608, 1080]},
+     "cy": [[79.76, 1450]]}
+   ]
+  },
+  "02": {
+   "title": "Your AI knows where. Only you know why.",
+   "pieces": [
+    {"a": 0.0, "b": 4.95, "v": {"t": "crop", "rect": [656, 0, 608, 1080]},
+     "cy": [[0.0, 1450]]},
+    {"a": 33.36, "b": 56.94, "v": {"t": "crop", "rect": [656, 0, 608, 1080]},
+     "cy": [[33.36, 1300], [37.57, 950], [48.87, 220]]},
+    {"a": 94.60, "b": 100.0, "v": {"t": "crop", "rect": [656, 0, 608, 1080]},
+     "cy": [[94.60, 1450]]}
+   ]
+  },
+  "03": {
+   "title": "What the client should have said",
+   "pieces": [
+    {"a": 0.0, "b": 4.95, "v": {"t": "crop", "rect": [656, 0, 608, 1080]},
+     "cy": [[0.0, 1450]]},
+    {"a": 24.28, "b": 33.2, "v": {"t": "crop", "rect": [656, 0, 608, 1080]},
+     "cy": [[24.28, 1530]]},
+    {"a": 57.14, "b": 79.7, "v": {"t": "crop", "rect": [656, 0, 608, 1080]},
+     "cy": [[57.14, 220], [74.46, 1740]]}
+   ]
+  }
+ }
+}

@@ -2,5 +2,9 @@
 
 *.mov
 *.mp4
+*.png
 
 node_modules/
+
+/work
+/raw

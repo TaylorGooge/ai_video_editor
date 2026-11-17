@@ -1,0 +1,13 @@
+Title:
+One form question was holding up three things
+
+Description:
+A client asked me to remove one question from a booking form. It was quietly running a fee, a cleaner match and an icon on the admin page. Paste this prompt before you remove anything:
+
+Before removing the "[question]" field, list every page, rule, calculation and email that reads or displays it. Don't change anything yet.
+
+Full video: <long-form link>
+
+#vibecoding #AIcoding #nocode
+
+Related video (YouTube Studio): Your AI Knows Where. Only You Know Why. (main cut)

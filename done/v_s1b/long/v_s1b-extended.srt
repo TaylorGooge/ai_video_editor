@@ -1,0 +1,141 @@
+1
+00:00:00,370 --> 00:00:03,630
+A client asked me to remove one
+question from a booking form.
+
+2
+00:00:03,930 --> 00:00:05,060
+"Do you have pets?"
+
+3
+00:00:05,300 --> 00:00:07,090
+One question. Should take a minute.
+
+4
+00:00:07,480 --> 00:00:11,720
+So I asked my AI tool what removing it
+would touch. And it found something.
+
+5
+00:00:12,060 --> 00:00:16,160
+That answer was being used on the admin
+page. It put a paw icon on the booking.
+
+6
+00:00:16,200 --> 00:00:19,980
+It picked which cleaner got
+the job. It added a fee.
+
+7
+00:00:20,320 --> 00:00:24,040
+Remove the question, and all
+of that quietly stops working.
+
+8
+00:00:24,430 --> 00:00:25,680
+So I asked the client:
+
+9
+00:00:25,920 --> 00:00:27,600
+Why did you start asking this?
+
+10
+00:00:27,840 --> 00:00:29,150
+What is the fee for?
+
+11
+00:00:29,390 --> 00:00:31,020
+Should cleaners still be matched?
+
+12
+00:00:31,260 --> 00:00:33,220
+And what about the
+answers you already have?
+
+13
+00:00:33,590 --> 00:00:37,330
+They said: "Just paste my email
+into Claude. It'll handle it."
+
+14
+00:00:37,720 --> 00:00:39,250
+Here's what I couldn't get across.
+
+15
+00:00:39,390 --> 00:00:41,950
+The AI can find where the answer is used.
+
+16
+00:00:42,770 --> 00:00:47,620
+It can't know why you wanted it, or what
+you want now. That's not in the code.
+
+17
+00:00:47,660 --> 00:00:48,680
+It's in your head.
+
+18
+00:00:49,150 --> 00:00:51,930
+It's like asking a contractor
+to knock out a wall.
+
+19
+00:00:51,970 --> 00:00:54,110
+A good one checks if it's load-bearing.
+
+20
+00:00:54,150 --> 00:00:56,900
+Only you know if you still
+need the room upstairs.
+
+21
+00:00:57,290 --> 00:00:59,080
+Here's what a good answer sounds like.
+
+22
+00:00:59,380 --> 00:01:01,640
+"We started asking because
+cleaners with allergies
+
+23
+00:01:01,680 --> 00:01:03,850
+kept getting sent to homes with cats."
+
+24
+00:01:04,090 --> 00:01:06,080
+"The fee covers extra vacuuming."
+
+25
+00:01:06,320 --> 00:01:10,220
+"Yes, still match. Ask about
+pets on the phone instead."
+
+26
+00:01:10,460 --> 00:01:14,520
+"Keep the old answers for existing
+bookings; stop asking new customers."
+
+27
+00:01:14,910 --> 00:01:19,670
+That email, the AI can work with.
+Now it knows the where and the why.
+
+28
+00:01:20,140 --> 00:01:23,970
+Before you remove anything,
+paste this. That's the where.
+
+29
+00:01:28,910 --> 00:01:30,840
+Then answer the why yourself.
+
+30
+00:01:30,880 --> 00:01:34,360
+If you can't, that's the real
+problem, and no prompt fixes it.
+
+31
+00:01:34,750 --> 00:01:39,050
+Every field in your app is a decision
+somebody made. Make sure it's you.
+

@@ -1,0 +1,706 @@
+{
+ "cut": "main",
+ "segments": [
+  {
+   "name": "s01",
+   "raw": [
+    0.99,
+    4.06
+   ],
+   "v": [
+    0.3,
+    3.37
+   ],
+   "text": "A client asked me to remove one question from a booking form."
+  },
+  {
+   "name": "s02",
+   "raw": [
+    5.89,
+    6.77
+   ],
+   "v": [
+    3.92,
+    4.8
+   ],
+   "text": "\"Do you have pets?\""
+  },
+  {
+   "name": "s03",
+   "raw": [
+    8.0,
+    9.53
+   ],
+   "v": [
+    5.3,
+    6.83
+   ],
+   "text": "One question. Should take a minute."
+  },
+  {
+   "name": "s04",
+   "raw": [
+    15.91,
+    19.89
+   ],
+   "v": [
+    7.48,
+    11.46
+   ],
+   "text": "So I asked my AI tool what removing it would touch. And it found something."
+  },
+  {
+   "name": "s05",
+   "raw": [
+    22.1,
+    29.86
+   ],
+   "v": [
+    11.96,
+    19.72
+   ],
+   "text": "That answer was being used on the admin page. It put a paw icon on the booking. It picked which cleaner got the job. It added a fee."
+  },
+  {
+   "name": "s06",
+   "raw": [
+    35.77,
+    39.23
+   ],
+   "v": [
+    20.32,
+    23.78
+   ],
+   "text": "Remove the question, and all of that quietly stops working."
+  },
+  {
+   "name": "s07a",
+   "raw": [
+    40.61,
+    41.6
+   ],
+   "v": [
+    24.43,
+    25.42
+   ],
+   "text": "So I asked the client:"
+  },
+  {
+   "name": "s07b",
+   "raw": [
+    42.44,
+    43.86
+   ],
+   "v": [
+    25.92,
+    27.34
+   ],
+   "text": "Why did you start asking this?"
+  },
+  {
+   "name": "s07c",
+   "raw": [
+    44.69,
+    45.74
+   ],
+   "v": [
+    27.84,
+    28.89
+   ],
+   "text": "What is the fee for?"
+  },
+  {
+   "name": "s07d",
+   "raw": [
+    46.69,
+    48.06
+   ],
+   "v": [
+    29.39,
+    30.76
+   ],
+   "text": "Should cleaners still be matched?"
+  },
+  {
+   "name": "s07e",
+   "raw": [
+    49.01,
+    50.71
+   ],
+   "v": [
+    31.26,
+    32.96
+   ],
+   "text": "And what about the answers you already have?"
+  },
+  {
+   "name": "s08",
+   "raw": [
+    52.06,
+    55.62
+   ],
+   "v": [
+    33.51,
+    37.07
+   ],
+   "text": "They said: \"Just paste my email into Claude. It'll handle it.\""
+  },
+  {
+   "name": "s09",
+   "raw": [
+    57.43,
+    58.7
+   ],
+   "v": [
+    37.72,
+    38.99
+   ],
+   "text": "Here's what I couldn't get across."
+  },
+  {
+   "name": "s10",
+   "raw": [
+    59.56,
+    61.86
+   ],
+   "v": [
+    39.39,
+    41.69
+   ],
+   "text": "The AI can find where the answer is used."
+  },
+  {
+   "name": "s11",
+   "raw": [
+    71.89,
+    77.54
+   ],
+   "v": [
+    42.77,
+    48.42
+   ],
+   "text": "It can't know why you wanted it, or what you want now. That's not in the code. It's in your head."
+  },
+  {
+   "name": "s12",
+   "raw": [
+    79.09,
+    86.71
+   ],
+   "v": [
+    49.02,
+    56.64
+   ],
+   "text": "It's like asking a contractor to knock out a wall. A good one checks if it's load-bearing. Only you know if you still need the room upstairs."
+  },
+  {
+   "name": "s13",
+   "raw": [
+    87.66,
+    91.31
+   ],
+   "v": [
+    57.29,
+    60.94
+   ],
+   "text": "Before you remove anything, paste this. That's the where."
+  },
+  {
+   "name": "s14",
+   "raw": [
+    92.55,
+    97.74
+   ],
+   "v": [
+    66.14,
+    71.33
+   ],
+   "text": "Then answer the why yourself. If you can't, that's the real problem, and no prompt fixes it."
+  },
+  {
+   "name": "s15",
+   "raw": [
+    99.03,
+    103.03
+   ],
+   "v": [
+    71.98,
+    75.98
+   ],
+   "text": "Every field in your app is a decision somebody made. Make sure it's you."
+  }
+ ],
+ "clips": [
+  {
+   "id": "01",
+   "f": "s1b-01-email-request.mp4",
+   "dur": 8,
+   "start": [
+    "cut",
+    "s01",
+    0.3
+   ],
+   "anchors": [
+    [
+     1.0,
+     [
+      "seg",
+      "s01",
+      -0.3
+     ]
+    ]
+   ],
+   "v_start": 0.0,
+   "in": 1.0,
+   "v_end": 4.95,
+   "freezes": [],
+   "warn": [],
+   "out": 5.95,
+   "hold": 0.0
+  },
+  {
+   "id": "02",
+   "f": "s1b-02-form-strike.mp4",
+   "dur": 8,
+   "start": [
+    "cut",
+    "s03",
+    0.35
+   ],
+   "anchors": [
+    [
+     2.6,
+     [
+      "seg",
+      "s03",
+      0.0
+     ]
+    ]
+   ],
+   "v_start": 4.95,
+   "in": 2.25,
+   "v_end": 8.2,
+   "freezes": [],
+   "warn": [],
+   "out": 5.5,
+   "hold": 0.0
+  },
+  {
+   "id": "03",
+   "f": "s1b-03-arrow-to-admin.mp4",
+   "dur": 7,
+   "start": [
+    "cont"
+   ],
+   "anchors": [
+    [
+     2.55,
+     [
+      "w",
+      19.18
+     ]
+    ]
+   ],
+   "in": 0.0,
+   "v_start": 8.2,
+   "v_end": 13.12,
+   "freezes": [],
+   "warn": [],
+   "out": 4.92,
+   "hold": 0.0
+  },
+  {
+   "id": "04",
+   "f": "s1b-04-admin-items-light-up.mp4",
+   "dur": 9,
+   "start": [
+    "cont"
+   ],
+   "anchors": [
+    [
+     1.8,
+     [
+      "w",
+      25.06
+     ]
+    ],
+    [
+     3.6,
+     [
+      "w",
+      27.62
+     ]
+    ],
+    [
+     5.4,
+     [
+      "w",
+      29.54
+     ]
+    ]
+   ],
+   "in": 0.0,
+   "v_start": 13.12,
+   "v_end": 20.12,
+   "freezes": [
+    [
+     3.5,
+     0.76
+    ],
+    [
+     5.3,
+     0.12
+    ]
+   ],
+   "warn": [],
+   "out": 6.12,
+   "hold": 0.0
+  },
+  {
+   "id": "05",
+   "f": "s1b-05-admin-items-go-grey.mp4",
+   "dur": 6,
+   "start": [
+    "cut",
+    "s06",
+    0.2
+   ],
+   "anchors": [
+    [
+     1.2,
+     [
+      "seg",
+      "s06",
+      0.0
+     ]
+    ],
+    [
+     2.0,
+     [
+      "w",
+      37.82
+     ]
+    ]
+   ],
+   "freeze_lead": 0.04,
+   "v_start": 20.12,
+   "in": 1.0,
+   "v_end": 24.28,
+   "freezes": [
+    [
+     1.96,
+     1.25
+    ]
+   ],
+   "warn": [],
+   "out": 3.91,
+   "hold": 0.0
+  },
+  {
+   "id": "06",
+   "f": "s1b-06-four-questions.mp4",
+   "dur": 12,
+   "start": [
+    "cut",
+    "s07a",
+    0.15
+   ],
+   "anchors": [
+    [
+     2.2,
+     [
+      "seg",
+      "s07b",
+      0
+     ]
+    ],
+    [
+     4.2,
+     [
+      "seg",
+      "s07c",
+      0
+     ]
+    ],
+    [
+     6.2,
+     [
+      "seg",
+      "s07d",
+      0
+     ]
+    ],
+    [
+     8.4,
+     [
+      "seg",
+      "s07e",
+      0
+     ]
+    ]
+   ],
+   "v_start": 24.28,
+   "in": 0.56,
+   "v_end": 33.36,
+   "freezes": [
+    [
+     4.1,
+     -0.08
+    ],
+    [
+     6.1,
+     -0.45
+    ],
+    [
+     8.3,
+     -0.33
+    ]
+   ],
+   "warn": [],
+   "out": 10.5,
+   "hold": 0.0
+  },
+  {
+   "id": "07",
+   "f": "s1b-07-reply-just-paste.mp4",
+   "dur": 8,
+   "start": [
+    "cut",
+    "s08",
+    0.15
+   ],
+   "anchors": [
+    [
+     2.9,
+     [
+      "w",
+      53.2
+     ]
+    ]
+   ],
+   "v_start": 33.36,
+   "in": 1.61,
+   "v_end": 37.57,
+   "freezes": [],
+   "warn": [],
+   "out": 5.82,
+   "hold": 0.0
+  },
+  {
+   "id": "08",
+   "f": "s1b-08-where-why-split.mp4",
+   "dur": 5,
+   "start": [
+    "cut",
+    "s09",
+    0.15
+   ],
+   "anchors": [
+    [
+     1.0,
+     [
+      "seg",
+      "s09",
+      -0.15
+     ]
+    ]
+   ],
+   "v_start": 37.57,
+   "in": 1.0,
+   "v_end": 38.67,
+   "freezes": [],
+   "warn": [],
+   "out": 2.1,
+   "hold": 0.0
+  },
+  {
+   "id": "09",
+   "f": "s1b-09-where-ai-finds-it.mp4",
+   "dur": 8,
+   "start": [
+    "cut",
+    "s09",
+    -0.95
+   ],
+   "anchors": [
+    [
+     1.0,
+     [
+      "seg",
+      "s09",
+      0.95
+     ]
+    ]
+   ],
+   "v_start": 38.67,
+   "in": 1.0,
+   "v_end": 42.57,
+   "freezes": [],
+   "warn": [],
+   "out": 4.9,
+   "hold": 0.0
+  },
+  {
+   "id": "10",
+   "f": "s1b-10-why-only-owner-knows.mp4",
+   "dur": 8,
+   "start": [
+    "cut",
+    "s11",
+    0.2
+   ],
+   "anchors": [
+    [
+     1.2,
+     [
+      "seg",
+      "s11",
+      0
+     ]
+    ]
+   ],
+   "v_start": 42.57,
+   "in": 1.0,
+   "v_end": 48.87,
+   "freezes": [],
+   "warn": [],
+   "out": 7.3,
+   "hold": 0.0
+  },
+  {
+   "id": "11",
+   "f": "s1b-11-load-bearing-wall.mp4",
+   "dur": 10,
+   "start": [
+    "cut",
+    "s12",
+    0.15
+   ],
+   "anchors": [
+    [
+     3.2,
+     [
+      "w",
+      80.52
+     ]
+    ],
+    [
+     5.0,
+     [
+      "w",
+      82.36
+     ]
+    ],
+    [
+     6.4,
+     [
+      "w",
+      84.24
+     ]
+    ]
+   ],
+   "v_start": 48.87,
+   "in": 1.62,
+   "v_end": 56.99,
+   "freezes": [
+    [
+     4.9,
+     0.04
+    ],
+    [
+     6.3,
+     0.48
+    ]
+   ],
+   "warn": [],
+   "out": 9.22,
+   "hold": 0.0
+  },
+  {
+   "id": "12",
+   "f": "s1b-12-paste-this-prompt.mp4",
+   "dur": 14,
+   "start": [
+    "cut",
+    "s13",
+    0.3
+   ],
+   "anchors": [
+    [
+     1.0,
+     [
+      "seg",
+      "s13",
+      -0.3
+     ]
+    ]
+   ],
+   "v_start": 56.99,
+   "in": 1.0,
+   "v_end": 65.99,
+   "freezes": [],
+   "warn": [],
+   "out": 10.0,
+   "hold": 0.0
+  },
+  {
+   "id": "13",
+   "f": "s1b-13-questions-you-stamp.mp4",
+   "dur": 8,
+   "start": [
+    "cut",
+    "s14",
+    0.15
+   ],
+   "anchors": [
+    [
+     1.8,
+     [
+      "w",
+      93.56
+     ]
+    ]
+   ],
+   "v_start": 65.99,
+   "in": 0.64,
+   "v_end": 71.83,
+   "freezes": [],
+   "warn": [],
+   "out": 6.48,
+   "hold": 0.0
+  },
+  {
+   "id": "14",
+   "f": "s1b-14-statement-every-field.mp4",
+   "dur": 6,
+   "start": [
+    "cut",
+    "s15",
+    0.15
+   ],
+   "anchors": [
+    [
+     1.2,
+     [
+      "seg",
+      "s15",
+      -0.05
+     ]
+    ]
+   ],
+   "v_start": 71.83,
+   "in": 1.1,
+   "v_end": 77.58,
+   "freezes": [],
+   "warn": [],
+   "out": 6,
+   "hold": 0.85
+  }
+ ],
+ "voice_end": 75.98,
+ "outro": [
+  77.58,
+  89.58
+ ],
+ "total": 89.58
+}
