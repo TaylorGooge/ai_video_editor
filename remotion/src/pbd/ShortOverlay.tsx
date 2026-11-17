@@ -17,10 +17,12 @@ export type PaneLabel = {text: string; x: number; y: number; from: number; to: n
 
 export type ShortOverlayProps = {
 	durationInFrames: number;
-	header: {label: string; title: string};
+	header: {label: string; title: string} | null; // null = no header (footage fills the frame)
 	words: Word[];
 	cards: Card[];
 	labels: PaneLabel[];
+	// Optional caption centre (px, 1080x1920 frame) per time range; default is the middle third.
+	captionY?: {from: number; to: number; y: number}[];
 };
 
 const FADE = 5; // frames
@@ -33,15 +35,16 @@ const Fade: React.FC<{dur: number; first: boolean; children: React.ReactNode}> =
 	return <AbsoluteFill style={{opacity}}>{children}</AbsoluteFill>;
 };
 
-export const ShortOverlay: React.FC<ShortOverlayProps> = ({header, words, cards, labels}) => {
+export const ShortOverlay: React.FC<ShortOverlayProps> = ({header, words, cards, labels, captionY}) => {
 	const frame = useCurrentFrame();
 	const {fps} = useVideoConfig();
 	const t = frame / fps;
 	const onCard = cards.some((c) => t >= c.from && t < c.to);
+	const capY = captionY?.find((r) => t >= r.from && t < r.to)?.y;
 
 	return (
 		<AbsoluteFill>
-			{!onCard ? (
+			{!onCard && header ? (
 				<div style={{position: 'absolute', left: 96, right: 96, top: 120}}>
 					<div style={{...labelStyle, fontSize: 26}}>{header.label}</div>
 					<div style={{fontFamily: INTER, fontWeight: 700, fontSize: 58, color: C.paper, marginTop: 8}}>{header.title}</div>
@@ -91,7 +94,7 @@ export const ShortOverlay: React.FC<ShortOverlayProps> = ({header, words, cards,
 				);
 			})}
 
-			{cards.some((c) => c.kind === 'end' && t >= c.from) ? null : <ShortCaptions words={words} />}
+			{cards.some((c) => c.kind === 'end' && t >= c.from) ? null : <ShortCaptions words={words} centerY={capY} />}
 		</AbsoluteFill>
 	);
 };

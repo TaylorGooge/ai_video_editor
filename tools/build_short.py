@@ -11,6 +11,9 @@ spec: see tools/examples/10_blob-shorts-spec.json. Paths in it are relative to t
   picture "t": card (Remotion card: title|rows|end) | crop {rect:[x,y,w,h]} |
                freeze {at, rect} | split (uses short.split + short.labels; optional vsrc:[in,out] speeds video to fit)
   "end_card_seconds": appends a silent end card to every Short (spec section 10); 0 = none.
+  "header": false (spec-wide or per short) drops the label/title header and centres crops vertically,
+            for footage that already fills a 9:16 frame.
+  piece "cy": [[source_t, y], ...] caption centre y (1080x1920 px) from each source time on; omitted = default.
 Preview  -> work/<slug>/shorts/preview-<id>-<version>.mp4 (720p)
 Final    -> done/<slug>/shorts/<slug>-short-<id>.mp4 (1080p, two-pass loudnorm)
 The raw source is only read, never written.
@@ -49,7 +52,12 @@ def run(cmd):
     return r
 
 
+HEADER = True  # set per short in main()
+
+
 def place(h):
+    if not HEADER:
+        return max(0, (1920 - h) // 2)
     return max(290, PANEL_CY - h // 2)
 
 
@@ -90,7 +98,9 @@ def build_piece(short, p, n, out, q):
 
 
 def main(sid, mode):
+    global HEADER
     short = SHORTS[sid]
+    HEADER = short.get("header", SPEC.get("header", True))
     q = {"preview": {"preset": "veryfast", "crf_mid": 18, "scale": 0.6667, "size": "720x1280", "crf": 23, "abr": "160k"},
          "final": {"preset": "slow", "crf_mid": 12, "scale": 1, "size": "1080x1920", "crf": 18, "abr": "320k"}}[mode]
     d = os.path.join(WORK, "shorts", sid)
@@ -99,10 +109,16 @@ def main(sid, mode):
 
     # 1) timeline
     off, total, pieces, words, cards, labels, areas = 0.0, 0, [], [], [], [], []
+    cap_y = []
     for i, p in enumerate(short["pieces"]):
         n = round((p["silent"] if "silent" in p else p["b"] - p["a"]) * FPS)
         dur = n / FPS
         pieces.append((p, n, off))
+        cys = p.get("cy", [])
+        for k, (st, y) in enumerate(cys):
+            fr = off + max(0.0, st - p["a"])
+            to = off + (min(dur, cys[k + 1][0] - p["a"]) if k + 1 < len(cys) else dur)
+            cap_y.append({"from": round(fr, 4), "to": round(to, 4), "y": y})
         for w in ([] if "silent" in p else words_all):
             # keep words that start in the piece, or that Whisper timed early but are still
             # being spoken when the piece starts (e.g. "Both" at 2:20)
@@ -128,8 +144,8 @@ def main(sid, mode):
         m = next((x for x in merged if x["text"] == l["text"] and abs(x["to"] - l["from"]) < 1e-3), None)
         if m: m["to"] = l["to"]
         else: merged.append(dict(l))
-    props = {"durationInFrames": total, "header": {"label": LABEL, "title": short["title"]},
-             "words": words, "cards": cards, "labels": merged}
+    props = {"durationInFrames": total, "header": {"label": LABEL, "title": short["title"]} if HEADER else None,
+             "words": words, "cards": cards, "labels": merged, "captionY": cap_y}
     json.dump(props, open(os.path.join(d, "overlay-props.json"), "w", encoding="utf-8"), indent=1, ensure_ascii=False)
     print(f"Short {sid}: {total} frames = {total / FPS:.2f} s, {len(words)} caption words")
 
