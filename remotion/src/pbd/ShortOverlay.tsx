@@ -7,11 +7,14 @@ import {ShortCaptions, Word} from './ShortCaptions';
 import {VerticalTitleCard, VerticalTitleCardProps} from './VerticalTitleCard';
 import {RowsCard} from './RowsCard';
 import {EndCard, EndCardProps} from './EndCard';
+import {PromptCard} from './Cards';
 
 export type Card =
 	| {kind: 'title'; from: number; to: number; props: VerticalTitleCardProps}
 	| {kind: 'rows'; from: number; to: number; props?: {label?: string; title?: string}}
-	| {kind: 'end'; from: number; to: number; props?: EndCardProps};
+	| {kind: 'end'; from: number; to: number; props?: EndCardProps}
+	// The long-form PromptCard, sized for a 9:16 phone frame.
+	| {kind: 'prompt'; from: number; to: number; props: {label: string; title?: string; body: string; cps: number; size?: number; note?: string; top?: number}};
 
 export type PaneLabel = {text: string; x: number; y: number; from: number; to: number};
 
@@ -86,6 +89,8 @@ export const ShortOverlay: React.FC<ShortOverlayProps> = ({header, words, cards,
 								<VerticalTitleCard {...c.props} />
 							) : c.kind === 'end' ? (
 								<EndCard {...(c.props ?? {})} />
+							) : c.kind === 'prompt' ? (
+								<PromptCard size={34} top={420} {...c.props} />
 							) : (
 								<RowsCard {...(c.props ?? {})} />
 							)}

@@ -1,6 +1,7 @@
 import React from 'react';
 import {Composition} from 'remotion';
 import {ShortOverlay, ShortOverlayProps} from './pbd/ShortOverlay';
+import {LongScene, LongSceneProps} from './pbd/LongScene';
 
 const defaults: ShortOverlayProps = {
 	durationInFrames: 150,
@@ -17,6 +18,16 @@ const defaults: ShortOverlayProps = {
 
 export const Root: React.FC = () => (
 	<>
+		<Composition
+			id="LongScene"
+			component={LongScene}
+			width={1920}
+			height={1080}
+			fps={30}
+			durationInFrames={60}
+			defaultProps={{kind: 'outro', dur: 2} as LongSceneProps}
+			calculateMetadata={({props}) => ({durationInFrames: Math.max(1, Math.round(props.dur * 30))})}
+		/>
 		<Composition
 			id="ShortOverlay"
 			component={ShortOverlay}

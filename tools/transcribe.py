@@ -10,6 +10,8 @@ src, out_base, model_name = sys.argv[1], sys.argv[2], (sys.argv[3] if len(sys.ar
 audio = np.fromfile(src, dtype=np.float32)
 model = WhisperModel(model_name, device="cpu", compute_type="int8", cpu_threads=4)
 prompt = "Public by Default. Supabase, Lovable, Bolt, Cursor, Replit, Claude Code, RLS, row level security, blob, storage bucket, .env, API key."
+if len(sys.argv) > 4:  # optional per-video prompt (tool names, file names from script.md)
+    prompt = sys.argv[4]
 segments, info = model.transcribe(audio, language="en", word_timestamps=True,
                                   initial_prompt=prompt, vad_filter=False, beam_size=5)
 segs = []

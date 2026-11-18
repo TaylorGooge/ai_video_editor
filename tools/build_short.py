@@ -10,6 +10,7 @@ spec: see tools/examples/10_blob-shorts-spec.json. Paths in it are relative to t
   piece: {"a": in, "b": out, "v": picture}  (seconds of source; audio always comes from a..b)
   picture "t": card (Remotion card: title|rows|end) | crop {rect:[x,y,w,h]} |
                freeze {at, rect} | split (uses short.split + short.labels; optional vsrc:[in,out] speeds video to fit)
+  "word_fixes": {"<source start s>": "word"} replaces one caption word by time (beats caption_fixes).
   "end_card_seconds": appends a silent end card to every Short (spec section 10); 0 = none.
   "header": false (spec-wide or per short) drops the label/title header and centres crops vertically,
             for footage that already fills a 9:16 frame.
@@ -33,6 +34,7 @@ FIXES = {"superbase": "Supabase", "superbase's": "Supabase's", "sukabase": "Supa
 
 SPEC = json.load(open(sys.argv[1], encoding="utf-8"))
 FIXES.update(SPEC.get("caption_fixes", {}))
+WORD_FIXES = SPEC.get("word_fixes", {})  # {"<source start s>": "replacement word incl. punctuation"}
 SLUG = SPEC["slug"]
 WORK = os.path.join(ROOT, "work", SLUG)
 SRC = os.path.join(ROOT, SPEC["source"])
@@ -127,6 +129,11 @@ def main(sid, mode):
                 core = txt.rstrip(".,?!")
                 if core.lower() in FIXES:
                     txt = FIXES[core.lower()] + txt[len(core):]
+                # one-off fixes keyed by the word's source start time (e.g. "for" -> "four" once)
+                for k, v in WORD_FIXES.items():
+                    if abs(float(k) - w["start"]) < 0.05:
+                        txt = v
+                        break
                 if (not words or words[-1]["w"][-1] in ".?!") and txt[:1].islower():
                     txt = txt[0].upper() + txt[1:]
                 words.append({"w": txt, "start": round(off + max(w["start"], p["a"]) - p["a"], 3),
