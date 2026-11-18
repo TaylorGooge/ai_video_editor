@@ -1,0 +1,11 @@
+Title:
+I gave my AI database access. The price was still wrong
+
+Description:
+Same prompt, but this time the AI could read the database. It changed how cleaners get matched without asking me, and the booking was still $15 short. Having access isn't the same as checking. How to check what your AI didn't:
+
+Full fix: https://youtu.be/mHklVwrxhj8
+
+#vibecoding #AIcoding #supabase
+
+Related video (YouTube Studio): My AI Removed One Form Field. It Never Mentioned the Price

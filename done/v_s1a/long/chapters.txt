@@ -1,0 +1,8 @@
+0:00 Two cats, no fee, wrong cleaner
+0:33 What the AI did, and what it said
+1:13 Where the fee lives
+1:57 Same prompt, database connected
+2:47 Null is not "no"
+3:18 Remove a field in order
+4:33 Verify
+4:58 Paste these

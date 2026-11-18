@@ -1,0 +1,15 @@
+Title:
+"Remove the question" is four changes, not one
+
+Description:
+Stop asking, stop saving, stop using it, and decide what happens to the answers you already have. My AI did the first two. Paste this before you remove any field:
+
+Before changing anything: list every file, query, type, component, test, email template and API call that reads, writes or displays `has_pets` (also search for `hasPets`, `pets` and `pet_`). For each one, tell me what happens for new records where the value is null. Then tell me what you could NOT check, such as database functions, triggers or third-party services. Don't edit anything yet.
+
+The database query that finds what your AI can't see, and the full order of changes, are in the full video.
+
+Full fix: https://youtu.be/mHklVwrxhj8
+
+#vibecoding #AIcoding #nocode
+
+Related video (YouTube Studio): My AI Removed One Form Field. It Never Mentioned the Price

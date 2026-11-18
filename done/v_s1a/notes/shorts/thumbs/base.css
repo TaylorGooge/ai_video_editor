@@ -1,0 +1,22 @@
+@font-face{font-family:Inter;src:url(fonts/Inter-Medium.otf);font-weight:500}
+@font-face{font-family:Inter;src:url(fonts/Inter-SemiBold.otf);font-weight:600}
+@font-face{font-family:Inter;src:url(fonts/Inter-Bold.otf);font-weight:700 800}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1920px;background:#0D1117;color:#E6EDF3;font-family:Inter,sans-serif;overflow:hidden;position:relative}
+.grid{position:absolute;inset:0;background-image:linear-gradient(#30363D33 1px,transparent 1px),linear-gradient(90deg,#30363D33 1px,transparent 1px);background-size:72px 72px}
+.wrap{position:absolute;left:84px;right:84px;top:380px}
+.k{font-size:64px;font-weight:700;color:#8B949E}
+h1{font-size:196px;font-weight:800;letter-spacing:-7px;line-height:.92;margin-top:20px}
+.red{color:#F85149}.green{color:#3FB950}
+.card{margin-top:64px;background:#161B22;border:3px solid #30363D;border-radius:30px;padding:44px 50px}
+.cap{font-size:28px;font-weight:700;letter-spacing:.12em;color:#8B949E;text-transform:uppercase}
+.row{display:flex;justify-content:space-between;align-items:center;margin-top:30px;font-size:50px;font-weight:600}
+.lbl{color:#8B949E;font-weight:500;font-size:44px}
+.note{margin-top:20px;font-size:52px;font-weight:600}
+.ring{border:6px solid #F85149;border-radius:999px;padding:6px 26px;margin-right:-32px}
+.tag{font-size:32px;background:#F8514926;color:#FF9A94;border-radius:10px;padding:4px 14px;margin-left:14px;font-weight:600}
+.sub{margin-top:56px;font-size:56px;font-weight:600;color:#8B949E;line-height:1.2}
+.chk{display:flex;align-items:center;gap:30px;margin-top:30px;font-size:56px;font-weight:700}
+.box{width:62px;height:62px;border-radius:12px;border:5px solid #3FB950;color:#3FB950;display:flex;align-items:center;justify-content:center;font-size:44px;flex:none}
+.box.warn{border-color:#D29922;color:#D29922}
+.nd{font-size:32px;color:#D29922;font-weight:600;margin-left:-8px}

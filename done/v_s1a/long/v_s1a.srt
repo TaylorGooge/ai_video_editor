@@ -1,0 +1,509 @@
+1
+00:00:00,000 --> 00:00:01,870
+A customer books a cleaning.
+
+2
+00:00:02,080 --> 00:00:04,470
+In the notes, they write,
+"We have two cats."
+
+3
+00:00:04,880 --> 00:00:08,850
+On the staff page, the app
+says no pets, no pet fee,
+
+4
+00:00:09,020 --> 00:00:11,390
+and it just sent the cleaner
+who's allergic to cats.
+
+5
+00:00:11,920 --> 00:00:15,810
+Ten minutes ago, I asked my AI to
+remove one question from this form.
+
+6
+00:00:16,060 --> 00:00:17,330
+It did exactly that.
+
+7
+00:00:17,700 --> 00:00:21,190
+It even warned me about part of this,
+not the part that costs money.
+
+8
+00:00:21,480 --> 00:00:23,910
+Let's look at what it saw,
+what it couldn't see,
+
+9
+00:00:23,960 --> 00:00:27,070
+and how to remove a field without
+breaking the things that depend on it.
+
+10
+00:00:27,120 --> 00:00:29,670
+Prompts and a check query are at the end.
+
+11
+00:00:35,460 --> 00:00:36,650
+Here's the change.
+
+12
+00:00:36,980 --> 00:00:37,950
+Two files.
+
+13
+00:00:38,000 --> 00:00:39,590
+The question is gone from the form,
+
+14
+00:00:40,040 --> 00:00:42,110
+and the line that saved
+the answer is gone too.
+
+15
+00:00:42,760 --> 00:00:43,510
+Clean.
+
+16
+00:00:43,560 --> 00:00:44,750
+And it didn't stay quiet.
+
+17
+00:00:44,860 --> 00:00:47,810
+It told me new bookings would
+save the pets answer as blank.
+
+18
+00:00:48,220 --> 00:00:51,250
+It told me the cleaner matching
+treats blank as "no pets".
+
+19
+00:00:51,300 --> 00:00:55,010
+So a cleaner with a cat allergy
+could get a home with pets,
+
+20
+00:00:55,100 --> 00:00:58,750
+and the "Needs pet-friendly
+cleaner" badge would stop showing.
+
+21
+00:00:59,080 --> 00:01:00,080
+That's a good answer.
+
+22
+00:01:00,340 --> 00:01:02,930
+Everything it mentioned was
+true, but look at the price.
+
+23
+00:01:03,240 --> 00:01:05,110
+This booking should be $165.
+
+24
+00:01:06,080 --> 00:01:09,970
+$150 for two bedrooms, plus a $15 pet fee.
+
+25
+00:01:10,160 --> 00:01:12,970
+The fee is gone, and the
+AI never mentioned it.
+
+26
+00:01:15,200 --> 00:01:16,790
+So I searched the code.
+
+27
+00:01:17,000 --> 00:01:19,250
+The pet fee is displayed
+on the staff page,
+
+28
+00:01:19,680 --> 00:01:21,750
+but nothing in the code calculates it.
+
+29
+00:01:21,820 --> 00:01:23,230
+It's calculated in the database.
+
+30
+00:01:23,560 --> 00:01:26,990
+This query lists everything in the
+database that uses the pets column.
+
+31
+00:01:27,320 --> 00:01:30,110
+There's a view the staff page
+reads, and there's a trigger,
+
+32
+00:01:30,320 --> 00:01:32,150
+a little function that
+runs on every booking.
+
+33
+00:01:32,400 --> 00:01:35,310
+Here it is. If the customer has pets, $15.
+
+34
+00:01:35,760 --> 00:01:37,150
+Otherwise, zero.
+
+35
+00:01:37,620 --> 00:01:39,750
+And "otherwise" includes "we never asked".
+
+36
+00:01:39,800 --> 00:01:44,390
+I put this pricing logic in the database
+for this demo, but it's a common setup.
+
+37
+00:01:44,580 --> 00:01:47,090
+Your AI tells you to paste
+some SQL into the dashboard.
+
+38
+00:01:47,600 --> 00:01:49,770
+You do, and it never ends up in your code.
+
+39
+00:01:50,000 --> 00:01:52,930
+So when the AI searched my project,
+there was nothing to find.
+
+40
+00:01:53,000 --> 00:01:56,890
+Its map of "where is this used"
+stops at what it can read.
+
+41
+00:01:59,240 --> 00:02:03,650
+So I gave it read access to the
+database and asked the exact same thing.
+
+42
+00:02:03,940 --> 00:02:06,110
+Fresh session, same prompt.
+
+43
+00:02:06,340 --> 00:02:07,550
+This time it went further.
+
+44
+00:02:07,720 --> 00:02:10,250
+Without asking, it changed
+the cleaner matching.
+
+45
+00:02:10,740 --> 00:02:12,570
+Unknown now means "might have pets",
+
+46
+00:02:12,860 --> 00:02:15,970
+and the staff page shows
+"Unknown" instead of "No".
+
+47
+00:02:16,040 --> 00:02:18,370
+The cats booking goes to Ben now. Better.
+
+48
+00:02:18,680 --> 00:02:20,210
+But look at what that decision means.
+
+49
+00:02:20,540 --> 00:02:23,870
+Ana, the cleaner with the
+allergy, now gets no new jobs
+
+50
+00:02:23,920 --> 00:02:26,570
+until someone on staff fills
+in the pets answer by hand.
+
+51
+00:02:26,620 --> 00:02:28,450
+That's a reasonable call.
+
+52
+00:02:28,580 --> 00:02:31,530
+It's also a business decision
+about your staff's work.
+
+53
+00:02:32,060 --> 00:02:35,170
+The AI made it for you,
+and the price is still $150.
+
+54
+00:02:35,500 --> 00:02:37,190
+It had access to the database.
+
+55
+00:02:37,720 --> 00:02:39,510
+It didn't look at what uses the column.
+
+56
+00:02:39,800 --> 00:02:41,650
+Having access isn't the same as checking.
+
+57
+00:02:42,140 --> 00:02:43,850
+Which questions are yours to answer?
+
+58
+00:02:44,100 --> 00:02:45,370
+I made a short about that.
+
+59
+00:02:45,600 --> 00:02:46,730
+It's linked in the description.
+
+60
+00:02:49,300 --> 00:02:50,890
+Here's the core of the problem.
+
+61
+00:02:51,020 --> 00:02:53,630
+Before, every booking said yes or no.
+
+62
+00:02:53,780 --> 00:02:55,510
+Now new bookings say nothing.
+
+63
+00:02:56,000 --> 00:02:56,690
+Null.
+
+64
+00:02:56,740 --> 00:02:59,670
+And every place that reads the
+answer was written for yes or no.
+
+65
+00:02:59,760 --> 00:03:02,090
+The staff page, the matching, the price.
+
+66
+00:03:02,480 --> 00:03:05,030
+Each one treats "we didn't ask" as "no".
+
+67
+00:03:05,260 --> 00:03:07,350
+"Remove the question"
+sounds like one change.
+
+68
+00:03:07,520 --> 00:03:07,950
+It's four.
+
+69
+00:03:08,000 --> 00:03:11,910
+Stop asking, stop saving, stop using it.
+
+70
+00:03:11,960 --> 00:03:14,890
+And decide what happens to
+the answers you already have.
+
+71
+00:03:14,960 --> 00:03:18,110
+The AI did the first two,
+because that's what I asked for.
+
+72
+00:03:20,520 --> 00:03:22,870
+So here's how to remove
+a field without this.
+
+73
+00:03:22,980 --> 00:03:23,980
+The order matters.
+
+74
+00:03:24,500 --> 00:03:25,510
+One, decide.
+
+75
+00:03:25,720 --> 00:03:28,470
+Are you dropping the information
+or collecting it another way?
+
+76
+00:03:28,520 --> 00:03:29,690
+What about the answers you have?
+
+77
+00:03:29,740 --> 00:03:33,030
+For this business,
+stop asking on the form.
+
+78
+00:03:33,420 --> 00:03:35,430
+Staff confirm pets when
+they confirm the booking.
+
+79
+00:03:35,980 --> 00:03:39,390
+Keep the old answers, and no
+pet fee until it's confirmed.
+
+80
+00:03:39,700 --> 00:03:42,150
+Two, map out everything that uses it.
+
+81
+00:03:42,380 --> 00:03:45,750
+Ask your AI for a full list,
+and ask what it couldn't check.
+
+82
+00:03:45,900 --> 00:03:49,230
+Then search the code yourself,
+and run this query in your database.
+
+83
+00:03:49,760 --> 00:03:50,970
+That's the one that finds the trigger.
+
+84
+00:03:51,020 --> 00:03:56,270
+Three, make everything handle "unknown"
+first, before you remove the question.
+
+85
+00:03:56,640 --> 00:04:00,870
+Matching: only a confirmed no pets home
+can go to a cleaner with an allergy.
+
+86
+00:04:01,320 --> 00:04:05,170
+Staff page: "Unknown",
+a "Confirm pets with customer" badge,
+
+87
+00:04:05,220 --> 00:04:09,030
+and a dropdown so staff can
+set yes, no, or unknown.
+
+88
+00:04:09,360 --> 00:04:10,790
+The trigger can stay as it is.
+
+89
+00:04:11,160 --> 00:04:13,170
+Unknown means no automatic
+fee, which is our decision.
+
+90
+00:04:13,220 --> 00:04:15,970
+And it reruns whenever
+staff update the booking.
+
+91
+00:04:16,600 --> 00:04:18,550
+Four, then remove the question.
+
+92
+00:04:18,680 --> 00:04:20,930
+That's the part the AI already did.
+
+93
+00:04:21,200 --> 00:04:23,810
+Five, drop the column later, or never.
+
+94
+00:04:24,040 --> 00:04:27,050
+Here, we're keeping it,
+because staff still record pets.
+
+95
+00:04:27,540 --> 00:04:30,650
+If you do drop it, run the
+dependency query first,
+
+96
+00:04:30,700 --> 00:04:33,590
+and never add "cascade" just
+to make an error go away.
+
+97
+00:04:36,420 --> 00:04:38,770
+Don't trust the summary. Check it.
+
+98
+00:04:38,880 --> 00:04:40,690
+Same booking process as the start.
+
+99
+00:04:44,160 --> 00:04:44,650
+Unknown.
+
+100
+00:04:44,700 --> 00:04:45,730
+Flagged for staff.
+
+101
+00:04:46,280 --> 00:04:47,750
+Auto-assign skips Ana.
+
+102
+00:04:48,140 --> 00:04:49,390
+Staff confirm the dog.
+
+103
+00:04:49,760 --> 00:04:50,930
+The pet fee appears.
+
+104
+00:04:51,300 --> 00:04:52,300
+$165.
+
+105
+00:04:52,780 --> 00:04:55,130
+Old bookings keep their
+answers, and everything
+
+106
+00:04:55,180 --> 00:04:57,550
+the query found, you've
+made a decision about.
+
+107
+00:05:00,060 --> 00:05:02,970
+Before you remove any field, paste this.
+
+108
+00:05:03,100 --> 00:05:04,100
+It's in the description.
+
+109
+00:05:13,940 --> 00:05:16,930
+Then run this yourself in
+the Supabase SQL editor.
+
+110
+00:05:17,180 --> 00:05:18,690
+Change the table and column names.
+
+111
+00:05:18,940 --> 00:05:20,230
+It's in the description too.
+
+112
+00:05:41,080 --> 00:05:43,210
+The AI can find a lot of where.
+
+113
+00:05:43,320 --> 00:05:44,950
+Make sure it can see everywhere.
+
+114
+00:05:45,120 --> 00:05:47,870
+And decide what "remove"
+means before it does.
+

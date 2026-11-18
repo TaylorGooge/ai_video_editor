@@ -1,0 +1,581 @@
+{
+ "pad_in": 0.06,
+ "pad_out": 0.1,
+ "segments": [
+  {
+   "label": "S1 A customer books a cleaning. ... two cats.",
+   "raw0": 1.62,
+   "raw1": 5.63,
+   "v0": 0.4,
+   "v1": 4.41
+  },
+  {
+   "label": "S1 On the staff page ... allergic to cats. (take 2)",
+   "raw0": 14.68,
+   "raw1": 18.32,
+   "v0": 5.01,
+   "v1": 8.65
+  },
+  {
+   "label": "",
+   "raw0": 19.11,
+   "raw1": 21.35,
+   "v0": 9.05,
+   "v1": 11.29
+  },
+  {
+   "label": "S1 Ten minutes ago ... Not the part that cost money.",
+   "raw0": 22.22,
+   "raw1": 29.67,
+   "v0": 11.89,
+   "v1": 19.34
+  },
+  {
+   "label": "",
+   "raw0": 30.41,
+   "raw1": 31.66,
+   "v0": 19.74,
+   "v1": 20.99
+  },
+  {
+   "label": "S1 Let's look at what it saw, what it couldn't see ... (take 1, see flags)",
+   "raw0": 32.48,
+   "raw1": 37.94,
+   "v0": 21.59,
+   "v1": 27.05
+  },
+  {
+   "label": "S1 Prompts and a check query are at the end.",
+   "raw0": 49.84,
+   "raw1": 51.61,
+   "v0": 27.4,
+   "v1": 29.17
+  },
+  {
+   "label": "S2 Here's the change ... Clean.",
+   "raw0": 54.72,
+   "raw1": 56.68,
+   "v0": 35.67,
+   "v1": 37.63
+  },
+  {
+   "label": "",
+   "raw0": 57.53,
+   "raw1": 62.44,
+   "v0": 38.03,
+   "v1": 42.94
+  },
+  {
+   "label": "S2 And it didn't stay quiet ... home with pets. (take 2)",
+   "raw0": 74.97,
+   "raw1": 86.23,
+   "v0": 43.54,
+   "v1": 54.8
+  },
+  {
+   "label": "S2 And the badge would stop showing. (take 2)",
+   "raw0": 91.53,
+   "raw1": 94.95,
+   "v0": 55.15,
+   "v1": 58.57
+  },
+  {
+   "label": "S2 That's a good answer ... never mentioned it.",
+   "raw0": 96.22,
+   "raw1": 98.77,
+   "v0": 59.07,
+   "v1": 61.62
+  },
+  {
+   "label": "",
+   "raw0": 100.78,
+   "raw1": 101.63,
+   "v0": 62.02,
+   "v1": 62.87
+  },
+  {
+   "label": "",
+   "raw0": 102.58,
+   "raw1": 104.81,
+   "v0": 63.27,
+   "v1": 65.5
+  },
+  {
+   "label": "",
+   "raw0": 105.68,
+   "raw1": 109.58,
+   "v0": 65.9,
+   "v1": 69.8
+  },
+  {
+   "label": "",
+   "raw0": 110.3,
+   "raw1": 112.71,
+   "v0": 70.2,
+   "v1": 72.61
+  },
+  {
+   "label": "S3 So I searched the code ... calculated in the database.",
+   "raw0": 114.12,
+   "raw1": 115.13,
+   "v0": 75.61,
+   "v1": 76.62
+  },
+  {
+   "label": "",
+   "raw0": 115.86,
+   "raw1": 120.26,
+   "v0": 77.02,
+   "v1": 81.42
+  },
+  {
+   "label": "",
+   "raw0": 121.36,
+   "raw1": 122.73,
+   "v0": 81.82,
+   "v1": 83.19
+  },
+  {
+   "label": "S3 This query lists ... pets column. (take 2)",
+   "raw0": 127.99,
+   "raw1": 131.23,
+   "v0": 83.59,
+   "v1": 86.83
+  },
+  {
+   "label": "S3 There's a view the staff page reads. (take 2)",
+   "raw0": 138.66,
+   "raw1": 140.21,
+   "v0": 87.33,
+   "v1": 88.88
+  },
+  {
+   "label": "S3 And there's a trigger ... we never asked.",
+   "raw0": 141.3,
+   "raw1": 144.1,
+   "v0": 89.23,
+   "v1": 92.03
+  },
+  {
+   "label": "",
+   "raw0": 145.64,
+   "raw1": 146.14,
+   "v0": 92.43,
+   "v1": 92.93
+  },
+  {
+   "label": "",
+   "raw0": 146.84,
+   "raw1": 153.41,
+   "v0": 93.33,
+   "v1": 99.9
+  },
+  {
+   "label": "S3 I put this pricing logic in the database for this demo. (take 1)",
+   "raw0": 155.73,
+   "raw1": 158.22,
+   "v0": 100.5,
+   "v1": 102.99
+  },
+  {
+   "label": "S3 but it's a common setup. (F2 option B, v2)",
+   "raw0": 164.45,
+   "raw1": 165.32,
+   "v0": 103.29,
+   "v1": 104.16
+  },
+  {
+   "label": "S3 Your AI tells you ... stops at what it can read.",
+   "raw0": 179.24,
+   "raw1": 184.28,
+   "v0": 104.56,
+   "v1": 109.6
+  },
+  {
+   "label": "",
+   "raw0": 185.46,
+   "raw1": 188.15,
+   "v0": 110.0,
+   "v1": 112.69
+  },
+  {
+   "label": "",
+   "raw0": 189.1,
+   "raw1": 192.71,
+   "v0": 113.09,
+   "v1": 116.7
+  },
+  {
+   "label": "S4 So I gave it read access to the database ... cleaner matching. (take 3; v3: flub 'read acc- ugh' 200.3-201.9 cut)",
+   "raw0": 202.69,
+   "raw1": 208.96,
+   "v0": 119.7,
+   "v1": 125.97
+  },
+  {
+   "label": "",
+   "raw0": 209.98,
+   "raw1": 213.7,
+   "v0": 126.37,
+   "v1": 130.09
+  },
+  {
+   "label": "S4 Unknown now means ... Better. (v3: false start 214.5-215.5 cut)",
+   "raw0": 215.65,
+   "raw1": 220.83,
+   "v0": 130.59,
+   "v1": 135.77
+  },
+  {
+   "label": "",
+   "raw0": 222.46,
+   "raw1": 223.87,
+   "v0": 136.17,
+   "v1": 137.58
+  },
+  {
+   "label": "",
+   "raw0": 224.75,
+   "raw1": 225.01,
+   "v0": 137.98,
+   "v1": 138.24
+  },
+  {
+   "label": "S4 But look at what that decision means ... reasonable call.",
+   "raw0": 226.5,
+   "raw1": 234.65,
+   "v0": 138.74,
+   "v1": 146.89
+  },
+  {
+   "label": "",
+   "raw0": 235.49,
+   "raw1": 236.45,
+   "v0": 147.29,
+   "v1": 148.25
+  },
+  {
+   "label": "S4 It's also a business decision ... isn't the same as checking. (take 2)",
+   "raw0": 239.83,
+   "raw1": 244.4,
+   "v0": 148.6,
+   "v1": 153.17
+  },
+  {
+   "label": "",
+   "raw0": 246.16,
+   "raw1": 247.94,
+   "v0": 153.57,
+   "v1": 155.35
+  },
+  {
+   "label": "",
+   "raw0": 248.78,
+   "raw1": 252.4,
+   "v0": 155.75,
+   "v1": 159.37
+  },
+  {
+   "label": "",
+   "raw0": 253.16,
+   "raw1": 254.93,
+   "v0": 159.77,
+   "v1": 161.54
+  },
+  {
+   "label": "S4 Which questions are yours ... linked in the description. (take 2)",
+   "raw0": 262.65,
+   "raw1": 267.18,
+   "v0": 162.14,
+   "v1": 166.67
+  },
+  {
+   "label": "S5 Here's the core ... Null.",
+   "raw0": 270.33,
+   "raw1": 274.05,
+   "v0": 169.67,
+   "v1": 173.39
+  },
+  {
+   "label": "",
+   "raw0": 275.05,
+   "raw1": 277.58,
+   "v0": 173.79,
+   "v1": 176.32
+  },
+  {
+   "label": "S5 And every place ... what I asked for. (take 2)",
+   "raw0": 283.17,
+   "raw1": 291.19,
+   "v0": 176.82,
+   "v1": 184.84
+  },
+  {
+   "label": "",
+   "raw0": 292.34,
+   "raw1": 301.68,
+   "v0": 185.24,
+   "v1": 194.58
+  },
+  {
+   "label": "",
+   "raw0": 302.68,
+   "raw1": 305.58,
+   "v0": 194.98,
+   "v1": 197.88
+  },
+  {
+   "label": "S6 So here's how ... The order matters.",
+   "raw0": 308.28,
+   "raw1": 311.16,
+   "v0": 200.88,
+   "v1": 203.76
+  },
+  {
+   "label": "S6 One: decide ... finds the trigger. (v3: sniffle 313.4 cut)",
+   "raw0": 314.39,
+   "raw1": 315.38,
+   "v0": 204.36,
+   "v1": 205.35
+  },
+  {
+   "label": "",
+   "raw0": 316.33,
+   "raw1": 318.82,
+   "v0": 205.75,
+   "v1": 208.24
+  },
+  {
+   "label": "",
+   "raw0": 319.79,
+   "raw1": 323.98,
+   "v0": 208.64,
+   "v1": 212.83
+  },
+  {
+   "label": "",
+   "raw0": 324.74,
+   "raw1": 330.68,
+   "v0": 213.23,
+   "v1": 219.17
+  },
+  {
+   "label": "",
+   "raw0": 331.48,
+   "raw1": 337.47,
+   "v0": 219.57,
+   "v1": 225.56
+  },
+  {
+   "label": "",
+   "raw0": 339.0,
+   "raw1": 340.33,
+   "v0": 225.96,
+   "v1": 227.29
+  },
+  {
+   "label": "",
+   "raw0": 341.6,
+   "raw1": 345.02,
+   "v0": 227.69,
+   "v1": 231.11
+  },
+  {
+   "label": "S6 Three, make everything handle unknown first ... (take 2)",
+   "raw0": 351.13,
+   "raw1": 355.58,
+   "v0": 231.71,
+   "v1": 236.16
+  },
+  {
+   "label": "S6 Matching. Only a confirmed no-pets home ... (last take)",
+   "raw0": 379.83,
+   "raw1": 383.87,
+   "v0": 236.66,
+   "v1": 240.7
+  },
+  {
+   "label": "S6 Staff page. Unknown ... yes, no, or unknown. (last take)",
+   "raw0": 390.8,
+   "raw1": 398.49,
+   "v0": 241.1,
+   "v1": 248.79
+  },
+  {
+   "label": "S6 The trigger can stay ... Four, then remove the question.",
+   "raw0": 399.75,
+   "raw1": 400.87,
+   "v0": 249.39,
+   "v1": 250.51
+  },
+  {
+   "label": "",
+   "raw0": 401.77,
+   "raw1": 404.25,
+   "v0": 250.91,
+   "v1": 253.39
+  },
+  {
+   "label": "",
+   "raw0": 405.26,
+   "raw1": 409.87,
+   "v0": 253.79,
+   "v1": 258.4
+  },
+  {
+   "label": "S6 That's the part the AI already did. (take 2)",
+   "raw0": 412.89,
+   "raw1": 414.79,
+   "v0": 258.75,
+   "v1": 260.65
+  },
+  {
+   "label": "S6 Five, drop the column later. Or never.",
+   "raw0": 415.77,
+   "raw1": 418.18,
+   "v0": 261.25,
+   "v1": 263.66
+  },
+  {
+   "label": "S6 Here we're keeping it ... error go away. (take 2)",
+   "raw0": 422.42,
+   "raw1": 431.7,
+   "v0": 264.06,
+   "v1": 273.34
+  },
+  {
+   "label": "S7 Don't trust the summary ... as the start. (take 2)",
+   "raw0": 449.2,
+   "raw1": 453.24,
+   "v0": 276.34,
+   "v1": 280.38
+  },
+  {
+   "label": "S7 Unknown ... you've made a decision about.",
+   "raw0": 454.52,
+   "raw1": 458.24,
+   "v0": 283.88,
+   "v1": 287.6
+  },
+  {
+   "label": "",
+   "raw0": 459.26,
+   "raw1": 463.81,
+   "v0": 288.0,
+   "v1": 292.55
+  },
+  {
+   "label": "",
+   "raw0": 465.02,
+   "raw1": 466.52,
+   "v0": 292.95,
+   "v1": 294.45
+  },
+  {
+   "label": "",
+   "raw0": 468.09,
+   "raw1": 470.65,
+   "v0": 294.85,
+   "v1": 297.41
+  },
+  {
+   "label": "S8 Before you remove any field, paste this. It's in the description.",
+   "raw0": 473.63,
+   "raw1": 477.06,
+   "v0": 300.41,
+   "v1": 303.84
+  },
+  {
+   "label": "S8 Then run this yourself ... in the description too.",
+   "raw0": 478.38,
+   "raw1": 480.89,
+   "v0": 314.24,
+   "v1": 316.75
+  },
+  {
+   "label": "",
+   "raw0": 481.78,
+   "raw1": 484.67,
+   "v0": 317.15,
+   "v1": 320.04
+  },
+  {
+   "label": "S8 The AI can find a lot of where. (take 1)",
+   "raw0": 487.65,
+   "raw1": 489.22,
+   "v0": 341.44,
+   "v1": 343.01
+  },
+  {
+   "label": "S8 Make sure it can see everywhere. And decide ... (take 2)",
+   "raw0": 497.53,
+   "raw1": 501.88,
+   "v0": 343.41,
+   "v1": 347.76
+  }
+ ],
+ "cards": [
+  {
+   "label": "SERIES CARD",
+   "v0": 29.77,
+   "v1": 33.27
+  },
+  {
+   "label": "CH2 card",
+   "v0": 33.27,
+   "v1": 35.27
+  },
+  {
+   "label": "CH3 card",
+   "v0": 73.21,
+   "v1": 75.21
+  },
+  {
+   "label": "CH4 card",
+   "v0": 117.3,
+   "v1": 119.3
+  },
+  {
+   "label": "CH5 card",
+   "v0": 167.27,
+   "v1": 169.27
+  },
+  {
+   "label": "CH6 card",
+   "v0": 198.48,
+   "v1": 200.48
+  },
+  {
+   "label": "CH7 card",
+   "v0": 273.94,
+   "v1": 275.94
+  },
+  {
+   "label": "HOLD booking (07_booking_process sped up)",
+   "v0": 280.38,
+   "v1": 283.38
+  },
+  {
+   "label": "CH8 card",
+   "v0": 298.01,
+   "v1": 300.01
+  },
+  {
+   "label": "HOLD Prompt 1 card",
+   "v0": 303.84,
+   "v1": 313.84
+  },
+  {
+   "label": "HOLD blast-radius query card",
+   "v0": 320.04,
+   "v1": 326.04
+  },
+  {
+   "label": "HOLD Prompt 3 card (no voice)",
+   "v0": 326.64,
+   "v1": 340.64
+  }
+ ],
+ "voice_end": 348.76,
+ "total": 368.76
+}

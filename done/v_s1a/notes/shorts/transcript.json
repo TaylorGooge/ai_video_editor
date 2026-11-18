@@ -1,0 +1,4871 @@
+{
+ "model": "small.en",
+ "duration": 368.72,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.8,
+   "text": "A customer books a cleaning. In the notes, they write, we have two cats. On the staff page,",
+   "words": [
+    {
+     "start": 0.0,
+     "end": 0.54,
+     "word": " A"
+    },
+    {
+     "start": 0.54,
+     "end": 0.86,
+     "word": " customer"
+    },
+    {
+     "start": 0.86,
+     "end": 1.2,
+     "word": " books"
+    },
+    {
+     "start": 1.2,
+     "end": 1.4,
+     "word": " a"
+    },
+    {
+     "start": 1.4,
+     "end": 1.66,
+     "word": " cleaning."
+    },
+    {
+     "start": 2.14,
+     "end": 2.2,
+     "word": " In"
+    },
+    {
+     "start": 2.2,
+     "end": 2.32,
+     "word": " the"
+    },
+    {
+     "start": 2.32,
+     "end": 2.62,
+     "word": " notes,"
+    },
+    {
+     "start": 2.84,
+     "end": 2.88,
+     "word": " they"
+    },
+    {
+     "start": 2.88,
+     "end": 3.14,
+     "word": " write,"
+    },
+    {
+     "start": 3.4,
+     "end": 3.5,
+     "word": " we"
+    },
+    {
+     "start": 3.5,
+     "end": 3.7,
+     "word": " have"
+    },
+    {
+     "start": 3.7,
+     "end": 3.92,
+     "word": " two"
+    },
+    {
+     "start": 3.92,
+     "end": 4.24,
+     "word": " cats."
+    },
+    {
+     "start": 4.98,
+     "end": 5.12,
+     "word": " On"
+    },
+    {
+     "start": 5.12,
+     "end": 5.24,
+     "word": " the"
+    },
+    {
+     "start": 5.24,
+     "end": 5.44,
+     "word": " staff"
+    },
+    {
+     "start": 5.44,
+     "end": 5.8,
+     "word": " page,"
+    }
+   ]
+  },
+  {
+   "start": 6.0,
+   "end": 12.06,
+   "text": "the app says, no pets, no pet fee, and it just sent the cleaner who's allergic to cats. Ten",
+   "words": [
+    {
+     "start": 6.0,
+     "end": 6.08,
+     "word": " the"
+    },
+    {
+     "start": 6.08,
+     "end": 6.26,
+     "word": " app"
+    },
+    {
+     "start": 6.26,
+     "end": 6.58,
+     "word": " says,"
+    },
+    {
+     "start": 6.76,
+     "end": 6.9,
+     "word": " no"
+    },
+    {
+     "start": 6.9,
+     "end": 7.2,
+     "word": " pets,"
+    },
+    {
+     "start": 7.9,
+     "end": 8.14,
+     "word": " no"
+    },
+    {
+     "start": 8.14,
+     "end": 8.36,
+     "word": " pet"
+    },
+    {
+     "start": 8.36,
+     "end": 8.62,
+     "word": " fee,"
+    },
+    {
+     "start": 9.06,
+     "end": 9.16,
+     "word": " and"
+    },
+    {
+     "start": 9.16,
+     "end": 9.28,
+     "word": " it"
+    },
+    {
+     "start": 9.28,
+     "end": 9.44,
+     "word": " just"
+    },
+    {
+     "start": 9.44,
+     "end": 9.68,
+     "word": " sent"
+    },
+    {
+     "start": 9.68,
+     "end": 9.84,
+     "word": " the"
+    },
+    {
+     "start": 9.84,
+     "end": 10.12,
+     "word": " cleaner"
+    },
+    {
+     "start": 10.12,
+     "end": 10.4,
+     "word": " who's"
+    },
+    {
+     "start": 10.4,
+     "end": 10.68,
+     "word": " allergic"
+    },
+    {
+     "start": 10.68,
+     "end": 10.88,
+     "word": " to"
+    },
+    {
+     "start": 10.88,
+     "end": 11.14,
+     "word": " cats."
+    },
+    {
+     "start": 11.94,
+     "end": 12.06,
+     "word": " Ten"
+    }
+   ]
+  },
+  {
+   "start": 12.06,
+   "end": 18.06,
+   "text": "minutes ago, I asked my AI to remove one question from this form. It did exactly that. It even",
+   "words": [
+    {
+     "start": 12.06,
+     "end": 12.26,
+     "word": " minutes"
+    },
+    {
+     "start": 12.26,
+     "end": 12.58,
+     "word": " ago,"
+    },
+    {
+     "start": 12.72,
+     "end": 12.88,
+     "word": " I"
+    },
+    {
+     "start": 12.88,
+     "end": 13.1,
+     "word": " asked"
+    },
+    {
+     "start": 13.1,
+     "end": 13.3,
+     "word": " my"
+    },
+    {
+     "start": 13.3,
+     "end": 13.62,
+     "word": " AI"
+    },
+    {
+     "start": 13.62,
+     "end": 13.9,
+     "word": " to"
+    },
+    {
+     "start": 13.9,
+     "end": 14.16,
+     "word": " remove"
+    },
+    {
+     "start": 14.16,
+     "end": 14.46,
+     "word": " one"
+    },
+    {
+     "start": 14.46,
+     "end": 14.82,
+     "word": " question"
+    },
+    {
+     "start": 14.82,
+     "end": 15.1,
+     "word": " from"
+    },
+    {
+     "start": 15.1,
+     "end": 15.3,
+     "word": " this"
+    },
+    {
+     "start": 15.3,
+     "end": 15.6,
+     "word": " form."
+    },
+    {
+     "start": 16.1,
+     "end": 16.22,
+     "word": " It"
+    },
+    {
+     "start": 16.22,
+     "end": 16.36,
+     "word": " did"
+    },
+    {
+     "start": 16.36,
+     "end": 16.68,
+     "word": " exactly"
+    },
+    {
+     "start": 16.68,
+     "end": 17.1,
+     "word": " that."
+    },
+    {
+     "start": 17.74,
+     "end": 17.86,
+     "word": " It"
+    },
+    {
+     "start": 17.86,
+     "end": 18.06,
+     "word": " even"
+    }
+   ]
+  },
+  {
+   "start": 18.06,
+   "end": 22.52,
+   "text": "warned me about part of this, not the part that costs money. Let's look at what it saw,",
+   "words": [
+    {
+     "start": 18.06,
+     "end": 18.3,
+     "word": " warned"
+    },
+    {
+     "start": 18.3,
+     "end": 18.48,
+     "word": " me"
+    },
+    {
+     "start": 18.48,
+     "end": 18.7,
+     "word": " about"
+    },
+    {
+     "start": 18.7,
+     "end": 18.92,
+     "word": " part"
+    },
+    {
+     "start": 18.92,
+     "end": 19.06,
+     "word": " of"
+    },
+    {
+     "start": 19.06,
+     "end": 19.32,
+     "word": " this,"
+    },
+    {
+     "start": 19.7,
+     "end": 19.96,
+     "word": " not"
+    },
+    {
+     "start": 19.96,
+     "end": 20.1,
+     "word": " the"
+    },
+    {
+     "start": 20.1,
+     "end": 20.26,
+     "word": " part"
+    },
+    {
+     "start": 20.26,
+     "end": 20.46,
+     "word": " that"
+    },
+    {
+     "start": 20.46,
+     "end": 20.66,
+     "word": " costs"
+    },
+    {
+     "start": 20.66,
+     "end": 20.96,
+     "word": " money."
+    },
+    {
+     "start": 21.5,
+     "end": 21.74,
+     "word": " Let's"
+    },
+    {
+     "start": 21.74,
+     "end": 21.88,
+     "word": " look"
+    },
+    {
+     "start": 21.88,
+     "end": 22.0,
+     "word": " at"
+    },
+    {
+     "start": 22.0,
+     "end": 22.1,
+     "word": " what"
+    },
+    {
+     "start": 22.1,
+     "end": 22.24,
+     "word": " it"
+    },
+    {
+     "start": 22.24,
+     "end": 22.52,
+     "word": " saw,"
+    }
+   ]
+  },
+  {
+   "start": 22.9,
+   "end": 26.72,
+   "text": "what it couldn't see, and how to remove a field without breaking the things that depend",
+   "words": [
+    {
+     "start": 22.9,
+     "end": 23.1,
+     "word": " what"
+    },
+    {
+     "start": 23.1,
+     "end": 23.2,
+     "word": " it"
+    },
+    {
+     "start": 23.2,
+     "end": 23.44,
+     "word": " couldn't"
+    },
+    {
+     "start": 23.44,
+     "end": 23.74,
+     "word": " see,"
+    },
+    {
+     "start": 24.04,
+     "end": 24.34,
+     "word": " and"
+    },
+    {
+     "start": 24.34,
+     "end": 24.48,
+     "word": " how"
+    },
+    {
+     "start": 24.48,
+     "end": 24.62,
+     "word": " to"
+    },
+    {
+     "start": 24.62,
+     "end": 24.86,
+     "word": " remove"
+    },
+    {
+     "start": 24.86,
+     "end": 25.02,
+     "word": " a"
+    },
+    {
+     "start": 25.02,
+     "end": 25.24,
+     "word": " field"
+    },
+    {
+     "start": 25.24,
+     "end": 25.52,
+     "word": " without"
+    },
+    {
+     "start": 25.52,
+     "end": 25.82,
+     "word": " breaking"
+    },
+    {
+     "start": 25.82,
+     "end": 26.04,
+     "word": " the"
+    },
+    {
+     "start": 26.04,
+     "end": 26.26,
+     "word": " things"
+    },
+    {
+     "start": 26.26,
+     "end": 26.46,
+     "word": " that"
+    },
+    {
+     "start": 26.46,
+     "end": 26.72,
+     "word": " depend"
+    }
+   ]
+  },
+  {
+   "start": 26.72,
+   "end": 38.3,
+   "text": "on it. Prompts and a check query are at the end. Here's the change. Two files. The question",
+   "words": [
+    {
+     "start": 26.72,
+     "end": 26.82,
+     "word": " on"
+    },
+    {
+     "start": 26.82,
+     "end": 27.18,
+     "word": " it."
+    },
+    {
+     "start": 27.64,
+     "end": 27.8,
+     "word": " Prompts"
+    },
+    {
+     "start": 27.8,
+     "end": 27.84,
+     "word": " and"
+    },
+    {
+     "start": 27.84,
+     "end": 27.94,
+     "word": " a"
+    },
+    {
+     "start": 27.94,
+     "end": 28.16,
+     "word": " check"
+    },
+    {
+     "start": 28.16,
+     "end": 28.42,
+     "word": " query"
+    },
+    {
+     "start": 28.42,
+     "end": 28.66,
+     "word": " are"
+    },
+    {
+     "start": 28.66,
+     "end": 28.82,
+     "word": " at"
+    },
+    {
+     "start": 28.82,
+     "end": 28.96,
+     "word": " the"
+    },
+    {
+     "start": 28.96,
+     "end": 29.4,
+     "word": " end."
+    },
+    {
+     "start": 35.48,
+     "end": 35.92,
+     "word": " Here's"
+    },
+    {
+     "start": 35.92,
+     "end": 36.06,
+     "word": " the"
+    },
+    {
+     "start": 36.06,
+     "end": 36.4,
+     "word": " change."
+    },
+    {
+     "start": 36.96,
+     "end": 37.12,
+     "word": " Two"
+    },
+    {
+     "start": 37.12,
+     "end": 37.48,
+     "word": " files."
+    },
+    {
+     "start": 37.98,
+     "end": 38.12,
+     "word": " The"
+    },
+    {
+     "start": 38.12,
+     "end": 38.3,
+     "word": " question"
+    }
+   ]
+  },
+  {
+   "start": 38.3,
+   "end": 43.94,
+   "text": "is gone from the form, and the line that saved the answer is gone too. Clean. And it didn't",
+   "words": [
+    {
+     "start": 38.3,
+     "end": 38.52,
+     "word": " is"
+    },
+    {
+     "start": 38.52,
+     "end": 38.72,
+     "word": " gone"
+    },
+    {
+     "start": 38.72,
+     "end": 38.96,
+     "word": " from"
+    },
+    {
+     "start": 38.96,
+     "end": 39.1,
+     "word": " the"
+    },
+    {
+     "start": 39.1,
+     "end": 39.36,
+     "word": " form,"
+    },
+    {
+     "start": 40.06,
+     "end": 40.12,
+     "word": " and"
+    },
+    {
+     "start": 40.12,
+     "end": 40.24,
+     "word": " the"
+    },
+    {
+     "start": 40.24,
+     "end": 40.4,
+     "word": " line"
+    },
+    {
+     "start": 40.4,
+     "end": 40.56,
+     "word": " that"
+    },
+    {
+     "start": 40.56,
+     "end": 40.78,
+     "word": " saved"
+    },
+    {
+     "start": 40.78,
+     "end": 40.96,
+     "word": " the"
+    },
+    {
+     "start": 40.96,
+     "end": 41.18,
+     "word": " answer"
+    },
+    {
+     "start": 41.18,
+     "end": 41.4,
+     "word": " is"
+    },
+    {
+     "start": 41.4,
+     "end": 41.56,
+     "word": " gone"
+    },
+    {
+     "start": 41.56,
+     "end": 41.88,
+     "word": " too."
+    },
+    {
+     "start": 42.66,
+     "end": 42.86,
+     "word": " Clean."
+    },
+    {
+     "start": 43.46,
+     "end": 43.64,
+     "word": " And"
+    },
+    {
+     "start": 43.64,
+     "end": 43.74,
+     "word": " it"
+    },
+    {
+     "start": 43.74,
+     "end": 43.94,
+     "word": " didn't"
+    }
+   ]
+  },
+  {
+   "start": 43.94,
+   "end": 48.96,
+   "text": "stay quiet. It told me new bookings would save the pets answers blank. It told me the",
+   "words": [
+    {
+     "start": 43.94,
+     "end": 44.16,
+     "word": " stay"
+    },
+    {
+     "start": 44.16,
+     "end": 44.52,
+     "word": " quiet."
+    },
+    {
+     "start": 44.88,
+     "end": 45.04,
+     "word": " It"
+    },
+    {
+     "start": 45.04,
+     "end": 45.22,
+     "word": " told"
+    },
+    {
+     "start": 45.22,
+     "end": 45.38,
+     "word": " me"
+    },
+    {
+     "start": 45.38,
+     "end": 45.56,
+     "word": " new"
+    },
+    {
+     "start": 45.56,
+     "end": 46.04,
+     "word": " bookings"
+    },
+    {
+     "start": 46.04,
+     "end": 46.24,
+     "word": " would"
+    },
+    {
+     "start": 46.24,
+     "end": 46.52,
+     "word": " save"
+    },
+    {
+     "start": 46.52,
+     "end": 46.72,
+     "word": " the"
+    },
+    {
+     "start": 46.72,
+     "end": 46.92,
+     "word": " pets"
+    },
+    {
+     "start": 46.92,
+     "end": 47.26,
+     "word": " answers"
+    },
+    {
+     "start": 47.26,
+     "end": 47.58,
+     "word": " blank."
+    },
+    {
+     "start": 48.22,
+     "end": 48.48,
+     "word": " It"
+    },
+    {
+     "start": 48.48,
+     "end": 48.66,
+     "word": " told"
+    },
+    {
+     "start": 48.66,
+     "end": 48.8,
+     "word": " me"
+    },
+    {
+     "start": 48.8,
+     "end": 48.96,
+     "word": " the"
+    }
+   ]
+  },
+  {
+   "start": 48.96,
+   "end": 54.12,
+   "text": "cleaner matching treats blank as no pets. So a cleaner with a cat allergy could get a home",
+   "words": [
+    {
+     "start": 48.96,
+     "end": 49.24,
+     "word": " cleaner"
+    },
+    {
+     "start": 49.24,
+     "end": 49.64,
+     "word": " matching"
+    },
+    {
+     "start": 49.64,
+     "end": 50.0,
+     "word": " treats"
+    },
+    {
+     "start": 50.0,
+     "end": 50.34,
+     "word": " blank"
+    },
+    {
+     "start": 50.34,
+     "end": 50.7,
+     "word": " as"
+    },
+    {
+     "start": 50.7,
+     "end": 51.0,
+     "word": " no"
+    },
+    {
+     "start": 51.0,
+     "end": 51.32,
+     "word": " pets."
+    },
+    {
+     "start": 51.88,
+     "end": 52.18,
+     "word": " So"
+    },
+    {
+     "start": 52.18,
+     "end": 52.3,
+     "word": " a"
+    },
+    {
+     "start": 52.3,
+     "end": 52.5,
+     "word": " cleaner"
+    },
+    {
+     "start": 52.5,
+     "end": 52.72,
+     "word": " with"
+    },
+    {
+     "start": 52.72,
+     "end": 52.82,
+     "word": " a"
+    },
+    {
+     "start": 52.82,
+     "end": 53.02,
+     "word": " cat"
+    },
+    {
+     "start": 53.02,
+     "end": 53.38,
+     "word": " allergy"
+    },
+    {
+     "start": 53.38,
+     "end": 53.64,
+     "word": " could"
+    },
+    {
+     "start": 53.64,
+     "end": 53.78,
+     "word": " get"
+    },
+    {
+     "start": 53.78,
+     "end": 53.9,
+     "word": " a"
+    },
+    {
+     "start": 53.9,
+     "end": 54.12,
+     "word": " home"
+    }
+   ]
+  },
+  {
+   "start": 54.12,
+   "end": 59.44,
+   "text": "with pets. And the needs pet friendly cleaner badge would stop showing. That's a good",
+   "words": [
+    {
+     "start": 54.12,
+     "end": 54.38,
+     "word": " with"
+    },
+    {
+     "start": 54.38,
+     "end": 54.7,
+     "word": " pets."
+    },
+    {
+     "start": 55.3,
+     "end": 55.34,
+     "word": " And"
+    },
+    {
+     "start": 55.34,
+     "end": 55.52,
+     "word": " the"
+    },
+    {
+     "start": 55.52,
+     "end": 56.0,
+     "word": " needs"
+    },
+    {
+     "start": 56.0,
+     "end": 56.3,
+     "word": " pet"
+    },
+    {
+     "start": 56.3,
+     "end": 56.66,
+     "word": " friendly"
+    },
+    {
+     "start": 56.66,
+     "end": 57.02,
+     "word": " cleaner"
+    },
+    {
+     "start": 57.02,
+     "end": 57.44,
+     "word": " badge"
+    },
+    {
+     "start": 57.44,
+     "end": 57.88,
+     "word": " would"
+    },
+    {
+     "start": 57.88,
+     "end": 58.16,
+     "word": " stop"
+    },
+    {
+     "start": 58.16,
+     "end": 58.54,
+     "word": " showing."
+    },
+    {
+     "start": 59.1,
+     "end": 59.28,
+     "word": " That's"
+    },
+    {
+     "start": 59.28,
+     "end": 59.32,
+     "word": " a"
+    },
+    {
+     "start": 59.32,
+     "end": 59.44,
+     "word": " good"
+    }
+   ]
+  },
+  {
+   "start": 59.44,
+   "end": 64.12,
+   "text": "answer. Everything it mentioned was true. But look at the price. This booking should be",
+   "words": [
+    {
+     "start": 59.44,
+     "end": 59.78,
+     "word": " answer."
+    },
+    {
+     "start": 60.38,
+     "end": 60.62,
+     "word": " Everything"
+    },
+    {
+     "start": 60.62,
+     "end": 60.78,
+     "word": " it"
+    },
+    {
+     "start": 60.78,
+     "end": 61.06,
+     "word": " mentioned"
+    },
+    {
+     "start": 61.06,
+     "end": 61.32,
+     "word": " was"
+    },
+    {
+     "start": 61.32,
+     "end": 61.6,
+     "word": " true."
+    },
+    {
+     "start": 61.98,
+     "end": 62.14,
+     "word": " But"
+    },
+    {
+     "start": 62.14,
+     "end": 62.28,
+     "word": " look"
+    },
+    {
+     "start": 62.28,
+     "end": 62.36,
+     "word": " at"
+    },
+    {
+     "start": 62.36,
+     "end": 62.46,
+     "word": " the"
+    },
+    {
+     "start": 62.46,
+     "end": 62.74,
+     "word": " price."
+    },
+    {
+     "start": 63.28,
+     "end": 63.4,
+     "word": " This"
+    },
+    {
+     "start": 63.4,
+     "end": 63.64,
+     "word": " booking"
+    },
+    {
+     "start": 63.64,
+     "end": 63.94,
+     "word": " should"
+    },
+    {
+     "start": 63.94,
+     "end": 64.12,
+     "word": " be"
+    }
+   ]
+  },
+  {
+   "start": 64.12,
+   "end": 72.5,
+   "text": "$165. 150 for two bedrooms, plus a $15 pet fee. The fee is gone, and the AI never mentioned",
+   "words": [
+    {
+     "start": 64.12,
+     "end": 64.96,
+     "word": " $165."
+    },
+    {
+     "start": 66.06,
+     "end": 66.6,
+     "word": " 150"
+    },
+    {
+     "start": 66.6,
+     "end": 67.14,
+     "word": " for"
+    },
+    {
+     "start": 67.14,
+     "end": 67.32,
+     "word": " two"
+    },
+    {
+     "start": 67.32,
+     "end": 67.68,
+     "word": " bedrooms,"
+    },
+    {
+     "start": 68.28,
+     "end": 68.5,
+     "word": " plus"
+    },
+    {
+     "start": 68.5,
+     "end": 68.64,
+     "word": " a"
+    },
+    {
+     "start": 68.64,
+     "end": 69.04,
+     "word": " $15"
+    },
+    {
+     "start": 69.04,
+     "end": 69.48,
+     "word": " pet"
+    },
+    {
+     "start": 69.48,
+     "end": 69.74,
+     "word": " fee."
+    },
+    {
+     "start": 70.14,
+     "end": 70.3,
+     "word": " The"
+    },
+    {
+     "start": 70.3,
+     "end": 70.44,
+     "word": " fee"
+    },
+    {
+     "start": 70.44,
+     "end": 70.58,
+     "word": " is"
+    },
+    {
+     "start": 70.58,
+     "end": 70.86,
+     "word": " gone,"
+    },
+    {
+     "start": 71.4,
+     "end": 71.56,
+     "word": " and"
+    },
+    {
+     "start": 71.56,
+     "end": 71.66,
+     "word": " the"
+    },
+    {
+     "start": 71.66,
+     "end": 71.94,
+     "word": " AI"
+    },
+    {
+     "start": 71.94,
+     "end": 72.18,
+     "word": " never"
+    },
+    {
+     "start": 72.18,
+     "end": 72.5,
+     "word": " mentioned"
+    }
+   ]
+  },
+  {
+   "start": 72.5,
+   "end": 80.08,
+   "text": "it. So I searched the code. The pet fee is displayed on the staff page, but nothing",
+   "words": [
+    {
+     "start": 72.5,
+     "end": 72.74,
+     "word": " it."
+    },
+    {
+     "start": 75.2,
+     "end": 75.74,
+     "word": " So"
+    },
+    {
+     "start": 75.74,
+     "end": 75.86,
+     "word": " I"
+    },
+    {
+     "start": 75.86,
+     "end": 76.04,
+     "word": " searched"
+    },
+    {
+     "start": 76.04,
+     "end": 76.3,
+     "word": " the"
+    },
+    {
+     "start": 76.3,
+     "end": 76.6,
+     "word": " code."
+    },
+    {
+     "start": 76.94,
+     "end": 77.14,
+     "word": " The"
+    },
+    {
+     "start": 77.14,
+     "end": 77.32,
+     "word": " pet"
+    },
+    {
+     "start": 77.32,
+     "end": 77.56,
+     "word": " fee"
+    },
+    {
+     "start": 77.56,
+     "end": 77.74,
+     "word": " is"
+    },
+    {
+     "start": 77.74,
+     "end": 78.14,
+     "word": " displayed"
+    },
+    {
+     "start": 78.14,
+     "end": 78.38,
+     "word": " on"
+    },
+    {
+     "start": 78.38,
+     "end": 78.5,
+     "word": " the"
+    },
+    {
+     "start": 78.5,
+     "end": 78.7,
+     "word": " staff"
+    },
+    {
+     "start": 78.7,
+     "end": 79.08,
+     "word": " page,"
+    },
+    {
+     "start": 79.7,
+     "end": 79.9,
+     "word": " but"
+    },
+    {
+     "start": 79.9,
+     "end": 80.08,
+     "word": " nothing"
+    }
+   ]
+  },
+  {
+   "start": 80.08,
+   "end": 84.8,
+   "text": "in the code calculates it. It's calculated in the database. This query lists everything",
+   "words": [
+    {
+     "start": 80.08,
+     "end": 80.24,
+     "word": " in"
+    },
+    {
+     "start": 80.24,
+     "end": 80.34,
+     "word": " the"
+    },
+    {
+     "start": 80.34,
+     "end": 80.56,
+     "word": " code"
+    },
+    {
+     "start": 80.56,
+     "end": 81.16,
+     "word": " calculates"
+    },
+    {
+     "start": 81.16,
+     "end": 81.52,
+     "word": " it."
+    },
+    {
+     "start": 81.9,
+     "end": 81.96,
+     "word": " It's"
+    },
+    {
+     "start": 81.96,
+     "end": 82.34,
+     "word": " calculated"
+    },
+    {
+     "start": 82.34,
+     "end": 82.58,
+     "word": " in"
+    },
+    {
+     "start": 82.58,
+     "end": 82.68,
+     "word": " the"
+    },
+    {
+     "start": 82.68,
+     "end": 83.0,
+     "word": " database."
+    },
+    {
+     "start": 83.6,
+     "end": 83.74,
+     "word": " This"
+    },
+    {
+     "start": 83.74,
+     "end": 84.0,
+     "word": " query"
+    },
+    {
+     "start": 84.0,
+     "end": 84.44,
+     "word": " lists"
+    },
+    {
+     "start": 84.44,
+     "end": 84.8,
+     "word": " everything"
+    }
+   ]
+  },
+  {
+   "start": 84.8,
+   "end": 89.6,
+   "text": "in the database that uses the pets column. There's a view the staff page reads, and there's",
+   "words": [
+    {
+     "start": 84.8,
+     "end": 85.0,
+     "word": " in"
+    },
+    {
+     "start": 85.0,
+     "end": 85.1,
+     "word": " the"
+    },
+    {
+     "start": 85.1,
+     "end": 85.44,
+     "word": " database"
+    },
+    {
+     "start": 85.44,
+     "end": 85.68,
+     "word": " that"
+    },
+    {
+     "start": 85.68,
+     "end": 85.9,
+     "word": " uses"
+    },
+    {
+     "start": 85.9,
+     "end": 86.2,
+     "word": " the"
+    },
+    {
+     "start": 86.2,
+     "end": 86.4,
+     "word": " pets"
+    },
+    {
+     "start": 86.4,
+     "end": 86.78,
+     "word": " column."
+    },
+    {
+     "start": 87.32,
+     "end": 87.58,
+     "word": " There's"
+    },
+    {
+     "start": 87.58,
+     "end": 87.7,
+     "word": " a"
+    },
+    {
+     "start": 87.7,
+     "end": 87.84,
+     "word": " view"
+    },
+    {
+     "start": 87.84,
+     "end": 88.02,
+     "word": " the"
+    },
+    {
+     "start": 88.02,
+     "end": 88.26,
+     "word": " staff"
+    },
+    {
+     "start": 88.26,
+     "end": 88.5,
+     "word": " page"
+    },
+    {
+     "start": 88.5,
+     "end": 88.84,
+     "word": " reads,"
+    },
+    {
+     "start": 89.16,
+     "end": 89.38,
+     "word": " and"
+    },
+    {
+     "start": 89.38,
+     "end": 89.6,
+     "word": " there's"
+    }
+   ]
+  },
+  {
+   "start": 89.6,
+   "end": 93.84,
+   "text": "a trigger, a little function that runs on every booking. Here it is. If the customer",
+   "words": [
+    {
+     "start": 89.6,
+     "end": 89.66,
+     "word": " a"
+    },
+    {
+     "start": 89.66,
+     "end": 89.88,
+     "word": " trigger,"
+    },
+    {
+     "start": 90.34,
+     "end": 90.46,
+     "word": " a"
+    },
+    {
+     "start": 90.46,
+     "end": 90.56,
+     "word": " little"
+    },
+    {
+     "start": 90.56,
+     "end": 90.92,
+     "word": " function"
+    },
+    {
+     "start": 90.92,
+     "end": 91.12,
+     "word": " that"
+    },
+    {
+     "start": 91.12,
+     "end": 91.32,
+     "word": " runs"
+    },
+    {
+     "start": 91.32,
+     "end": 91.48,
+     "word": " on"
+    },
+    {
+     "start": 91.48,
+     "end": 91.66,
+     "word": " every"
+    },
+    {
+     "start": 91.66,
+     "end": 91.94,
+     "word": " booking."
+    },
+    {
+     "start": 92.38,
+     "end": 92.54,
+     "word": " Here"
+    },
+    {
+     "start": 92.54,
+     "end": 92.64,
+     "word": " it"
+    },
+    {
+     "start": 92.64,
+     "end": 92.9,
+     "word": " is."
+    },
+    {
+     "start": 93.32,
+     "end": 93.44,
+     "word": " If"
+    },
+    {
+     "start": 93.44,
+     "end": 93.56,
+     "word": " the"
+    },
+    {
+     "start": 93.56,
+     "end": 93.84,
+     "word": " customer"
+    }
+   ]
+  },
+  {
+   "start": 93.84,
+   "end": 101.2,
+   "text": "has pets, $15. Otherwise, zero. And otherwise includes, we never asked. I put this pricing",
+   "words": [
+    {
+     "start": 93.84,
+     "end": 94.08,
+     "word": " has"
+    },
+    {
+     "start": 94.08,
+     "end": 94.38,
+     "word": " pets,"
+    },
+    {
+     "start": 94.74,
+     "end": 95.1,
+     "word": " $15."
+    },
+    {
+     "start": 95.78,
+     "end": 96.26,
+     "word": " Otherwise,"
+    },
+    {
+     "start": 96.56,
+     "end": 96.92,
+     "word": " zero."
+    },
+    {
+     "start": 97.68,
+     "end": 97.78,
+     "word": " And"
+    },
+    {
+     "start": 97.78,
+     "end": 98.14,
+     "word": " otherwise"
+    },
+    {
+     "start": 98.14,
+     "end": 98.58,
+     "word": " includes,"
+    },
+    {
+     "start": 99.16,
+     "end": 99.32,
+     "word": " we"
+    },
+    {
+     "start": 99.32,
+     "end": 99.52,
+     "word": " never"
+    },
+    {
+     "start": 99.52,
+     "end": 99.88,
+     "word": " asked."
+    },
+    {
+     "start": 100.38,
+     "end": 100.6,
+     "word": " I"
+    },
+    {
+     "start": 100.6,
+     "end": 100.72,
+     "word": " put"
+    },
+    {
+     "start": 100.72,
+     "end": 100.92,
+     "word": " this"
+    },
+    {
+     "start": 100.92,
+     "end": 101.2,
+     "word": " pricing"
+    }
+   ]
+  },
+  {
+   "start": 101.2,
+   "end": 105.46,
+   "text": "logic in the database for this demo, but it's a common setup. Your AI tells you to",
+   "words": [
+    {
+     "start": 101.2,
+     "end": 101.48,
+     "word": " logic"
+    },
+    {
+     "start": 101.48,
+     "end": 101.8,
+     "word": " in"
+    },
+    {
+     "start": 101.8,
+     "end": 101.9,
+     "word": " the"
+    },
+    {
+     "start": 101.9,
+     "end": 102.22,
+     "word": " database"
+    },
+    {
+     "start": 102.22,
+     "end": 102.44,
+     "word": " for"
+    },
+    {
+     "start": 102.44,
+     "end": 102.6,
+     "word": " this"
+    },
+    {
+     "start": 102.6,
+     "end": 102.88,
+     "word": " demo,"
+    },
+    {
+     "start": 103.18,
+     "end": 103.38,
+     "word": " but"
+    },
+    {
+     "start": 103.38,
+     "end": 103.48,
+     "word": " it's"
+    },
+    {
+     "start": 103.48,
+     "end": 103.58,
+     "word": " a"
+    },
+    {
+     "start": 103.58,
+     "end": 103.82,
+     "word": " common"
+    },
+    {
+     "start": 103.82,
+     "end": 104.14,
+     "word": " setup."
+    },
+    {
+     "start": 104.54,
+     "end": 104.68,
+     "word": " Your"
+    },
+    {
+     "start": 104.68,
+     "end": 104.9,
+     "word": " AI"
+    },
+    {
+     "start": 104.9,
+     "end": 105.16,
+     "word": " tells"
+    },
+    {
+     "start": 105.16,
+     "end": 105.36,
+     "word": " you"
+    },
+    {
+     "start": 105.36,
+     "end": 105.46,
+     "word": " to"
+    }
+   ]
+  },
+  {
+   "start": 105.46,
+   "end": 110.3,
+   "text": "paste some SQL into the dashboard. You do, and it never ends up in your code. So when",
+   "words": [
+    {
+     "start": 105.46,
+     "end": 105.64,
+     "word": " paste"
+    },
+    {
+     "start": 105.64,
+     "end": 105.86,
+     "word": " some"
+    },
+    {
+     "start": 105.86,
+     "end": 106.14,
+     "word": " SQL"
+    },
+    {
+     "start": 106.14,
+     "end": 106.38,
+     "word": " into"
+    },
+    {
+     "start": 106.38,
+     "end": 106.5,
+     "word": " the"
+    },
+    {
+     "start": 106.5,
+     "end": 106.94,
+     "word": " dashboard."
+    },
+    {
+     "start": 107.66,
+     "end": 107.86,
+     "word": " You"
+    },
+    {
+     "start": 107.86,
+     "end": 108.08,
+     "word": " do,"
+    },
+    {
+     "start": 108.4,
+     "end": 108.52,
+     "word": " and"
+    },
+    {
+     "start": 108.52,
+     "end": 108.62,
+     "word": " it"
+    },
+    {
+     "start": 108.62,
+     "end": 108.78,
+     "word": " never"
+    },
+    {
+     "start": 108.78,
+     "end": 108.98,
+     "word": " ends"
+    },
+    {
+     "start": 108.98,
+     "end": 109.12,
+     "word": " up"
+    },
+    {
+     "start": 109.12,
+     "end": 109.22,
+     "word": " in"
+    },
+    {
+     "start": 109.22,
+     "end": 109.32,
+     "word": " your"
+    },
+    {
+     "start": 109.32,
+     "end": 109.58,
+     "word": " code."
+    },
+    {
+     "start": 110.14,
+     "end": 110.16,
+     "word": " So"
+    },
+    {
+     "start": 110.16,
+     "end": 110.3,
+     "word": " when"
+    }
+   ]
+  },
+  {
+   "start": 110.3,
+   "end": 115.7,
+   "text": "the AI searched my project, there was nothing to find. Its map of where is this used stops",
+   "words": [
+    {
+     "start": 110.3,
+     "end": 110.44,
+     "word": " the"
+    },
+    {
+     "start": 110.44,
+     "end": 110.64,
+     "word": " AI"
+    },
+    {
+     "start": 110.64,
+     "end": 110.9,
+     "word": " searched"
+    },
+    {
+     "start": 110.9,
+     "end": 111.1,
+     "word": " my"
+    },
+    {
+     "start": 111.1,
+     "end": 111.48,
+     "word": " project,"
+    },
+    {
+     "start": 111.76,
+     "end": 111.96,
+     "word": " there"
+    },
+    {
+     "start": 111.96,
+     "end": 112.04,
+     "word": " was"
+    },
+    {
+     "start": 112.04,
+     "end": 112.22,
+     "word": " nothing"
+    },
+    {
+     "start": 112.22,
+     "end": 112.4,
+     "word": " to"
+    },
+    {
+     "start": 112.4,
+     "end": 112.72,
+     "word": " find."
+    },
+    {
+     "start": 113.02,
+     "end": 113.24,
+     "word": " Its"
+    },
+    {
+     "start": 113.24,
+     "end": 113.5,
+     "word": " map"
+    },
+    {
+     "start": 113.5,
+     "end": 113.8,
+     "word": " of"
+    },
+    {
+     "start": 113.8,
+     "end": 114.34,
+     "word": " where"
+    },
+    {
+     "start": 114.34,
+     "end": 114.48,
+     "word": " is"
+    },
+    {
+     "start": 114.48,
+     "end": 114.6,
+     "word": " this"
+    },
+    {
+     "start": 114.6,
+     "end": 115.02,
+     "word": " used"
+    },
+    {
+     "start": 115.02,
+     "end": 115.7,
+     "word": " stops"
+    }
+   ]
+  },
+  {
+   "start": 115.7,
+   "end": 123.0,
+   "text": "at what it can read. So I gave it read access to the database and asked the exact same",
+   "words": [
+    {
+     "start": 115.7,
+     "end": 116.02,
+     "word": " at"
+    },
+    {
+     "start": 116.02,
+     "end": 116.14,
+     "word": " what"
+    },
+    {
+     "start": 116.14,
+     "end": 116.24,
+     "word": " it"
+    },
+    {
+     "start": 116.24,
+     "end": 116.38,
+     "word": " can"
+    },
+    {
+     "start": 116.38,
+     "end": 116.68,
+     "word": " read."
+    },
+    {
+     "start": 119.3,
+     "end": 119.82,
+     "word": " So"
+    },
+    {
+     "start": 119.82,
+     "end": 119.94,
+     "word": " I"
+    },
+    {
+     "start": 119.94,
+     "end": 120.06,
+     "word": " gave"
+    },
+    {
+     "start": 120.06,
+     "end": 120.2,
+     "word": " it"
+    },
+    {
+     "start": 120.2,
+     "end": 120.34,
+     "word": " read"
+    },
+    {
+     "start": 120.34,
+     "end": 120.72,
+     "word": " access"
+    },
+    {
+     "start": 120.72,
+     "end": 120.94,
+     "word": " to"
+    },
+    {
+     "start": 120.94,
+     "end": 121.06,
+     "word": " the"
+    },
+    {
+     "start": 121.06,
+     "end": 121.4,
+     "word": " database"
+    },
+    {
+     "start": 121.4,
+     "end": 121.78,
+     "word": " and"
+    },
+    {
+     "start": 121.78,
+     "end": 122.08,
+     "word": " asked"
+    },
+    {
+     "start": 122.08,
+     "end": 122.46,
+     "word": " the"
+    },
+    {
+     "start": 122.46,
+     "end": 122.74,
+     "word": " exact"
+    },
+    {
+     "start": 122.74,
+     "end": 123.0,
+     "word": " same"
+    }
+   ]
+  },
+  {
+   "start": 123.0,
+   "end": 129.22,
+   "text": "thing. Fresh session, same prompt. This time it went further. Without asking, it changed",
+   "words": [
+    {
+     "start": 123.0,
+     "end": 123.34,
+     "word": " thing."
+    },
+    {
+     "start": 124.0,
+     "end": 124.0,
+     "word": " Fresh"
+    },
+    {
+     "start": 124.0,
+     "end": 124.6,
+     "word": " session,"
+    },
+    {
+     "start": 125.2,
+     "end": 125.38,
+     "word": " same"
+    },
+    {
+     "start": 125.38,
+     "end": 125.86,
+     "word": " prompt."
+    },
+    {
+     "start": 126.32,
+     "end": 126.48,
+     "word": " This"
+    },
+    {
+     "start": 126.48,
+     "end": 126.7,
+     "word": " time"
+    },
+    {
+     "start": 126.7,
+     "end": 126.84,
+     "word": " it"
+    },
+    {
+     "start": 126.84,
+     "end": 126.96,
+     "word": " went"
+    },
+    {
+     "start": 126.96,
+     "end": 127.34,
+     "word": " further."
+    },
+    {
+     "start": 127.66,
+     "end": 127.94,
+     "word": " Without"
+    },
+    {
+     "start": 127.94,
+     "end": 128.42,
+     "word": " asking,"
+    },
+    {
+     "start": 128.7,
+     "end": 128.9,
+     "word": " it"
+    },
+    {
+     "start": 128.9,
+     "end": 129.22,
+     "word": " changed"
+    }
+   ]
+  },
+  {
+   "start": 129.22,
+   "end": 134.7,
+   "text": "the cleaner matching. Unknown now means might have pets. And the staff page shows unknown",
+   "words": [
+    {
+     "start": 129.22,
+     "end": 129.42,
+     "word": " the"
+    },
+    {
+     "start": 129.42,
+     "end": 129.64,
+     "word": " cleaner"
+    },
+    {
+     "start": 129.64,
+     "end": 130.04,
+     "word": " matching."
+    },
+    {
+     "start": 130.78,
+     "end": 130.9,
+     "word": " Unknown"
+    },
+    {
+     "start": 130.9,
+     "end": 131.24,
+     "word": " now"
+    },
+    {
+     "start": 131.24,
+     "end": 131.62,
+     "word": " means"
+    },
+    {
+     "start": 131.62,
+     "end": 131.86,
+     "word": " might"
+    },
+    {
+     "start": 131.86,
+     "end": 132.06,
+     "word": " have"
+    },
+    {
+     "start": 132.06,
+     "end": 132.4,
+     "word": " pets."
+    },
+    {
+     "start": 132.78,
+     "end": 133.06,
+     "word": " And"
+    },
+    {
+     "start": 133.06,
+     "end": 133.16,
+     "word": " the"
+    },
+    {
+     "start": 133.16,
+     "end": 133.38,
+     "word": " staff"
+    },
+    {
+     "start": 133.38,
+     "end": 133.7,
+     "word": " page"
+    },
+    {
+     "start": 133.7,
+     "end": 134.14,
+     "word": " shows"
+    },
+    {
+     "start": 134.14,
+     "end": 134.7,
+     "word": " unknown"
+    }
+   ]
+  },
+  {
+   "start": 134.7,
+   "end": 139.58,
+   "text": "instead of no. The cat booking goes to bed now. Better. But look at what that decision",
+   "words": [
+    {
+     "start": 134.7,
+     "end": 135.32,
+     "word": " instead"
+    },
+    {
+     "start": 135.32,
+     "end": 135.52,
+     "word": " of"
+    },
+    {
+     "start": 135.52,
+     "end": 135.74,
+     "word": " no."
+    },
+    {
+     "start": 136.12,
+     "end": 136.28,
+     "word": " The"
+    },
+    {
+     "start": 136.28,
+     "end": 136.46,
+     "word": " cat"
+    },
+    {
+     "start": 136.46,
+     "end": 136.66,
+     "word": " booking"
+    },
+    {
+     "start": 136.66,
+     "end": 136.9,
+     "word": " goes"
+    },
+    {
+     "start": 136.9,
+     "end": 137.14,
+     "word": " to"
+    },
+    {
+     "start": 137.14,
+     "end": 137.28,
+     "word": " bed"
+    },
+    {
+     "start": 137.28,
+     "end": 137.6,
+     "word": " now."
+    },
+    {
+     "start": 138.14,
+     "end": 138.14,
+     "word": " Better."
+    },
+    {
+     "start": 138.74,
+     "end": 138.84,
+     "word": " But"
+    },
+    {
+     "start": 138.84,
+     "end": 138.96,
+     "word": " look"
+    },
+    {
+     "start": 138.96,
+     "end": 139.04,
+     "word": " at"
+    },
+    {
+     "start": 139.04,
+     "end": 139.16,
+     "word": " what"
+    },
+    {
+     "start": 139.16,
+     "end": 139.32,
+     "word": " that"
+    },
+    {
+     "start": 139.32,
+     "end": 139.58,
+     "word": " decision"
+    }
+   ]
+  },
+  {
+   "start": 139.58,
+   "end": 145.22,
+   "text": "means. Anna, the cleaner with the allergy now gets no new jobs until someone on staff",
+   "words": [
+    {
+     "start": 139.58,
+     "end": 140.0,
+     "word": " means."
+    },
+    {
+     "start": 140.56,
+     "end": 140.66,
+     "word": " Anna,"
+    },
+    {
+     "start": 141.1,
+     "end": 141.18,
+     "word": " the"
+    },
+    {
+     "start": 141.18,
+     "end": 141.4,
+     "word": " cleaner"
+    },
+    {
+     "start": 141.4,
+     "end": 141.62,
+     "word": " with"
+    },
+    {
+     "start": 141.62,
+     "end": 141.74,
+     "word": " the"
+    },
+    {
+     "start": 141.74,
+     "end": 142.12,
+     "word": " allergy"
+    },
+    {
+     "start": 142.12,
+     "end": 142.9,
+     "word": " now"
+    },
+    {
+     "start": 142.9,
+     "end": 143.08,
+     "word": " gets"
+    },
+    {
+     "start": 143.08,
+     "end": 143.34,
+     "word": " no"
+    },
+    {
+     "start": 143.34,
+     "end": 143.52,
+     "word": " new"
+    },
+    {
+     "start": 143.52,
+     "end": 143.94,
+     "word": " jobs"
+    },
+    {
+     "start": 143.94,
+     "end": 144.3,
+     "word": " until"
+    },
+    {
+     "start": 144.3,
+     "end": 144.68,
+     "word": " someone"
+    },
+    {
+     "start": 144.68,
+     "end": 144.88,
+     "word": " on"
+    },
+    {
+     "start": 144.88,
+     "end": 145.22,
+     "word": " staff"
+    }
+   ]
+  },
+  {
+   "start": 145.22,
+   "end": 150.18,
+   "text": "fills in the pets answer by hand. That's a reasonable call. It's also a business decision",
+   "words": [
+    {
+     "start": 145.22,
+     "end": 145.6,
+     "word": " fills"
+    },
+    {
+     "start": 145.6,
+     "end": 145.76,
+     "word": " in"
+    },
+    {
+     "start": 145.76,
+     "end": 145.86,
+     "word": " the"
+    },
+    {
+     "start": 145.86,
+     "end": 146.04,
+     "word": " pets"
+    },
+    {
+     "start": 146.04,
+     "end": 146.38,
+     "word": " answer"
+    },
+    {
+     "start": 146.38,
+     "end": 146.58,
+     "word": " by"
+    },
+    {
+     "start": 146.58,
+     "end": 146.9,
+     "word": " hand."
+    },
+    {
+     "start": 147.22,
+     "end": 147.48,
+     "word": " That's"
+    },
+    {
+     "start": 147.48,
+     "end": 147.56,
+     "word": " a"
+    },
+    {
+     "start": 147.56,
+     "end": 147.78,
+     "word": " reasonable"
+    },
+    {
+     "start": 147.78,
+     "end": 148.22,
+     "word": " call."
+    },
+    {
+     "start": 148.56,
+     "end": 148.82,
+     "word": " It's"
+    },
+    {
+     "start": 148.82,
+     "end": 149.12,
+     "word": " also"
+    },
+    {
+     "start": 149.12,
+     "end": 149.34,
+     "word": " a"
+    },
+    {
+     "start": 149.34,
+     "end": 149.7,
+     "word": " business"
+    },
+    {
+     "start": 149.7,
+     "end": 150.18,
+     "word": " decision"
+    }
+   ]
+  },
+  {
+   "start": 150.18,
+   "end": 155.84,
+   "text": "about your staff's work. The AI made it for you. And the price is still 150. It",
+   "words": [
+    {
+     "start": 150.18,
+     "end": 150.48,
+     "word": " about"
+    },
+    {
+     "start": 150.48,
+     "end": 150.68,
+     "word": " your"
+    },
+    {
+     "start": 150.68,
+     "end": 151.08,
+     "word": " staff's"
+    },
+    {
+     "start": 151.08,
+     "end": 151.32,
+     "word": " work."
+    },
+    {
+     "start": 152.0,
+     "end": 152.16,
+     "word": " The"
+    },
+    {
+     "start": 152.16,
+     "end": 152.42,
+     "word": " AI"
+    },
+    {
+     "start": 152.42,
+     "end": 152.66,
+     "word": " made"
+    },
+    {
+     "start": 152.66,
+     "end": 152.8,
+     "word": " it"
+    },
+    {
+     "start": 152.8,
+     "end": 152.96,
+     "word": " for"
+    },
+    {
+     "start": 152.96,
+     "end": 153.26,
+     "word": " you."
+    },
+    {
+     "start": 153.5,
+     "end": 153.68,
+     "word": " And"
+    },
+    {
+     "start": 153.68,
+     "end": 153.78,
+     "word": " the"
+    },
+    {
+     "start": 153.78,
+     "end": 153.98,
+     "word": " price"
+    },
+    {
+     "start": 153.98,
+     "end": 154.2,
+     "word": " is"
+    },
+    {
+     "start": 154.2,
+     "end": 154.4,
+     "word": " still"
+    },
+    {
+     "start": 154.4,
+     "end": 154.96,
+     "word": " 150."
+    },
+    {
+     "start": 155.66,
+     "end": 155.84,
+     "word": " It"
+    }
+   ]
+  },
+  {
+   "start": 155.84,
+   "end": 160.42,
+   "text": "had access to the database. It didn't look at what uses the column. Having access",
+   "words": [
+    {
+     "start": 155.84,
+     "end": 156.0,
+     "word": " had"
+    },
+    {
+     "start": 156.0,
+     "end": 156.34,
+     "word": " access"
+    },
+    {
+     "start": 156.34,
+     "end": 156.56,
+     "word": " to"
+    },
+    {
+     "start": 156.56,
+     "end": 156.66,
+     "word": " the"
+    },
+    {
+     "start": 156.66,
+     "end": 156.98,
+     "word": " database."
+    },
+    {
+     "start": 157.72,
+     "end": 157.92,
+     "word": " It"
+    },
+    {
+     "start": 157.92,
+     "end": 158.12,
+     "word": " didn't"
+    },
+    {
+     "start": 158.12,
+     "end": 158.26,
+     "word": " look"
+    },
+    {
+     "start": 158.26,
+     "end": 158.4,
+     "word": " at"
+    },
+    {
+     "start": 158.4,
+     "end": 158.56,
+     "word": " what"
+    },
+    {
+     "start": 158.56,
+     "end": 158.82,
+     "word": " uses"
+    },
+    {
+     "start": 158.82,
+     "end": 159.02,
+     "word": " the"
+    },
+    {
+     "start": 159.02,
+     "end": 159.3,
+     "word": " column."
+    },
+    {
+     "start": 159.8,
+     "end": 160.0,
+     "word": " Having"
+    },
+    {
+     "start": 160.0,
+     "end": 160.42,
+     "word": " access"
+    }
+   ]
+  },
+  {
+   "start": 160.42,
+   "end": 164.88,
+   "text": "isn't the same as checking. Which questions are yours to answer? I made a short about",
+   "words": [
+    {
+     "start": 160.42,
+     "end": 160.74,
+     "word": " isn't"
+    },
+    {
+     "start": 160.74,
+     "end": 160.88,
+     "word": " the"
+    },
+    {
+     "start": 160.88,
+     "end": 161.06,
+     "word": " same"
+    },
+    {
+     "start": 161.06,
+     "end": 161.2,
+     "word": " as"
+    },
+    {
+     "start": 161.2,
+     "end": 161.48,
+     "word": " checking."
+    },
+    {
+     "start": 162.08,
+     "end": 162.28,
+     "word": " Which"
+    },
+    {
+     "start": 162.28,
+     "end": 162.72,
+     "word": " questions"
+    },
+    {
+     "start": 162.72,
+     "end": 162.94,
+     "word": " are"
+    },
+    {
+     "start": 162.94,
+     "end": 163.1,
+     "word": " yours"
+    },
+    {
+     "start": 163.1,
+     "end": 163.34,
+     "word": " to"
+    },
+    {
+     "start": 163.34,
+     "end": 163.62,
+     "word": " answer?"
+    },
+    {
+     "start": 164.22,
+     "end": 164.32,
+     "word": " I"
+    },
+    {
+     "start": 164.32,
+     "end": 164.44,
+     "word": " made"
+    },
+    {
+     "start": 164.44,
+     "end": 164.56,
+     "word": " a"
+    },
+    {
+     "start": 164.56,
+     "end": 164.68,
+     "word": " short"
+    },
+    {
+     "start": 164.68,
+     "end": 164.88,
+     "word": " about"
+    }
+   ]
+  },
+  {
+   "start": 164.88,
+   "end": 172.06,
+   "text": "that. It's linked in the description. Here's the core of the problem. Before, every",
+   "words": [
+    {
+     "start": 164.88,
+     "end": 165.2,
+     "word": " that."
+    },
+    {
+     "start": 165.64,
+     "end": 165.8,
+     "word": " It's"
+    },
+    {
+     "start": 165.8,
+     "end": 165.92,
+     "word": " linked"
+    },
+    {
+     "start": 165.92,
+     "end": 166.1,
+     "word": " in"
+    },
+    {
+     "start": 166.1,
+     "end": 166.18,
+     "word": " the"
+    },
+    {
+     "start": 166.18,
+     "end": 166.5,
+     "word": " description."
+    },
+    {
+     "start": 169.36,
+     "end": 169.84,
+     "word": " Here's"
+    },
+    {
+     "start": 169.84,
+     "end": 169.96,
+     "word": " the"
+    },
+    {
+     "start": 169.96,
+     "end": 170.12,
+     "word": " core"
+    },
+    {
+     "start": 170.12,
+     "end": 170.24,
+     "word": " of"
+    },
+    {
+     "start": 170.24,
+     "end": 170.3,
+     "word": " the"
+    },
+    {
+     "start": 170.3,
+     "end": 170.66,
+     "word": " problem."
+    },
+    {
+     "start": 171.06,
+     "end": 171.34,
+     "word": " Before,"
+    },
+    {
+     "start": 171.84,
+     "end": 172.06,
+     "word": " every"
+    }
+   ]
+  },
+  {
+   "start": 172.06,
+   "end": 177.8,
+   "text": "booking said yes or no. Now new bookings say nothing. No. And every place that reads",
+   "words": [
+    {
+     "start": 172.06,
+     "end": 172.34,
+     "word": " booking"
+    },
+    {
+     "start": 172.34,
+     "end": 172.64,
+     "word": " said"
+    },
+    {
+     "start": 172.64,
+     "end": 172.88,
+     "word": " yes"
+    },
+    {
+     "start": 172.88,
+     "end": 173.14,
+     "word": " or"
+    },
+    {
+     "start": 173.14,
+     "end": 173.4,
+     "word": " no."
+    },
+    {
+     "start": 173.86,
+     "end": 174.02,
+     "word": " Now"
+    },
+    {
+     "start": 174.02,
+     "end": 174.24,
+     "word": " new"
+    },
+    {
+     "start": 174.24,
+     "end": 174.62,
+     "word": " bookings"
+    },
+    {
+     "start": 174.62,
+     "end": 174.94,
+     "word": " say"
+    },
+    {
+     "start": 174.94,
+     "end": 175.28,
+     "word": " nothing."
+    },
+    {
+     "start": 176.22,
+     "end": 176.24,
+     "word": " No."
+    },
+    {
+     "start": 176.72,
+     "end": 176.92,
+     "word": " And"
+    },
+    {
+     "start": 176.92,
+     "end": 177.14,
+     "word": " every"
+    },
+    {
+     "start": 177.14,
+     "end": 177.38,
+     "word": " place"
+    },
+    {
+     "start": 177.38,
+     "end": 177.6,
+     "word": " that"
+    },
+    {
+     "start": 177.6,
+     "end": 177.8,
+     "word": " reads"
+    }
+   ]
+  },
+  {
+   "start": 177.8,
+   "end": 182.66,
+   "text": "the answer was written for yes or no. The staff page, the matching the price. Each",
+   "words": [
+    {
+     "start": 177.8,
+     "end": 177.94,
+     "word": " the"
+    },
+    {
+     "start": 177.94,
+     "end": 178.22,
+     "word": " answer"
+    },
+    {
+     "start": 178.22,
+     "end": 178.46,
+     "word": " was"
+    },
+    {
+     "start": 178.46,
+     "end": 178.66,
+     "word": " written"
+    },
+    {
+     "start": 178.66,
+     "end": 178.86,
+     "word": " for"
+    },
+    {
+     "start": 178.86,
+     "end": 179.04,
+     "word": " yes"
+    },
+    {
+     "start": 179.04,
+     "end": 179.22,
+     "word": " or"
+    },
+    {
+     "start": 179.22,
+     "end": 179.44,
+     "word": " no."
+    },
+    {
+     "start": 179.78,
+     "end": 179.96,
+     "word": " The"
+    },
+    {
+     "start": 179.96,
+     "end": 180.18,
+     "word": " staff"
+    },
+    {
+     "start": 180.18,
+     "end": 180.52,
+     "word": " page,"
+    },
+    {
+     "start": 180.78,
+     "end": 180.86,
+     "word": " the"
+    },
+    {
+     "start": 180.86,
+     "end": 181.16,
+     "word": " matching"
+    },
+    {
+     "start": 181.16,
+     "end": 181.56,
+     "word": " the"
+    },
+    {
+     "start": 181.56,
+     "end": 181.88,
+     "word": " price."
+    },
+    {
+     "start": 182.5,
+     "end": 182.66,
+     "word": " Each"
+    }
+   ]
+  },
+  {
+   "start": 182.66,
+   "end": 187.8,
+   "text": "one treats we didn't ask as no remove the question sounds like one change. It's",
+   "words": [
+    {
+     "start": 182.66,
+     "end": 182.86,
+     "word": " one"
+    },
+    {
+     "start": 182.86,
+     "end": 183.16,
+     "word": " treats"
+    },
+    {
+     "start": 183.16,
+     "end": 183.48,
+     "word": " we"
+    },
+    {
+     "start": 183.48,
+     "end": 183.72,
+     "word": " didn't"
+    },
+    {
+     "start": 183.72,
+     "end": 184.04,
+     "word": " ask"
+    },
+    {
+     "start": 184.04,
+     "end": 184.6,
+     "word": " as"
+    },
+    {
+     "start": 184.6,
+     "end": 184.84,
+     "word": " no"
+    },
+    {
+     "start": 184.84,
+     "end": 185.44,
+     "word": " remove"
+    },
+    {
+     "start": 185.44,
+     "end": 185.62,
+     "word": " the"
+    },
+    {
+     "start": 185.62,
+     "end": 186.0,
+     "word": " question"
+    },
+    {
+     "start": 186.0,
+     "end": 186.28,
+     "word": " sounds"
+    },
+    {
+     "start": 186.28,
+     "end": 186.54,
+     "word": " like"
+    },
+    {
+     "start": 186.54,
+     "end": 186.74,
+     "word": " one"
+    },
+    {
+     "start": 186.74,
+     "end": 187.18,
+     "word": " change."
+    },
+    {
+     "start": 187.58,
+     "end": 187.8,
+     "word": " It's"
+    }
+   ]
+  },
+  {
+   "start": 187.8,
+   "end": 193.82,
+   "text": "for stop asking, stop saving, stop using it and decide what happens to the answers",
+   "words": [
+    {
+     "start": 187.8,
+     "end": 187.98,
+     "word": " for"
+    },
+    {
+     "start": 187.98,
+     "end": 189.0,
+     "word": " stop"
+    },
+    {
+     "start": 189.0,
+     "end": 189.56,
+     "word": " asking,"
+    },
+    {
+     "start": 189.9,
+     "end": 190.18,
+     "word": " stop"
+    },
+    {
+     "start": 190.18,
+     "end": 190.6,
+     "word": " saving,"
+    },
+    {
+     "start": 191.08,
+     "end": 191.38,
+     "word": " stop"
+    },
+    {
+     "start": 191.38,
+     "end": 191.64,
+     "word": " using"
+    },
+    {
+     "start": 191.64,
+     "end": 191.94,
+     "word": " it"
+    },
+    {
+     "start": 191.94,
+     "end": 192.46,
+     "word": " and"
+    },
+    {
+     "start": 192.46,
+     "end": 192.78,
+     "word": " decide"
+    },
+    {
+     "start": 192.78,
+     "end": 192.92,
+     "word": " what"
+    },
+    {
+     "start": 192.92,
+     "end": 193.22,
+     "word": " happens"
+    },
+    {
+     "start": 193.22,
+     "end": 193.46,
+     "word": " to"
+    },
+    {
+     "start": 193.46,
+     "end": 193.56,
+     "word": " the"
+    },
+    {
+     "start": 193.56,
+     "end": 193.82,
+     "word": " answers"
+    }
+   ]
+  },
+  {
+   "start": 193.82,
+   "end": 200.98,
+   "text": "you already have. The AI did the first two because that's what I asked for. So",
+   "words": [
+    {
+     "start": 193.82,
+     "end": 194.04,
+     "word": " you"
+    },
+    {
+     "start": 194.04,
+     "end": 194.26,
+     "word": " already"
+    },
+    {
+     "start": 194.26,
+     "end": 194.66,
+     "word": " have."
+    },
+    {
+     "start": 194.96,
+     "end": 195.1,
+     "word": " The"
+    },
+    {
+     "start": 195.1,
+     "end": 195.36,
+     "word": " AI"
+    },
+    {
+     "start": 195.36,
+     "end": 195.62,
+     "word": " did"
+    },
+    {
+     "start": 195.62,
+     "end": 195.78,
+     "word": " the"
+    },
+    {
+     "start": 195.78,
+     "end": 195.96,
+     "word": " first"
+    },
+    {
+     "start": 195.96,
+     "end": 196.28,
+     "word": " two"
+    },
+    {
+     "start": 196.28,
+     "end": 196.94,
+     "word": " because"
+    },
+    {
+     "start": 196.94,
+     "end": 197.2,
+     "word": " that's"
+    },
+    {
+     "start": 197.2,
+     "end": 197.3,
+     "word": " what"
+    },
+    {
+     "start": 197.3,
+     "end": 197.4,
+     "word": " I"
+    },
+    {
+     "start": 197.4,
+     "end": 197.58,
+     "word": " asked"
+    },
+    {
+     "start": 197.58,
+     "end": 197.9,
+     "word": " for."
+    },
+    {
+     "start": 200.46,
+     "end": 200.98,
+     "word": " So"
+    }
+   ]
+  },
+  {
+   "start": 200.98,
+   "end": 205.84,
+   "text": "here's how to remove a field without this. The order matters. One, decide. Are",
+   "words": [
+    {
+     "start": 200.98,
+     "end": 201.22,
+     "word": " here's"
+    },
+    {
+     "start": 201.22,
+     "end": 201.34,
+     "word": " how"
+    },
+    {
+     "start": 201.34,
+     "end": 201.4,
+     "word": " to"
+    },
+    {
+     "start": 201.4,
+     "end": 201.62,
+     "word": " remove"
+    },
+    {
+     "start": 201.62,
+     "end": 201.76,
+     "word": " a"
+    },
+    {
+     "start": 201.76,
+     "end": 202.0,
+     "word": " field"
+    },
+    {
+     "start": 202.0,
+     "end": 202.32,
+     "word": " without"
+    },
+    {
+     "start": 202.32,
+     "end": 202.66,
+     "word": " this."
+    },
+    {
+     "start": 202.92,
+     "end": 203.1,
+     "word": " The"
+    },
+    {
+     "start": 203.1,
+     "end": 203.28,
+     "word": " order"
+    },
+    {
+     "start": 203.28,
+     "end": 203.72,
+     "word": " matters."
+    },
+    {
+     "start": 204.34,
+     "end": 204.68,
+     "word": " One,"
+    },
+    {
+     "start": 205.0,
+     "end": 205.28,
+     "word": " decide."
+    },
+    {
+     "start": 205.76,
+     "end": 205.84,
+     "word": " Are"
+    }
+   ]
+  },
+  {
+   "start": 205.84,
+   "end": 209.02,
+   "text": "you dropping the information or collecting it another way? What about the",
+   "words": [
+    {
+     "start": 205.84,
+     "end": 205.9,
+     "word": " you"
+    },
+    {
+     "start": 205.9,
+     "end": 206.18,
+     "word": " dropping"
+    },
+    {
+     "start": 206.18,
+     "end": 206.36,
+     "word": " the"
+    },
+    {
+     "start": 206.36,
+     "end": 206.72,
+     "word": " information"
+    },
+    {
+     "start": 206.72,
+     "end": 207.28,
+     "word": " or"
+    },
+    {
+     "start": 207.28,
+     "end": 207.66,
+     "word": " collecting"
+    },
+    {
+     "start": 207.66,
+     "end": 207.78,
+     "word": " it"
+    },
+    {
+     "start": 207.78,
+     "end": 207.94,
+     "word": " another"
+    },
+    {
+     "start": 207.94,
+     "end": 208.26,
+     "word": " way?"
+    },
+    {
+     "start": 208.52,
+     "end": 208.72,
+     "word": " What"
+    },
+    {
+     "start": 208.72,
+     "end": 208.9,
+     "word": " about"
+    },
+    {
+     "start": 208.9,
+     "end": 209.02,
+     "word": " the"
+    }
+   ]
+  },
+  {
+   "start": 209.02,
+   "end": 213.86,
+   "text": "answers you have? For this business, stop asking on the form. Staff confirm",
+   "words": [
+    {
+     "start": 209.02,
+     "end": 209.28,
+     "word": " answers"
+    },
+    {
+     "start": 209.28,
+     "end": 209.44,
+     "word": " you"
+    },
+    {
+     "start": 209.44,
+     "end": 209.8,
+     "word": " have?"
+    },
+    {
+     "start": 210.28,
+     "end": 210.48,
+     "word": " For"
+    },
+    {
+     "start": 210.48,
+     "end": 210.64,
+     "word": " this"
+    },
+    {
+     "start": 210.64,
+     "end": 211.0,
+     "word": " business,"
+    },
+    {
+     "start": 211.56,
+     "end": 211.92,
+     "word": " stop"
+    },
+    {
+     "start": 211.92,
+     "end": 212.26,
+     "word": " asking"
+    },
+    {
+     "start": 212.26,
+     "end": 212.42,
+     "word": " on"
+    },
+    {
+     "start": 212.42,
+     "end": 212.52,
+     "word": " the"
+    },
+    {
+     "start": 212.52,
+     "end": 212.78,
+     "word": " form."
+    },
+    {
+     "start": 213.46,
+     "end": 213.48,
+     "word": " Staff"
+    },
+    {
+     "start": 213.48,
+     "end": 213.86,
+     "word": " confirm"
+    }
+   ]
+  },
+  {
+   "start": 213.86,
+   "end": 218.5,
+   "text": "pets when they confirm the booking. Keep the old answers and no pet fee until",
+   "words": [
+    {
+     "start": 213.86,
+     "end": 214.14,
+     "word": " pets"
+    },
+    {
+     "start": 214.14,
+     "end": 214.38,
+     "word": " when"
+    },
+    {
+     "start": 214.38,
+     "end": 214.52,
+     "word": " they"
+    },
+    {
+     "start": 214.52,
+     "end": 214.74,
+     "word": " confirm"
+    },
+    {
+     "start": 214.74,
+     "end": 214.94,
+     "word": " the"
+    },
+    {
+     "start": 214.94,
+     "end": 215.2,
+     "word": " booking."
+    },
+    {
+     "start": 216.06,
+     "end": 216.16,
+     "word": " Keep"
+    },
+    {
+     "start": 216.16,
+     "end": 216.38,
+     "word": " the"
+    },
+    {
+     "start": 216.38,
+     "end": 216.56,
+     "word": " old"
+    },
+    {
+     "start": 216.56,
+     "end": 216.9,
+     "word": " answers"
+    },
+    {
+     "start": 216.9,
+     "end": 217.66,
+     "word": " and"
+    },
+    {
+     "start": 217.66,
+     "end": 217.82,
+     "word": " no"
+    },
+    {
+     "start": 217.82,
+     "end": 218.0,
+     "word": " pet"
+    },
+    {
+     "start": 218.0,
+     "end": 218.26,
+     "word": " fee"
+    },
+    {
+     "start": 218.26,
+     "end": 218.5,
+     "word": " until"
+    }
+   ]
+  },
+  {
+   "start": 218.5,
+   "end": 223.88,
+   "text": "it's confirmed. Two, map out everything that uses it. Ask your AI for a full list",
+   "words": [
+    {
+     "start": 218.5,
+     "end": 218.76,
+     "word": " it's"
+    },
+    {
+     "start": 218.76,
+     "end": 219.18,
+     "word": " confirmed."
+    },
+    {
+     "start": 219.52,
+     "end": 219.8,
+     "word": " Two,"
+    },
+    {
+     "start": 220.5,
+     "end": 220.68,
+     "word": " map"
+    },
+    {
+     "start": 220.68,
+     "end": 220.88,
+     "word": " out"
+    },
+    {
+     "start": 220.88,
+     "end": 221.2,
+     "word": " everything"
+    },
+    {
+     "start": 221.2,
+     "end": 221.36,
+     "word": " that"
+    },
+    {
+     "start": 221.36,
+     "end": 221.56,
+     "word": " uses"
+    },
+    {
+     "start": 221.56,
+     "end": 221.92,
+     "word": " it."
+    },
+    {
+     "start": 222.4,
+     "end": 222.58,
+     "word": " Ask"
+    },
+    {
+     "start": 222.58,
+     "end": 222.74,
+     "word": " your"
+    },
+    {
+     "start": 222.74,
+     "end": 222.96,
+     "word": " AI"
+    },
+    {
+     "start": 222.96,
+     "end": 223.24,
+     "word": " for"
+    },
+    {
+     "start": 223.24,
+     "end": 223.34,
+     "word": " a"
+    },
+    {
+     "start": 223.34,
+     "end": 223.52,
+     "word": " full"
+    },
+    {
+     "start": 223.52,
+     "end": 223.88,
+     "word": " list"
+    }
+   ]
+  },
+  {
+   "start": 223.88,
+   "end": 228.1,
+   "text": "and ask what it couldn't check. Then search the code yourself and run this",
+   "words": [
+    {
+     "start": 223.88,
+     "end": 224.44,
+     "word": " and"
+    },
+    {
+     "start": 224.44,
+     "end": 224.7,
+     "word": " ask"
+    },
+    {
+     "start": 224.7,
+     "end": 224.84,
+     "word": " what"
+    },
+    {
+     "start": 224.84,
+     "end": 224.96,
+     "word": " it"
+    },
+    {
+     "start": 224.96,
+     "end": 225.26,
+     "word": " couldn't"
+    },
+    {
+     "start": 225.26,
+     "end": 225.54,
+     "word": " check."
+    },
+    {
+     "start": 225.9,
+     "end": 226.18,
+     "word": " Then"
+    },
+    {
+     "start": 226.18,
+     "end": 226.44,
+     "word": " search"
+    },
+    {
+     "start": 226.44,
+     "end": 226.68,
+     "word": " the"
+    },
+    {
+     "start": 226.68,
+     "end": 226.9,
+     "word": " code"
+    },
+    {
+     "start": 226.9,
+     "end": 227.28,
+     "word": " yourself"
+    },
+    {
+     "start": 227.28,
+     "end": 227.8,
+     "word": " and"
+    },
+    {
+     "start": 227.8,
+     "end": 227.92,
+     "word": " run"
+    },
+    {
+     "start": 227.92,
+     "end": 228.1,
+     "word": " this"
+    }
+   ]
+  },
+  {
+   "start": 228.1,
+   "end": 232.66,
+   "text": "query in your database. That's the one that finds the trigger. Three, make",
+   "words": [
+    {
+     "start": 228.1,
+     "end": 228.36,
+     "word": " query"
+    },
+    {
+     "start": 228.36,
+     "end": 228.56,
+     "word": " in"
+    },
+    {
+     "start": 228.56,
+     "end": 228.66,
+     "word": " your"
+    },
+    {
+     "start": 228.66,
+     "end": 229.0,
+     "word": " database."
+    },
+    {
+     "start": 229.76,
+     "end": 229.98,
+     "word": " That's"
+    },
+    {
+     "start": 229.98,
+     "end": 230.1,
+     "word": " the"
+    },
+    {
+     "start": 230.1,
+     "end": 230.22,
+     "word": " one"
+    },
+    {
+     "start": 230.22,
+     "end": 230.38,
+     "word": " that"
+    },
+    {
+     "start": 230.38,
+     "end": 230.62,
+     "word": " finds"
+    },
+    {
+     "start": 230.62,
+     "end": 230.82,
+     "word": " the"
+    },
+    {
+     "start": 230.82,
+     "end": 231.06,
+     "word": " trigger."
+    },
+    {
+     "start": 231.58,
+     "end": 231.92,
+     "word": " Three,"
+    },
+    {
+     "start": 232.46,
+     "end": 232.66,
+     "word": " make"
+    }
+   ]
+  },
+  {
+   "start": 232.66,
+   "end": 237.86,
+   "text": "everything handle unknown first before you remove the question. Matching. Only a",
+   "words": [
+    {
+     "start": 232.66,
+     "end": 233.0,
+     "word": " everything"
+    },
+    {
+     "start": 233.0,
+     "end": 233.4,
+     "word": " handle"
+    },
+    {
+     "start": 233.4,
+     "end": 233.86,
+     "word": " unknown"
+    },
+    {
+     "start": 233.86,
+     "end": 234.38,
+     "word": " first"
+    },
+    {
+     "start": 234.38,
+     "end": 235.06,
+     "word": " before"
+    },
+    {
+     "start": 235.06,
+     "end": 235.26,
+     "word": " you"
+    },
+    {
+     "start": 235.26,
+     "end": 235.5,
+     "word": " remove"
+    },
+    {
+     "start": 235.5,
+     "end": 235.68,
+     "word": " the"
+    },
+    {
+     "start": 235.68,
+     "end": 236.06,
+     "word": " question."
+    },
+    {
+     "start": 236.82,
+     "end": 237.2,
+     "word": " Matching."
+    },
+    {
+     "start": 237.46,
+     "end": 237.72,
+     "word": " Only"
+    },
+    {
+     "start": 237.72,
+     "end": 237.86,
+     "word": " a"
+    }
+   ]
+  },
+  {
+   "start": 237.86,
+   "end": 241.72,
+   "text": "confirmed no pets home can go to a cleaner with an allergy. Staff page,",
+   "words": [
+    {
+     "start": 237.86,
+     "end": 238.2,
+     "word": " confirmed"
+    },
+    {
+     "start": 238.2,
+     "end": 238.46,
+     "word": " no"
+    },
+    {
+     "start": 238.46,
+     "end": 238.7,
+     "word": " pets"
+    },
+    {
+     "start": 238.7,
+     "end": 239.0,
+     "word": " home"
+    },
+    {
+     "start": 239.0,
+     "end": 239.28,
+     "word": " can"
+    },
+    {
+     "start": 239.28,
+     "end": 239.46,
+     "word": " go"
+    },
+    {
+     "start": 239.46,
+     "end": 239.64,
+     "word": " to"
+    },
+    {
+     "start": 239.64,
+     "end": 239.76,
+     "word": " a"
+    },
+    {
+     "start": 239.76,
+     "end": 239.96,
+     "word": " cleaner"
+    },
+    {
+     "start": 239.96,
+     "end": 240.18,
+     "word": " with"
+    },
+    {
+     "start": 240.18,
+     "end": 240.3,
+     "word": " an"
+    },
+    {
+     "start": 240.3,
+     "end": 240.66,
+     "word": " allergy."
+    },
+    {
+     "start": 241.32,
+     "end": 241.38,
+     "word": " Staff"
+    },
+    {
+     "start": 241.38,
+     "end": 241.72,
+     "word": " page,"
+    }
+   ]
+  },
+  {
+   "start": 241.72,
+   "end": 247.3,
+   "text": "unknown, a confirm pets with customer badge, and a drop down so staff can set",
+   "words": [
+    {
+     "start": 241.72,
+     "end": 242.32,
+     "word": " unknown,"
+    },
+    {
+     "start": 242.92,
+     "end": 243.02,
+     "word": " a"
+    },
+    {
+     "start": 243.02,
+     "end": 243.58,
+     "word": " confirm"
+    },
+    {
+     "start": 243.58,
+     "end": 244.04,
+     "word": " pets"
+    },
+    {
+     "start": 244.04,
+     "end": 244.24,
+     "word": " with"
+    },
+    {
+     "start": 244.24,
+     "end": 244.66,
+     "word": " customer"
+    },
+    {
+     "start": 244.66,
+     "end": 245.02,
+     "word": " badge,"
+    },
+    {
+     "start": 245.5,
+     "end": 245.72,
+     "word": " and"
+    },
+    {
+     "start": 245.72,
+     "end": 245.82,
+     "word": " a"
+    },
+    {
+     "start": 245.82,
+     "end": 246.0,
+     "word": " drop"
+    },
+    {
+     "start": 246.0,
+     "end": 246.24,
+     "word": " down"
+    },
+    {
+     "start": 246.24,
+     "end": 246.48,
+     "word": " so"
+    },
+    {
+     "start": 246.48,
+     "end": 246.76,
+     "word": " staff"
+    },
+    {
+     "start": 246.76,
+     "end": 247.04,
+     "word": " can"
+    },
+    {
+     "start": 247.04,
+     "end": 247.3,
+     "word": " set"
+    }
+   ]
+  },
+  {
+   "start": 247.3,
+   "end": 252.04,
+   "text": "yes, no or unknown. The trigger can stay as it is. Unknown means no automatic",
+   "words": [
+    {
+     "start": 247.3,
+     "end": 247.62,
+     "word": " yes,"
+    },
+    {
+     "start": 247.9,
+     "end": 248.2,
+     "word": " no"
+    },
+    {
+     "start": 248.2,
+     "end": 248.5,
+     "word": " or"
+    },
+    {
+     "start": 248.5,
+     "end": 248.82,
+     "word": " unknown."
+    },
+    {
+     "start": 249.38,
+     "end": 249.48,
+     "word": " The"
+    },
+    {
+     "start": 249.48,
+     "end": 249.66,
+     "word": " trigger"
+    },
+    {
+     "start": 249.66,
+     "end": 249.88,
+     "word": " can"
+    },
+    {
+     "start": 249.88,
+     "end": 250.06,
+     "word": " stay"
+    },
+    {
+     "start": 250.06,
+     "end": 250.18,
+     "word": " as"
+    },
+    {
+     "start": 250.18,
+     "end": 250.26,
+     "word": " it"
+    },
+    {
+     "start": 250.26,
+     "end": 250.58,
+     "word": " is."
+    },
+    {
+     "start": 251.2,
+     "end": 251.22,
+     "word": " Unknown"
+    },
+    {
+     "start": 251.22,
+     "end": 251.48,
+     "word": " means"
+    },
+    {
+     "start": 251.48,
+     "end": 251.72,
+     "word": " no"
+    },
+    {
+     "start": 251.72,
+     "end": 252.04,
+     "word": " automatic"
+    }
+   ]
+  },
+  {
+   "start": 252.04,
+   "end": 255.74,
+   "text": "fee, which is our decision, and it reruns whenever staff update the booking.",
+   "words": [
+    {
+     "start": 252.04,
+     "end": 252.38,
+     "word": " fee,"
+    },
+    {
+     "start": 252.62,
+     "end": 252.72,
+     "word": " which"
+    },
+    {
+     "start": 252.72,
+     "end": 252.84,
+     "word": " is"
+    },
+    {
+     "start": 252.84,
+     "end": 252.96,
+     "word": " our"
+    },
+    {
+     "start": 252.96,
+     "end": 253.22,
+     "word": " decision,"
+    },
+    {
+     "start": 253.76,
+     "end": 253.88,
+     "word": " and"
+    },
+    {
+     "start": 253.88,
+     "end": 253.98,
+     "word": " it"
+    },
+    {
+     "start": 253.98,
+     "end": 254.34,
+     "word": " reruns"
+    },
+    {
+     "start": 254.34,
+     "end": 254.66,
+     "word": " whenever"
+    },
+    {
+     "start": 254.66,
+     "end": 254.96,
+     "word": " staff"
+    },
+    {
+     "start": 254.96,
+     "end": 255.32,
+     "word": " update"
+    },
+    {
+     "start": 255.32,
+     "end": 255.46,
+     "word": " the"
+    },
+    {
+     "start": 255.46,
+     "end": 255.74,
+     "word": " booking."
+    }
+   ]
+  },
+  {
+   "start": 256.52,
+   "end": 261.54,
+   "text": "Four, then remove the question. That's the part the AI already did. Five,",
+   "words": [
+    {
+     "start": 256.52,
+     "end": 256.7,
+     "word": " Four,"
+    },
+    {
+     "start": 257.14,
+     "end": 257.54,
+     "word": " then"
+    },
+    {
+     "start": 257.54,
+     "end": 257.8,
+     "word": " remove"
+    },
+    {
+     "start": 257.8,
+     "end": 257.98,
+     "word": " the"
+    },
+    {
+     "start": 257.98,
+     "end": 258.34,
+     "word": " question."
+    },
+    {
+     "start": 258.74,
+     "end": 259.1,
+     "word": " That's"
+    },
+    {
+     "start": 259.1,
+     "end": 259.2,
+     "word": " the"
+    },
+    {
+     "start": 259.2,
+     "end": 259.38,
+     "word": " part"
+    },
+    {
+     "start": 259.38,
+     "end": 259.54,
+     "word": " the"
+    },
+    {
+     "start": 259.54,
+     "end": 259.9,
+     "word": " AI"
+    },
+    {
+     "start": 259.9,
+     "end": 260.36,
+     "word": " already"
+    },
+    {
+     "start": 260.36,
+     "end": 260.74,
+     "word": " did."
+    },
+    {
+     "start": 261.26,
+     "end": 261.54,
+     "word": " Five,"
+    }
+   ]
+  },
+  {
+   "start": 261.92,
+   "end": 266.28,
+   "text": "drop the column later or never. Here we're keeping it because staff still",
+   "words": [
+    {
+     "start": 261.92,
+     "end": 262.2,
+     "word": " drop"
+    },
+    {
+     "start": 262.2,
+     "end": 262.36,
+     "word": " the"
+    },
+    {
+     "start": 262.36,
+     "end": 262.62,
+     "word": " column"
+    },
+    {
+     "start": 262.62,
+     "end": 262.94,
+     "word": " later"
+    },
+    {
+     "start": 262.94,
+     "end": 263.36,
+     "word": " or"
+    },
+    {
+     "start": 263.36,
+     "end": 263.62,
+     "word": " never."
+    },
+    {
+     "start": 264.06,
+     "end": 264.3,
+     "word": " Here"
+    },
+    {
+     "start": 264.3,
+     "end": 264.72,
+     "word": " we're"
+    },
+    {
+     "start": 264.72,
+     "end": 264.92,
+     "word": " keeping"
+    },
+    {
+     "start": 264.92,
+     "end": 265.2,
+     "word": " it"
+    },
+    {
+     "start": 265.2,
+     "end": 265.62,
+     "word": " because"
+    },
+    {
+     "start": 265.62,
+     "end": 265.96,
+     "word": " staff"
+    },
+    {
+     "start": 265.96,
+     "end": 266.28,
+     "word": " still"
+    }
+   ]
+  },
+  {
+   "start": 266.28,
+   "end": 271.46,
+   "text": "record pets. If you do drop it, run the dependency query first and never add",
+   "words": [
+    {
+     "start": 266.28,
+     "end": 266.58,
+     "word": " record"
+    },
+    {
+     "start": 266.58,
+     "end": 266.92,
+     "word": " pets."
+    },
+    {
+     "start": 267.52,
+     "end": 267.74,
+     "word": " If"
+    },
+    {
+     "start": 267.74,
+     "end": 267.84,
+     "word": " you"
+    },
+    {
+     "start": 267.84,
+     "end": 267.96,
+     "word": " do"
+    },
+    {
+     "start": 267.96,
+     "end": 268.18,
+     "word": " drop"
+    },
+    {
+     "start": 268.18,
+     "end": 268.46,
+     "word": " it,"
+    },
+    {
+     "start": 268.96,
+     "end": 269.18,
+     "word": " run"
+    },
+    {
+     "start": 269.18,
+     "end": 269.32,
+     "word": " the"
+    },
+    {
+     "start": 269.32,
+     "end": 269.64,
+     "word": " dependency"
+    },
+    {
+     "start": 269.64,
+     "end": 270.0,
+     "word": " query"
+    },
+    {
+     "start": 270.0,
+     "end": 270.38,
+     "word": " first"
+    },
+    {
+     "start": 270.38,
+     "end": 270.92,
+     "word": " and"
+    },
+    {
+     "start": 270.92,
+     "end": 271.12,
+     "word": " never"
+    },
+    {
+     "start": 271.12,
+     "end": 271.46,
+     "word": " add"
+    }
+   ]
+  },
+  {
+   "start": 271.46,
+   "end": 279.04,
+   "text": "cascade just to make an error go away. Don't trust the summary. Check it. Same",
+   "words": [
+    {
+     "start": 271.46,
+     "end": 271.82,
+     "word": " cascade"
+    },
+    {
+     "start": 271.82,
+     "end": 272.3,
+     "word": " just"
+    },
+    {
+     "start": 272.3,
+     "end": 272.46,
+     "word": " to"
+    },
+    {
+     "start": 272.46,
+     "end": 272.56,
+     "word": " make"
+    },
+    {
+     "start": 272.56,
+     "end": 272.72,
+     "word": " an"
+    },
+    {
+     "start": 272.72,
+     "end": 272.84,
+     "word": " error"
+    },
+    {
+     "start": 272.84,
+     "end": 273.06,
+     "word": " go"
+    },
+    {
+     "start": 273.06,
+     "end": 273.48,
+     "word": " away."
+    },
+    {
+     "start": 276.88,
+     "end": 277.04,
+     "word": " Don't"
+    },
+    {
+     "start": 277.04,
+     "end": 277.22,
+     "word": " trust"
+    },
+    {
+     "start": 277.22,
+     "end": 277.4,
+     "word": " the"
+    },
+    {
+     "start": 277.4,
+     "end": 277.7,
+     "word": " summary."
+    },
+    {
+     "start": 278.02,
+     "end": 278.18,
+     "word": " Check"
+    },
+    {
+     "start": 278.18,
+     "end": 278.42,
+     "word": " it."
+    },
+    {
+     "start": 278.82,
+     "end": 279.04,
+     "word": " Same"
+    }
+   ]
+  },
+  {
+   "start": 279.04,
+   "end": 280.44,
+   "text": "booking process as the start.",
+   "words": [
+    {
+     "start": 279.04,
+     "end": 279.3,
+     "word": " booking"
+    },
+    {
+     "start": 279.3,
+     "end": 279.68,
+     "word": " process"
+    },
+    {
+     "start": 279.68,
+     "end": 280.0,
+     "word": " as"
+    },
+    {
+     "start": 280.0,
+     "end": 280.16,
+     "word": " the"
+    },
+    {
+     "start": 280.16,
+     "end": 280.44,
+     "word": " start."
+    }
+   ]
+  },
+  {
+   "start": 283.88,
+   "end": 289.92,
+   "text": "Unknown flag for staff. Auto assigned skips Anna staff confirm the dog. The",
+   "words": [
+    {
+     "start": 283.88,
+     "end": 284.22,
+     "word": " Unknown"
+    },
+    {
+     "start": 284.22,
+     "end": 285.02,
+     "word": " flag"
+    },
+    {
+     "start": 285.02,
+     "end": 285.22,
+     "word": " for"
+    },
+    {
+     "start": 285.22,
+     "end": 285.58,
+     "word": " staff."
+    },
+    {
+     "start": 286.16,
+     "end": 286.44,
+     "word": " Auto"
+    },
+    {
+     "start": 286.44,
+     "end": 286.76,
+     "word": " assigned"
+    },
+    {
+     "start": 286.76,
+     "end": 287.22,
+     "word": " skips"
+    },
+    {
+     "start": 287.22,
+     "end": 287.56,
+     "word": " Anna"
+    },
+    {
+     "start": 287.56,
+     "end": 288.32,
+     "word": " staff"
+    },
+    {
+     "start": 288.32,
+     "end": 288.66,
+     "word": " confirm"
+    },
+    {
+     "start": 288.66,
+     "end": 288.88,
+     "word": " the"
+    },
+    {
+     "start": 288.88,
+     "end": 289.2,
+     "word": " dog."
+    },
+    {
+     "start": 289.78,
+     "end": 289.92,
+     "word": " The"
+    }
+   ]
+  },
+  {
+   "start": 289.92,
+   "end": 295.6,
+   "text": "pet fee appears $165. Old bookings keep their answers and everything the query",
+   "words": [
+    {
+     "start": 289.92,
+     "end": 290.1,
+     "word": " pet"
+    },
+    {
+     "start": 290.1,
+     "end": 290.28,
+     "word": " fee"
+    },
+    {
+     "start": 290.28,
+     "end": 290.74,
+     "word": " appears"
+    },
+    {
+     "start": 290.74,
+     "end": 292.04,
+     "word": " $165."
+    },
+    {
+     "start": 292.86,
+     "end": 293.12,
+     "word": " Old"
+    },
+    {
+     "start": 293.12,
+     "end": 293.52,
+     "word": " bookings"
+    },
+    {
+     "start": 293.52,
+     "end": 293.72,
+     "word": " keep"
+    },
+    {
+     "start": 293.72,
+     "end": 293.94,
+     "word": " their"
+    },
+    {
+     "start": 293.94,
+     "end": 294.26,
+     "word": " answers"
+    },
+    {
+     "start": 294.26,
+     "end": 294.94,
+     "word": " and"
+    },
+    {
+     "start": 294.94,
+     "end": 295.22,
+     "word": " everything"
+    },
+    {
+     "start": 295.22,
+     "end": 295.38,
+     "word": " the"
+    },
+    {
+     "start": 295.38,
+     "end": 295.6,
+     "word": " query"
+    }
+   ]
+  },
+  {
+   "start": 295.6,
+   "end": 297.38,
+   "text": "found you've made a decision about.",
+   "words": [
+    {
+     "start": 295.6,
+     "end": 296.0,
+     "word": " found"
+    },
+    {
+     "start": 296.0,
+     "end": 296.54,
+     "word": " you've"
+    },
+    {
+     "start": 296.54,
+     "end": 296.66,
+     "word": " made"
+    },
+    {
+     "start": 296.66,
+     "end": 296.76,
+     "word": " a"
+    },
+    {
+     "start": 296.76,
+     "end": 297.0,
+     "word": " decision"
+    },
+    {
+     "start": 297.0,
+     "end": 297.38,
+     "word": " about."
+    }
+   ]
+  },
+  {
+   "start": 300.04,
+   "end": 314.92,
+   "text": "Before you remove any field, paste this it's in the description. Then run this",
+   "words": [
+    {
+     "start": 300.04,
+     "end": 300.6,
+     "word": " Before"
+    },
+    {
+     "start": 300.6,
+     "end": 300.78,
+     "word": " you"
+    },
+    {
+     "start": 300.78,
+     "end": 301.04,
+     "word": " remove"
+    },
+    {
+     "start": 301.04,
+     "end": 301.26,
+     "word": " any"
+    },
+    {
+     "start": 301.26,
+     "end": 301.64,
+     "word": " field,"
+    },
+    {
+     "start": 302.12,
+     "end": 302.34,
+     "word": " paste"
+    },
+    {
+     "start": 302.34,
+     "end": 302.76,
+     "word": " this"
+    },
+    {
+     "start": 302.76,
+     "end": 303.2,
+     "word": " it's"
+    },
+    {
+     "start": 303.2,
+     "end": 303.3,
+     "word": " in"
+    },
+    {
+     "start": 303.3,
+     "end": 303.38,
+     "word": " the"
+    },
+    {
+     "start": 303.38,
+     "end": 303.76,
+     "word": " description."
+    },
+    {
+     "start": 313.9,
+     "end": 314.46,
+     "word": " Then"
+    },
+    {
+     "start": 314.46,
+     "end": 314.68,
+     "word": " run"
+    },
+    {
+     "start": 314.68,
+     "end": 314.92,
+     "word": " this"
+    }
+   ]
+  },
+  {
+   "start": 314.92,
+   "end": 319.14,
+   "text": "yourself in the Superbase SQL editor, change the table and column names. It's",
+   "words": [
+    {
+     "start": 314.92,
+     "end": 315.3,
+     "word": " yourself"
+    },
+    {
+     "start": 315.3,
+     "end": 315.58,
+     "word": " in"
+    },
+    {
+     "start": 315.58,
+     "end": 315.7,
+     "word": " the"
+    },
+    {
+     "start": 315.7,
+     "end": 316.08,
+     "word": " Superbase"
+    },
+    {
+     "start": 316.08,
+     "end": 316.36,
+     "word": " SQL"
+    },
+    {
+     "start": 316.36,
+     "end": 316.72,
+     "word": " editor,"
+    },
+    {
+     "start": 317.18,
+     "end": 317.36,
+     "word": " change"
+    },
+    {
+     "start": 317.36,
+     "end": 317.52,
+     "word": " the"
+    },
+    {
+     "start": 317.52,
+     "end": 317.74,
+     "word": " table"
+    },
+    {
+     "start": 317.74,
+     "end": 317.9,
+     "word": " and"
+    },
+    {
+     "start": 317.9,
+     "end": 318.12,
+     "word": " column"
+    },
+    {
+     "start": 318.12,
+     "end": 318.54,
+     "word": " names."
+    },
+    {
+     "start": 319.02,
+     "end": 319.14,
+     "word": " It's"
+    }
+   ]
+  },
+  {
+   "start": 319.14,
+   "end": 320.02,
+   "text": "in the description to",
+   "words": [
+    {
+     "start": 319.14,
+     "end": 319.22,
+     "word": " in"
+    },
+    {
+     "start": 319.22,
+     "end": 319.32,
+     "word": " the"
+    },
+    {
+     "start": 319.32,
+     "end": 319.64,
+     "word": " description"
+    },
+    {
+     "start": 319.64,
+     "end": 320.02,
+     "word": " to"
+    }
+   ]
+  },
+  {
+   "start": 341.44,
+   "end": 346.8,
+   "text": "find a lot of where make sure it can see everywhere and decide what remove means",
+   "words": [
+    {
+     "start": 341.44,
+     "end": 342.06,
+     "word": " find"
+    },
+    {
+     "start": 342.06,
+     "end": 342.46,
+     "word": " a"
+    },
+    {
+     "start": 342.46,
+     "end": 342.6,
+     "word": " lot"
+    },
+    {
+     "start": 342.6,
+     "end": 342.74,
+     "word": " of"
+    },
+    {
+     "start": 342.74,
+     "end": 342.98,
+     "word": " where"
+    },
+    {
+     "start": 342.98,
+     "end": 343.56,
+     "word": " make"
+    },
+    {
+     "start": 343.56,
+     "end": 343.78,
+     "word": " sure"
+    },
+    {
+     "start": 343.78,
+     "end": 343.92,
+     "word": " it"
+    },
+    {
+     "start": 343.92,
+     "end": 344.04,
+     "word": " can"
+    },
+    {
+     "start": 344.04,
+     "end": 344.24,
+     "word": " see"
+    },
+    {
+     "start": 344.24,
+     "end": 344.72,
+     "word": " everywhere"
+    },
+    {
+     "start": 344.72,
+     "end": 345.54,
+     "word": " and"
+    },
+    {
+     "start": 345.54,
+     "end": 345.82,
+     "word": " decide"
+    },
+    {
+     "start": 345.82,
+     "end": 346.02,
+     "word": " what"
+    },
+    {
+     "start": 346.02,
+     "end": 346.36,
+     "word": " remove"
+    },
+    {
+     "start": 346.36,
+     "end": 346.8,
+     "word": " means"
+    }
+   ]
+  },
+  {
+   "start": 346.8,
+   "end": 347.8,
+   "text": "before it does.",
+   "words": [
+    {
+     "start": 346.8,
+     "end": 347.2,
+     "word": " before"
+    },
+    {
+     "start": 347.2,
+     "end": 347.42,
+     "word": " it"
+    },
+    {
+     "start": 347.42,
+     "end": 347.8,
+     "word": " does."
+    }
+   ]
+  }
+ ]
+}

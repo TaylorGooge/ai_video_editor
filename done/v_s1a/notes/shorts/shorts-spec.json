@@ -1,0 +1,366 @@
+{
+ "_note": "v_s1a Shorts. Source = approved long-form final (blurs/masks already baked in). Times = long-form seconds. Approved cut: shorts-cutlist-v1.md.",
+ "slug": "v_s1a",
+ "source": "done/v_s1a/long/v_s1a.mp4",
+ "voice": "work/v_s1a/ingest/long-audio-48k.wav",
+ "transcript": "work/v_s1a/transcript.json",
+ "label": "The AI did what you asked",
+ "end_card_seconds": 2.5,
+ "caption_fixes": {
+  "anna": "Ana"
+ },
+ "word_fixes": {
+  "66.06": "$150",
+  "136.28": "cats",
+  "137.14": "Ben",
+  "134.14": "\"Unknown\"",
+  "154.40": "$150.",
+  "131.62": "\"might",
+  "132.06": "pets.\"",
+  "187.58": "It's",
+  "187.80": "four.",
+  "184.84": "\"Remove",
+  "185.62": "question\""
+ },
+ "shorts": {
+  "01": {
+   "title": "It never mentioned the price",
+   "pieces": [
+    {
+     "a": 11.9,
+     "b": 17.6,
+     "v": {
+      "t": "card",
+      "card": {
+       "kind": "title",
+       "props": {
+        "label": "The AI did what you asked",
+        "titleGreen": "I removed one question.",
+        "titlePaper": "Something else went with it.",
+        "codeLine": "> Remove the \"Do you have pets?\" question from the booking form."
+       }
+      }
+     },
+     "cy": [
+      [
+       11.9,
+       1560
+      ]
+     ]
+    },
+    {
+     "a": 0.0,
+     "b": 3.0,
+     "v": {
+      "t": "crop",
+      "rect": [
+       520,
+       100,
+       880,
+       940
+      ]
+     },
+     "cy": [
+      [
+       0.0,
+       1580
+      ]
+     ]
+    },
+    {
+     "a": 3.0,
+     "b": 4.87,
+     "v": {
+      "t": "crop",
+      "rect": [
+       150,
+       110,
+       1200,
+       960
+      ]
+     },
+     "cy": [
+      [
+       3.0,
+       1500
+      ]
+     ]
+    },
+    {
+     "a": 4.87,
+     "b": 6.0,
+     "v": {
+      "t": "crop",
+      "rect": [
+       380,
+       110,
+       1150,
+       920
+      ]
+     },
+     "cy": [
+      [
+       4.87,
+       1500
+      ]
+     ]
+    },
+    {
+     "a": 6.0,
+     "b": 11.8,
+     "v": {
+      "t": "crop",
+      "rect": [
+       560,
+       280,
+       1200,
+       640
+      ]
+     }
+    },
+    {
+     "a": 17.7,
+     "b": 21.2,
+     "v": {
+      "t": "freeze",
+      "at": 20.6,
+      "rect": [
+       560,
+       280,
+       1200,
+       640
+      ]
+     }
+    },
+    {
+     "a": 63.2,
+     "b": 72.95,
+     "v": {
+      "t": "crop",
+      "rect": [
+       560,
+       280,
+       1200,
+       640
+      ]
+     }
+    }
+   ]
+  },
+  "02": {
+   "title": "Database access. Still $150.",
+   "pieces": [
+    {
+     "a": 70.1,
+     "b": 72.95,
+     "v": {
+      "t": "crop",
+      "rect": [
+       560,
+       280,
+       1200,
+       640
+      ]
+     }
+    },
+    {
+     "a": 110.1,
+     "b": 112.7,
+     "v": {
+      "t": "crop",
+      "rect": [
+       480,
+       100,
+       960,
+       940
+      ]
+     },
+     "cy": [
+      [
+       110.1,
+       1560
+      ]
+     ]
+    },
+    {
+     "a": 119.8,
+     "b": 123.3,
+     "v": {
+      "t": "freeze",
+      "at": 120.35,
+      "rect": [
+       110,
+       320,
+       640,
+       210
+      ]
+     }
+    },
+    {
+     "a": 126.3,
+     "b": 127.6,
+     "v": {
+      "t": "freeze",
+      "at": 127.7,
+      "rect": [
+       560,
+       320,
+       1300,
+       460
+      ]
+     }
+    },
+    {
+     "a": 127.6,
+     "b": 133.0,
+     "v": {
+      "t": "crop",
+      "rect": [
+       560,
+       320,
+       1300,
+       460
+      ]
+     }
+    },
+    {
+     "a": 133.0,
+     "b": 136.0,
+     "v": {
+      "t": "crop",
+      "rect": [
+       700,
+       420,
+       1100,
+       240
+      ]
+     }
+    },
+    {
+     "a": 136.0,
+     "b": 138.47,
+     "v": {
+      "t": "crop",
+      "rect": [
+       560,
+       280,
+       1200,
+       640
+      ]
+     }
+    },
+    {
+     "a": 138.47,
+     "b": 153.17,
+     "v": {
+      "t": "card",
+      "card": {
+       "kind": "prompt",
+       "props": {
+        "label": "Claude's reply",
+        "body": "Allergic cleaners are skipped by default: auto-assign won't pick a cleaner with a cat allergy for a new booking until someone sets the pets answer with the staff page's existing edit checkbox.",
+        "cps": 90,
+        "title": "What this means for staff"
+       }
+      }
+     },
+     "cy": [
+      [
+       138.47,
+       1560
+      ]
+     ]
+    },
+    {
+     "a": 153.17,
+     "b": 155.33,
+     "v": {
+      "t": "crop",
+      "rect": [
+       560,
+       280,
+       1200,
+       640
+      ]
+     }
+    },
+    {
+     "a": 155.33,
+     "b": 161.7,
+     "v": {
+      "t": "card",
+      "card": {
+       "kind": "prompt",
+       "props": {
+        "label": "Claude's reply",
+        "body": "The database still has the pets column, the pet fee and the Pets column on the staff page. I left them…",
+        "cps": 90
+       }
+      }
+     },
+     "cy": [
+      [
+       155.33,
+       1560
+      ]
+     ]
+    }
+   ]
+  },
+  "03": {
+   "title": "One field = four changes",
+   "pieces": [
+    {
+     "a": 184.8,
+     "b": 197.9,
+     "v": {
+      "t": "crop",
+      "rect": [
+       150,
+       300,
+       1250,
+       580
+      ]
+     }
+    },
+    {
+     "a": 300.0,
+     "b": 307.5,
+     "v": {
+      "t": "card",
+      "card": {
+       "kind": "prompt",
+       "props": {
+        "label": "Paste this prompt",
+        "title": "Prompt 1 · Map it",
+        "body": "Before changing anything: list every file, query, type, component, test, email template and API call that reads, writes or displays `has_pets` (also search for `hasPets`, `pets` and `pet_`). For each one, tell me what happens for new records where the value is null. Then tell me what you could NOT check, such as database functions, triggers or third-party services. Don't edit anything yet.",
+        "cps": 110,
+        "note": "In the description"
+       }
+      }
+     },
+     "cy": [
+      [
+       300.0,
+       1690
+      ]
+     ]
+    },
+    {
+     "a": 340.9,
+     "b": 347.6,
+     "v": {
+      "t": "freeze",
+      "at": 197.6,
+      "rect": [
+       150,
+       300,
+       1250,
+       580
+      ]
+     }
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,2082 @@
+[
+ {
+  "id": "s01",
+  "start": 0.0,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/01_hook_naive.mp4",
+   "w": 910,
+   "h": 992,
+   "pieces": [
+    {
+     "d": 2.6,
+     "rate": 7.0,
+     "from": 0
+    },
+    {
+     "d": 1.7,
+     "rate": 2.0,
+     "from": 18.2
+    },
+    {
+     "d": 9,
+     "rate": 3.0,
+     "from": 21.6
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      910,
+      992
+     ]
+    },
+    {
+     "t": 2.4,
+     "r": [
+      30,
+      300,
+      740,
+      420
+     ]
+    }
+   ],
+   "dur": 4.866666666666666
+  }
+ },
+ {
+  "id": "s02",
+  "start": 4.85,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/01_hook_naive.mp4",
+   "w": 910,
+   "h": 992,
+   "pieces": [
+    {
+     "d": 99,
+     "rate": 1,
+     "from": 27.82
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      180,
+      910,
+      720
+     ]
+    },
+    {
+     "t": 0.6,
+     "r": [
+      0,
+      640,
+      910,
+      150
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 1.919999999999999,
+     "t1": 2.999999999999999,
+     "r": [
+      405,
+      690,
+      50,
+      70
+     ],
+     "kind": "soft",
+     "dim": true
+    },
+    {
+     "t0": 2.999999999999999,
+     "t1": 4.930000000000001,
+     "r": [
+      626,
+      690,
+      100,
+      32
+     ],
+     "kind": "soft",
+     "dim": true
+    },
+    {
+     "t0": 5.130000000000001,
+     "t1": 99,
+     "r": [
+      745,
+      690,
+      125,
+      65
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 6.866666666666666
+  }
+ },
+ {
+  "id": "s03",
+  "start": 11.72,
+  "props": {
+   "kind": "claudePrompt",
+   "text": "Remove the \"Do you have pets?\" question from the booking form.",
+   "typeStart": 0.6,
+   "cps": 24,
+   "enterAt": 4.290000000000003,
+   "dur": 7.866666666666666
+  }
+ },
+ {
+  "id": "s04",
+  "start": 19.61,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/01_hook_naive.mp4",
+   "w": 910,
+   "h": 992,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 35.5
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      640,
+      910,
+      150
+     ]
+    },
+    {
+     "t": 1.9400000000000013,
+     "r": [
+      0,
+      180,
+      910,
+      720
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.15,
+     "t1": 2.240000000000001,
+     "r": [
+      626,
+      690,
+      100,
+      32
+     ],
+     "kind": "circle",
+     "dim": true
+    }
+   ],
+   "dur": 10.166666666666666
+  }
+ },
+ {
+  "id": "s05",
+  "start": 29.77,
+  "props": {
+   "kind": "series",
+   "title": "My AI Removed One Form Field. It Never Mentioned the Price",
+   "beats": [
+    "The request",
+    "It works",
+    "What quietly broke",
+    "The decision you were making",
+    "The question that would have caught it"
+   ],
+   "dur": 3.5
+  }
+ },
+ {
+  "id": "s06",
+  "start": 33.27,
+  "props": {
+   "kind": "chapter",
+   "label": "It works",
+   "title": "What the AI did, and what it said",
+   "dur": 2.033333333333333
+  }
+ },
+ {
+  "id": "s07",
+  "start": 35.3,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/02_code_diff_index_html.mp4",
+   "w": 1642,
+   "h": 588,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 2.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      1642,
+      588
+     ]
+    },
+    {
+     "t": 1.6899999999999977,
+     "r": [
+      0,
+      110,
+      900,
+      190
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 2.759999999999998,
+     "t1": 99,
+     "r": [
+      70,
+      143,
+      690,
+      120
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 4.633333333333334
+  }
+ },
+ {
+  "id": "s08",
+  "start": 39.92,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/02_code_diff_bookings_js.mp4",
+   "w": 1576,
+   "h": 522,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 2.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      300,
+      800,
+      120
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.3,
+     "t1": 99,
+     "r": [
+      62,
+      352,
+      690,
+      25
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 3.1666666666666665
+  }
+ },
+ {
+  "id": "s09",
+  "start": 43.11,
+  "props": {
+   "kind": "claudeResponse",
+   "prompt": "Remove the \"Do you have pets?\" question from the booking form.",
+   "blocks": [
+    {
+     "text": "I'll find the booking form in your app folder and remove that question.",
+     "gap": 0
+    },
+    {
+     "text": "I've removed the pets question from the booking form. The change is saved in your app folder but not committed to git.",
+     "gap": 22
+    },
+    {
+     "text": "**`index.html`:** the \"Do you have pets?\" Yes/No block is gone.",
+     "bullet": true,
+     "gap": 16
+    },
+    {
+     "text": "**`js/booking.js`:** the form no longer sends `has_pets`, which would break once the question is gone. The `has_pets` column already allows blank values, so the database needs no change. New bookings will save it as unknown.",
+     "bullet": true
+    },
+    {
+     "text": "**The catch: pet homes can go to cat-allergic cleaners.** The rest of the app still uses the pets answer:",
+     "gap": 22
+    },
+    {
+     "text": "Auto-assign in `js/matching.js` keeps homes with pets away from cleaners with a cat allergy. With no answer, it treats every new booking as pet-free, so it could send a cleaner with a cat allergy to a home that has pets.",
+     "bullet": true,
+     "gap": 16
+    },
+    {
+     "text": "The staff page will show \"No\" in the Pets column. It also won't show the \"Needs pet-friendly cleaner\" badge.",
+     "bullet": true
+    },
+    {
+     "text": "Staff can still set pets by hand with the edit checkbox on each booking.",
+     "bullet": true
+    }
+   ],
+   "streamStart": 0.1,
+   "streamDur": 1.6,
+   "hl": [
+    {
+     "t0": 1.759999999999998,
+     "t1": 5.079999999999998,
+     "blocks": [
+      3
+     ]
+    },
+    {
+     "t0": 5.079999999999998,
+     "t1": 11.93,
+     "blocks": [
+      4,
+      5
+     ]
+    },
+    {
+     "t0": 11.93,
+     "t1": 15.780000000000001,
+     "blocks": [
+      6
+     ]
+    }
+   ],
+   "dur": 18.566666666666666
+  }
+ },
+ {
+  "id": "s10",
+  "start": 61.65,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/01_hook_naive.mp4",
+   "w": 910,
+   "h": 992,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 35.5
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      640,
+      910,
+      150
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.3,
+     "t1": 99,
+     "r": [
+      626,
+      690,
+      100,
+      32
+     ],
+     "kind": "circle",
+     "dim": true
+    }
+   ],
+   "labels": [
+    {
+     "t0": 4.250000000000007,
+     "text": "$150.00 + $15.00 pet fee = $165.00",
+     "sub": "what this booking should cost",
+     "x": 560,
+     "y": 760,
+     "kind": "mono",
+     "size": 40
+    },
+    {
+     "t0": 8.369999999999997,
+     "text": "No pet fee",
+     "x": 1450,
+     "y": 300,
+     "kind": "red"
+    }
+   ],
+   "dur": 11.533333333333333
+  }
+ },
+ {
+  "id": "s11",
+  "start": 73.21,
+  "props": {
+   "kind": "chapter",
+   "label": "What quietly broke",
+   "title": "Where the fee lives",
+   "dur": 2.066666666666667
+  }
+ },
+ {
+  "id": "s12",
+  "start": 75.28,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/03_grep_pet_fee.mp4",
+   "w": 1426,
+   "h": 448,
+   "pieces": [
+    {
+     "d": 2.4,
+     "rate": 2.5,
+     "from": 1.5
+    },
+    {
+     "d": 99,
+     "rate": 1,
+     "from": 7.5
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      1426,
+      140
+     ]
+    }
+   ],
+   "masks": [
+    {
+     "r": [
+      0,
+      70,
+      1426,
+      64
+     ],
+     "color": "#17181B"
+    },
+    {
+     "r": [
+      0,
+      134,
+      1426,
+      30
+     ],
+     "color": "#17181B"
+    }
+   ],
+   "hl": [
+    {
+     "t0": 2.4399999999999977,
+     "t1": 99,
+     "r": [
+      8,
+      27,
+      1060,
+      44
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 7.966666666666667
+  }
+ },
+ {
+  "id": "s13",
+  "start": 83.23,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/03_check_blast_radius.mp4",
+   "w": 1500,
+   "h": 952,
+   "pieces": [
+    {
+     "d": 1.7,
+     "rate": 2.882352941176471,
+     "from": 2.0
+    },
+    {
+     "d": 4.3,
+     "rate": 1,
+     "from": 6.9
+    },
+    {
+     "d": 99,
+     "rate": 0,
+     "from": 11.1
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      1500,
+      952
+     ]
+    },
+    {
+     "t": 1.8,
+     "r": [
+      0,
+      540,
+      760,
+      240
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 4.410000000000011,
+     "t1": 6.410000000000011,
+     "r": [
+      0,
+      722,
+      713,
+      42
+     ],
+     "kind": "box",
+     "dim": true
+    },
+    {
+     "t0": 6.410000000000011,
+     "t1": 99,
+     "r": [
+      0,
+      634,
+      713,
+      86
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 8.833333333333334
+  }
+ },
+ {
+  "id": "s14",
+  "start": 92.08,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/03_trigger_body.mp4",
+   "w": 790,
+   "h": 440,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 1.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      790,
+      440
+     ]
+    },
+    {
+     "t": 0.2,
+     "r": [
+      0,
+      110,
+      640,
+      150
+     ]
+    },
+    {
+     "t": 8.5,
+     "r": [
+      0,
+      0,
+      790,
+      440
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.3,
+     "t1": 8.5,
+     "r": [
+      18,
+      177,
+      615,
+      26
+     ],
+     "kind": "box",
+     "dim": true
+    },
+    {
+     "t0": 3.6000000000000085,
+     "t1": 8.5,
+     "r": [
+      520,
+      176,
+      72,
+      28
+     ],
+     "kind": "circle",
+     "dim": true
+    }
+   ],
+   "dur": 17.833333333333332
+  }
+ },
+ {
+  "id": "s15",
+  "start": 109.9,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/03_app_folder_tree.mp4",
+   "w": 1848,
+   "h": 896,
+   "pieces": [
+    {
+     "d": 1.8,
+     "rate": 1,
+     "from": 0.7
+    },
+    {
+     "d": 99,
+     "rate": 0,
+     "from": 2.5
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      430,
+      440
+     ]
+    }
+   ],
+   "dur": 7.4
+  }
+ },
+ {
+  "id": "s16",
+  "start": 117.3,
+  "props": {
+   "kind": "chapter",
+   "label": "The decision you were making",
+   "title": "Same prompt, database connected",
+   "dur": 2.2333333333333334
+  }
+ },
+ {
+  "id": "s17",
+  "start": 119.55,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/04_mcp_connection.mp4",
+   "w": 1444,
+   "h": 438,
+   "pieces": [
+    {
+     "d": 99,
+     "rate": 1,
+     "from": 8.5
+    }
+   ],
+   "hl": [
+    {
+     "t0": 1.0,
+     "t1": 99,
+     "r": [
+      976,
+      126,
+      176,
+      24
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 4.166666666666667
+  }
+ },
+ {
+  "id": "s18",
+  "start": 123.71,
+  "props": {
+   "kind": "claudePrompt",
+   "text": "Remove the \"Do you have pets?\" question from the booking form.",
+   "typeStart": -10,
+   "cps": 24,
+   "enterAt": 1.7700000000000073,
+   "title": "claude · ~/app · supabase (read-only)",
+   "dur": 2.6
+  }
+ },
+ {
+  "id": "s19",
+  "start": 126.29,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/04_code_diffs_all.mp4",
+   "w": 1414,
+   "h": 972,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 25.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      1414,
+      420
+     ]
+    },
+    {
+     "t": 0.6,
+     "r": [
+      690,
+      20,
+      724,
+      200
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 2.530000000000001,
+     "t1": 3.960000000000008,
+     "r": [
+      750,
+      164,
+      664,
+      26
+     ],
+     "kind": "box",
+     "dim": true
+    },
+    {
+     "t0": 3.960000000000008,
+     "t1": 99,
+     "r": [
+      750,
+      69,
+      664,
+      26
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 6.633333333333334
+  }
+ },
+ {
+  "id": "s20",
+  "start": 132.93,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/04_code_diffs_all.mp4",
+   "w": 1414,
+   "h": 972,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 9.5
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      700,
+      470,
+      714,
+      100
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.2,
+     "t1": 99,
+     "r": [
+      1272,
+      503,
+      104,
+      26
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 3.066666666666667
+  }
+ },
+ {
+  "id": "s21",
+  "start": 136.01,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/04_hook_ben.mp4",
+   "w": 904,
+   "h": 1026,
+   "pieces": [
+    {
+     "d": 99,
+     "rate": 1,
+     "from": 28.91
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      650,
+      904,
+      160
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 1.0900000000000034,
+     "t1": 99,
+     "r": [
+      755,
+      696,
+      120,
+      40
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 2.466666666666667
+  }
+ },
+ {
+  "id": "s22",
+  "start": 138.46,
+  "props": {
+   "kind": "claudeResponse",
+   "prompt": "Remove the \"Do you have pets?\" question from the booking form.",
+   "blocks": [
+    {
+     "text": "I removed the \"Do you have pets?\" question from the booking form. That answer was also used to keep cleaners with a cat allergy away from homes with pets, so I changed two other places to keep that protection working. I haven't run the app to check these changes.",
+     "gap": 0
+    },
+    {
+     "text": "`index.html`: the question and its Yes/No buttons are gone.",
+     "bullet": true,
+     "gap": 14
+    },
+    {
+     "text": "`js/booking.js`: the form no longer sends a pets answer. New bookings now have no pets answer saved, which means \"unknown\".",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "`js/matching.js`: auto-assign now treats \"unknown\" as \"may have pets\" and only allows an allergic cleaner when a booking is marked as having no pets.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "`js/admin.js`: the staff page shows Unknown instead of No when there's no pets answer.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "What this means for staff:",
+     "gap": 16
+    },
+    {
+     "text": "**Allergic cleaners are skipped by default:** auto-assign won't pick a cleaner with a cat allergy for a new booking until someone sets the pets answer with the staff page's existing edit checkbox.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "**Marking \"no pets\" takes two clicks:** the checkbox starts unticked for unknown bookings, so a staff member has to tick it and then untick it.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "**No pet-friendly badge:** the \"Needs pet-friendly cleaner\" badge only appears when a booking is marked as having pets.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "The database still has the pets column, the pet fee and the Pets column on the staff page. I left them alone so staff can still record pets.",
+     "gap": 16
+    }
+   ],
+   "streamStart": -5,
+   "streamDur": 1,
+   "hl": [
+    {
+     "t0": 0.3,
+     "t1": 14.699999999999989,
+     "blocks": [
+      6
+     ]
+    }
+   ],
+   "size": 25,
+   "title": "claude · ~/app · supabase (read-only)",
+   "dur": 14.7
+  }
+ },
+ {
+  "id": "s23",
+  "start": 153.16,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/04_hook_ben.mp4",
+   "w": 904,
+   "h": 1026,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 31.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      650,
+      904,
+      160
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.2,
+     "t1": 99,
+     "r": [
+      645,
+      700,
+      82,
+      30
+     ],
+     "kind": "circle",
+     "dim": true
+    }
+   ],
+   "dur": 2.1666666666666665
+  }
+ },
+ {
+  "id": "s24",
+  "start": 155.35,
+  "props": {
+   "kind": "claudeResponse",
+   "prompt": "Remove the \"Do you have pets?\" question from the booking form.",
+   "blocks": [
+    {
+     "text": "I removed the \"Do you have pets?\" question from the booking form. That answer was also used to keep cleaners with a cat allergy away from homes with pets, so I changed two other places to keep that protection working. I haven't run the app to check these changes.",
+     "gap": 0
+    },
+    {
+     "text": "`index.html`: the question and its Yes/No buttons are gone.",
+     "bullet": true,
+     "gap": 14
+    },
+    {
+     "text": "`js/booking.js`: the form no longer sends a pets answer. New bookings now have no pets answer saved, which means \"unknown\".",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "`js/matching.js`: auto-assign now treats \"unknown\" as \"may have pets\" and only allows an allergic cleaner when a booking is marked as having no pets.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "`js/admin.js`: the staff page shows Unknown instead of No when there's no pets answer.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "What this means for staff:",
+     "gap": 16
+    },
+    {
+     "text": "**Allergic cleaners are skipped by default:** auto-assign won't pick a cleaner with a cat allergy for a new booking until someone sets the pets answer with the staff page's existing edit checkbox.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "**Marking \"no pets\" takes two clicks:** the checkbox starts unticked for unknown bookings, so a staff member has to tick it and then untick it.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "**No pet-friendly badge:** the \"Needs pet-friendly cleaner\" badge only appears when a booking is marked as having pets.",
+     "bullet": true,
+     "gap": 4
+    },
+    {
+     "text": "The database still has the pets column, the pet fee and the Pets column on the staff page. I left them alone so staff can still record pets.",
+     "gap": 16
+    }
+   ],
+   "streamStart": -5,
+   "streamDur": 1,
+   "size": 25,
+   "title": "claude · ~/app · supabase (read-only)",
+   "hl": [
+    {
+     "t0": 0.2,
+     "t1": 99,
+     "blocks": [
+      9
+     ]
+    }
+   ],
+   "labels": [
+    {
+     "t0": 6.350000000000023,
+     "text": "Your AI Knows Where. Only You Know Why.",
+     "sub": "Link in the description",
+     "x": 96,
+     "y": 890,
+     "kind": "lower"
+    }
+   ],
+   "dur": 11.933333333333334
+  }
+ },
+ {
+  "id": "s25",
+  "start": 167.27,
+  "props": {
+   "kind": "chapter",
+   "label": "The decision you were making",
+   "title": "Null is not “no”",
+   "dur": 1.8666666666666667
+  }
+ },
+ {
+  "id": "s26",
+  "start": 169.14,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/05_sql_editor.mp4",
+   "w": 1524,
+   "h": 880,
+   "pieces": [
+    {
+     "d": 4.630000000000024,
+     "rate": 1,
+     "from": 0.37
+    },
+    {
+     "d": 99,
+     "rate": 1,
+     "from": 5.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      1524,
+      520
+     ]
+    },
+    {
+     "t": 4.630000000000024,
+     "r": [
+      0,
+      490,
+      620,
+      230
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 5.2300000000000235,
+     "t1": 99,
+     "r": [
+      0,
+      576,
+      242,
+      42
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 7.466666666666667
+  }
+ },
+ {
+  "id": "s27",
+  "start": 176.59,
+  "props": {
+   "kind": "codeStack",
+   "title": "Every place that reads the answer",
+   "pillAt": 5.889999999999986,
+   "items": [
+    {
+     "file": "js/admin.js · staff page",
+     "code": "b.has_pets ? '🐾 Yes' : 'No'",
+     "on": 3.329999999999984,
+     "pill": "null → “No”"
+    },
+    {
+     "file": "js/matching.js · auto-assign",
+     "code": "booking.has_pets ? !c.cat_allergy : true",
+     "on": 4.22999999999999,
+     "pill": "null → any cleaner"
+    },
+    {
+     "file": "trigger set_booking_price · price",
+     "code": "case when new.has_pets then 15 else 0 end",
+     "on": 4.949999999999989,
+     "pill": "null → $0 fee"
+    }
+   ],
+   "dur": 8.066666666666666
+  }
+ },
+ {
+  "id": "s28",
+  "start": 184.65,
+  "props": {
+   "kind": "checklist",
+   "title": "“Remove the question” is four changes",
+   "done": 2,
+   "doneAt": 10.219999999999999,
+   "items": [
+    {
+     "text": "Stop asking",
+     "at": 4.060000000000002
+    },
+    {
+     "text": "Stop saving",
+     "at": 5.239999999999981
+    },
+    {
+     "text": "Stop using it",
+     "at": 6.4199999999999875
+    },
+    {
+     "text": "Decide about the old answers",
+     "at": 7.599999999999994
+    }
+   ],
+   "dur": 13.8
+  }
+ },
+ {
+  "id": "s29",
+  "start": 198.48,
+  "props": {
+   "kind": "chapter",
+   "label": "The question that would have caught it",
+   "title": "Remove a field in order",
+   "dur": 2.066666666666667
+  }
+ },
+ {
+  "id": "s30",
+  "start": 200.55,
+  "props": {
+   "kind": "steps",
+   "title": "Remove a field in order",
+   "steps": [
+    "Decide",
+    "Map everything that uses it",
+    "Handle “unknown” first",
+    "Remove the question",
+    "Drop the column later. Or never."
+   ],
+   "active": [
+    {
+     "t": 3.5300000000000296,
+     "i": 0
+    },
+    {
+     "t": 19.07000000000002,
+     "i": 1
+    }
+   ],
+   "subs": [
+    {
+     "text": "Stop asking on the form",
+     "at": 11.090000000000003
+    },
+    {
+     "text": "Staff confirm pets when they confirm the booking",
+     "at": 12.890000000000015
+    },
+    {
+     "text": "Keep the old answers",
+     "at": 15.450000000000017
+    },
+    {
+     "text": "No pet fee until it's confirmed",
+     "at": 17.07000000000002
+    }
+   ],
+   "dur": 21.8
+  }
+ },
+ {
+  "id": "s31",
+  "start": 222.32,
+  "props": {
+   "kind": "claudePrompt",
+   "text": "Before changing anything: list every file, query, type, component, test, email template and API call that reads, writes or displays `has_pets` (also search for `hasPets`, `pets` and `pet_`). For each one, tell me what happens for new records where the value is null. Then tell me what you could NOT check, such as database functions, triggers or third-party services. Don't edit anything yet.",
+   "typeStart": 0.2,
+   "cps": 160,
+   "enterAt": 99,
+   "size": 26,
+   "dur": 3.2
+  }
+ },
+ {
+  "id": "s32",
+  "start": 225.55,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/06_grep_has_pets.mp4",
+   "w": 1386,
+   "h": 268,
+   "pieces": [
+    {
+     "d": 99,
+     "rate": 0,
+     "from": 3.0
+    }
+   ],
+   "labels": [
+    {
+     "t0": 0.1,
+     "text": "git grep -n -i -E \"has_?pets|haspets\"",
+     "x": 96,
+     "y": 230,
+     "kind": "mono",
+     "size": 38
+    }
+   ],
+   "area": [
+    96,
+    360,
+    1728,
+    560
+   ],
+   "dur": 1.9333333333333333
+  }
+ },
+ {
+  "id": "s33",
+  "start": 227.46,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/06_blast_radius.mp4",
+   "w": 1490,
+   "h": 962,
+   "pieces": [
+    {
+     "d": 99,
+     "rate": 1,
+     "from": 4.2
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      540,
+      760,
+      240
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 3.340000000000032,
+     "t1": 99,
+     "r": [
+      0,
+      672,
+      713,
+      44
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 4.166666666666667
+  }
+ },
+ {
+  "id": "s34",
+  "start": 231.62,
+  "props": {
+   "kind": "steps",
+   "title": "Remove a field in order",
+   "steps": [
+    "Decide",
+    "Map everything that uses it",
+    "Handle “unknown” first",
+    "Remove the question",
+    "Drop the column later. Or never."
+   ],
+   "active": [
+    {
+     "t": 0,
+     "i": 2
+    }
+   ],
+   "dur": 4.866666666666666
+  }
+ },
+ {
+  "id": "s35",
+  "start": 236.5,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/06_matching_js_fixed.mp4",
+   "w": 1798,
+   "h": 972,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 3.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      880,
+      20,
+      918,
+      200
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.3,
+     "t1": 2.460000000000008,
+     "r": [
+      935,
+      70,
+      740,
+      24
+     ],
+     "kind": "box",
+     "dim": true
+    },
+    {
+     "t0": 2.460000000000008,
+     "t1": 99,
+     "r": [
+      970,
+      165,
+      700,
+      25
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 4.3
+  }
+ },
+ {
+  "id": "s36",
+  "start": 240.79,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/06_admin_js_fixed.mp4",
+   "w": 1774,
+   "h": 1018,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 4.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      880,
+      0,
+      894,
+      740
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 1.4199999999999875,
+     "t1": 2.1399999999999864,
+     "r": [
+      945,
+      89,
+      829,
+      24
+     ],
+     "kind": "box",
+     "dim": true
+    },
+    {
+     "t0": 2.1399999999999864,
+     "t1": 4.679999999999978,
+     "r": [
+      945,
+      705,
+      829,
+      25
+     ],
+     "kind": "box",
+     "dim": true
+    },
+    {
+     "t0": 4.679999999999978,
+     "t1": 99,
+     "r": [
+      945,
+      110,
+      829,
+      216
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 8.333333333333334
+  }
+ },
+ {
+  "id": "s37",
+  "start": 249.12,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/03_trigger_body.mp4",
+   "w": 790,
+   "h": 440,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 1.0
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.3,
+     "t1": 4.599999999999994,
+     "r": [
+      18,
+      177,
+      615,
+      26
+     ],
+     "kind": "soft",
+     "dim": true
+    },
+    {
+     "t0": 4.599999999999994,
+     "t1": 99,
+     "r": [
+      30,
+      296,
+      430,
+      22
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 7.133333333333334
+  }
+ },
+ {
+  "id": "s38",
+  "start": 256.28,
+  "props": {
+   "kind": "steps",
+   "title": "Remove a field in order",
+   "steps": [
+    "Decide",
+    "Map everything that uses it",
+    "Handle “unknown” first",
+    "Remove the question",
+    "Drop the column later. Or never."
+   ],
+   "active": [
+    {
+     "t": 0,
+     "i": 3
+    }
+   ],
+   "dur": 2.3
+  }
+ },
+ {
+  "id": "s39",
+  "start": 258.56,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/02_code_diff_index_html.mp4",
+   "w": 1642,
+   "h": 588,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 2.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      110,
+      900,
+      190
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.2,
+     "t1": 99,
+     "r": [
+      70,
+      143,
+      690,
+      120
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 2.433333333333333
+  }
+ },
+ {
+  "id": "s40",
+  "start": 260.99,
+  "props": {
+   "kind": "steps",
+   "title": "Remove a field in order",
+   "steps": [
+    "Decide",
+    "Map everything that uses it",
+    "Handle “unknown” first",
+    "Remove the question",
+    "Drop the column later. Or never."
+   ],
+   "active": [
+    {
+     "t": 0,
+     "i": 4
+    }
+   ],
+   "dur": 6.333333333333333
+  }
+ },
+ {
+  "id": "s41",
+  "start": 267.32,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/06_drop_tests.mp4",
+   "w": 1486,
+   "h": 946,
+   "pieces": [
+    {
+     "d": 0.8,
+     "rate": 1,
+     "from": 3.1
+    },
+    {
+     "d": 99,
+     "rate": 1,
+     "from": 3.9
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      590,
+      1380,
+      262
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 1.769999999999925,
+     "t1": 3.589999999999975,
+     "r": [
+      0,
+      633,
+      1370,
+      42
+     ],
+     "kind": "box",
+     "dim": true
+    },
+    {
+     "t0": 3.589999999999975,
+     "t1": 99,
+     "r": [
+      0,
+      764,
+      1370,
+      42
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 6.6
+  }
+ },
+ {
+  "id": "s42",
+  "start": 273.94,
+  "props": {
+   "kind": "chapter",
+   "label": "Check it",
+   "title": "Verify",
+   "dur": 2.0
+  }
+ },
+ {
+  "id": "s43",
+  "start": 275.94,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/07_booking_process.mp4",
+   "w": 926,
+   "h": 910,
+   "pieces": [
+    {
+     "d": 7.3799999999999955,
+     "rate": 3.4552845528455305,
+     "from": 0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      926,
+      910
+     ]
+    },
+    {
+     "t": 5.018399999999997,
+     "r": [
+      20,
+      300,
+      640,
+      330
+     ]
+    }
+   ],
+   "dur": 7.4
+  }
+ },
+ {
+  "id": "s44",
+  "start": 283.32,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/07_auto_assign_to_ben.mp4",
+   "w": 1154,
+   "h": 152,
+   "pieces": [
+    {
+     "d": 99,
+     "rate": 1,
+     "from": 0
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.15,
+     "t1": 1.650000000000034,
+     "r": [
+      134,
+      62,
+      94,
+      30
+     ],
+     "kind": "box",
+     "dim": true
+    },
+    {
+     "t0": 1.650000000000034,
+     "t1": 2.85,
+     "r": [
+      914,
+      67,
+      210,
+      32
+     ],
+     "kind": "box",
+     "dim": true
+    },
+    {
+     "t0": 2.9,
+     "t1": 99,
+     "r": [
+      854,
+      66,
+      248,
+      34
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 4.466666666666667
+  }
+ },
+ {
+  "id": "s45",
+  "start": 287.79,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/07_dropdown_to_yes.mp4",
+   "w": 1344,
+   "h": 528,
+   "pieces": [
+    {
+     "d": 99,
+     "rate": 1,
+     "from": 2.07
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      240,
+      0,
+      1060,
+      228
+     ]
+    }
+   ],
+   "masks": [
+    {
+     "r": [
+      240,
+      137,
+      92,
+      96
+     ],
+     "color": "#FFFFFF"
+    },
+    {
+     "r": [
+      458,
+      137,
+      842,
+      96
+     ],
+     "color": "#FFFFFF"
+    },
+    {
+     "r": [
+      330,
+      137,
+      128,
+      96
+     ],
+     "color": "#FFFFFF",
+     "t0": 2.7800000000000678
+    }
+   ],
+   "hl": [
+    {
+     "t0": 3.400000000000034,
+     "t1": 99,
+     "r": [
+      800,
+      46,
+      200,
+      50
+     ],
+     "kind": "box",
+     "dim": true
+    }
+   ],
+   "dur": 4.7
+  }
+ },
+ {
+  "id": "s46",
+  "start": 292.5,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/07_old_entries_keep_info.mp4",
+   "w": 1618,
+   "h": 628,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 3.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      30,
+      0,
+      1445,
+      400
+     ]
+    }
+   ],
+   "hl": [
+    {
+     "t0": 0.2,
+     "t1": 99,
+     "r": [
+      495,
+      6,
+      680,
+      90
+     ],
+     "kind": "soft",
+     "dim": false
+    },
+    {
+     "t0": 0.2,
+     "t1": 99,
+     "r": [
+      495,
+      306,
+      680,
+      90
+     ],
+     "kind": "soft",
+     "dim": false
+    }
+   ],
+   "dur": 1.9666666666666666
+  }
+ },
+ {
+  "id": "s47",
+  "start": 294.48,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/06_blast_radius.mp4",
+   "w": 1490,
+   "h": 962,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 8.0
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      590,
+      1300,
+      180
+     ]
+    }
+   ],
+   "labels": [
+    {
+     "t0": 0.3,
+     "text": "✓ by decision: unknown = $0 fee",
+     "x": 1080,
+     "y": 514,
+     "kind": "panel",
+     "size": 30
+    },
+    {
+     "t0": 0.6,
+     "text": "✓ unchanged, fine",
+     "x": 1080,
+     "y": 602,
+     "kind": "panel",
+     "size": 30
+    }
+   ],
+   "dur": 3.533333333333333
+  }
+ },
+ {
+  "id": "s48",
+  "start": 298.01,
+  "props": {
+   "kind": "chapter",
+   "label": "Paste these",
+   "title": "Before you remove a field",
+   "dur": 2.0
+  }
+ },
+ {
+  "id": "s49",
+  "start": 300.01,
+  "props": {
+   "kind": "prompt",
+   "label": "Paste this prompt",
+   "title": "Prompt 1 · Map it",
+   "body": "Before changing anything: list every file, query, type, component, test, email template and API call that reads, writes or displays `has_pets` (also search for `hasPets`, `pets` and `pet_`). For each one, tell me what happens for new records where the value is null. Then tell me what you could NOT check, such as database functions, triggers or third-party services. Don't edit anything yet.",
+   "cps": 140,
+   "size": 32,
+   "dur": 13.9
+  }
+ },
+ {
+  "id": "s50",
+  "start": 313.89,
+  "props": {
+   "kind": "prompt",
+   "label": "Run this in the Supabase SQL editor",
+   "title": "Prompt 2 · The blast-radius query",
+   "body": "-- views that use the column (tracked by Postgres)\nselect 'view' as kind, view_schema::text as schema, view_name::text as name\nfrom information_schema.view_column_usage\nwhere table_schema = 'public' and table_name = 'bookings' and column_name = 'has_pets'\n\nunion all\n\n-- functions whose body mentions it (bodies are NOT dependency-tracked, so search the text)\nselect 'function', n.nspname::text, p.proname::text\nfrom pg_proc p\njoin pg_namespace n on n.oid = p.pronamespace\nwhere p.prosrc ilike '%has_pets%'\n  and n.nspname not in ('pg_catalog', 'information_schema')\n\nunion all\n\n-- RLS policies whose expressions mention it\nselect 'policy', schemaname::text, (tablename || '.' || policyname)::text\nfrom pg_policies\nwhere qual ilike '%has_pets%' or with_check ilike '%has_pets%'\n\nunion all\n\n-- every user trigger on the table (check what each function does)\nselect 'trigger on bookings', 'public', (t.tgname || ' -> ' || t.tgfoid::regproc::text)\nfrom pg_trigger t\nwhere t.tgrelid = 'public.bookings'::regclass and not t.tgisinternal\n\norder by 1, 3;",
+   "cps": 300,
+   "size": 18,
+   "note": "Full query in the description",
+   "dur": 12.733333333333333
+  }
+ },
+ {
+  "id": "s51",
+  "start": 326.64,
+  "props": {
+   "kind": "prompt",
+   "label": "Paste this prompt",
+   "title": "Prompt 3 · Make it safe",
+   "body": "We're removing the \"[question]\" question from the form. Existing records keep their value. New records store null, which means \"unknown\", not \"no\". Before removing the input, update every place that reads `[column]` so that null shows \"Unknown\", is flagged for a person to confirm, and never gets the \"no\" behaviour automatically. Then remove the input. Don't drop the column. Show me each change.",
+   "cps": 140,
+   "size": 32,
+   "dur": 14.3
+  }
+ },
+ {
+  "id": "s52",
+  "start": 340.94,
+  "props": {
+   "kind": "screen",
+   "src": "v_s1a/07_auto_assign_to_ben.mp4",
+   "w": 1154,
+   "h": 152,
+   "pieces": [
+    {
+     "d": 999,
+     "rate": 0,
+     "from": 5.5
+    }
+   ],
+   "cam": [
+    {
+     "t": 0,
+     "r": [
+      0,
+      0,
+      1154,
+      152
+     ]
+    },
+    {
+     "t": 0.1,
+     "r": [
+      100,
+      20,
+      1054,
+      132
+     ]
+    }
+   ],
+   "dur": 7.833333333333333
+  }
+ },
+ {
+  "id": "s53",
+  "start": 348.76,
+  "props": {
+   "kind": "outro",
+   "dur": 20.0
+  }
+ }
+]
